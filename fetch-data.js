@@ -47,76 +47,66 @@ async function fetchJson(url) {
     Accept: 'application/json'
   };
 
-  async function parseResponse(res, source) {
-    const body = await res.text();
-    const trimmed = body.trim();
-    if (!trimmed) {
-      throw new Error(`${source} returned empty body`);
-    }
-    if (trimmed[0] === '<') {
-      throw new Error(`${source} returned HTML instead of JSON`);
-    }
-    return JSON.parse(body);
-  }
-
-  // Try Reddit directly first.
+  const res = await fetchWithRetry(url, { headers }, 2);
+  const body = await res.text();
   try {
-    const res = await fetchWithRetry(url, { headers }, 2);
-    return await parseResponse(res, 'direct fetch');
-  } catch (directError) {
-    console.warn(`Direct fetch failed: ${directError.message}`);
+    return JSON.parse(body);
+  } catch (error) {
+    throw new Error(`Invalid JSON from ${url}: ${error.message}`);
+  }
+}
+
+function parseRssFeed(xmlText, sourceUrl) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xmlText, 'application/xml');
+  const parserError = doc.querySelector('parsererror');
+  if (parserError) {
+    throw new Error(`Invalid RSS XML from ${sourceUrl}`);
   }
 
-  const proxyCandidates = [
-    {
-      url: `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
-      parser: async proxyRes => {
-        const wrapper = await proxyRes.json();
-        if (!wrapper || typeof wrapper.contents !== 'string') {
-          throw new Error('Proxy returned unexpected wrapper');
-        }
-        if (!wrapper.contents.trim() || wrapper.contents.trim()[0] === '<') {
-          throw new Error('Proxy returned HTML or empty contents');
-        }
-        return JSON.parse(wrapper.contents);
-      }
-    },
-    {
-      url: `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
-      parser: async proxyRes => parseResponse(proxyRes, 'codetabs proxy')
-    },
-    {
-      url: `https://thingproxy.freeboard.io/fetch/${encodeURIComponent(url)}`,
-      parser: async proxyRes => parseResponse(proxyRes, 'thingproxy')
-    }
-  ];
-
-  let lastError;
-  for (const proxy of proxyCandidates) {
-    try {
-      const proxyRes = await fetchWithRetry(proxy.url, { headers }, 2);
-      return await proxy.parser(proxyRes);
-    } catch (proxyError) {
-      lastError = proxyError;
-    }
+  const items = Array.from(doc.querySelectorAll('item'));
+  if (items.length === 0) {
+    throw new Error(`No RSS items found in ${sourceUrl}`);
   }
 
-  throw new Error(`All fetch attempts failed for ${url}: ${lastError ? lastError.message : 'unknown error'}`);
+  return items.map(item => {
+    const title = item.querySelector('title')?.textContent?.trim() || '';
+    const link = item.querySelector('link')?.textContent?.trim() || '';
+    const permalink = link.startsWith('https://www.reddit.com')
+      ? link.replace(/^https?:\/\/www\.reddit\.com/, '')
+      : link;
+    const thumbnail = item.querySelector('media\:thumbnail')?.getAttribute('url')
+      || item.querySelector('thumbnail')?.getAttribute('url')
+      || '';
+
+    return {
+      title,
+      permalink,
+      score: null,
+      thumbnail,
+      url: link,
+      created_utc: null
+    };
+  });
+}
+
+async function fetchRss(url) {
+  const headers = {
+    'User-Agent': 'CoffeeTime-Bot/1.0 (https://github.com/ZdravkoGyurov/coffee-time)',
+    Accept: 'application/rss+xml, application/xml'
+  };
+
+  const res = await fetchWithRetry(url, { headers }, 2);
+  const body = await res.text();
+  return parseRssFeed(body, url);
 }
 
 async function fetchReddit() {
   const result = {};
   for (const subreddit of CONFIG.subreddits) {
-    const url = `https://www.reddit.com/r/${subreddit}/top.json?t=day&limit=${CONFIG.postsPerSubreddit}`;
-    const data = await fetchJson(url);
-    result[subreddit] = data.data.children.map(post => ({
-      title: post.data.title,
-      permalink: post.data.permalink,
-      score: post.data.score,
-      thumbnail: post.data.thumbnail,
-      url: post.data.url,
-      created_utc: post.data.created_utc
-    }));
+    const url = `https://www.reddit.com/r/${subreddit}/top/.rss?limit=${CONFIG.postsPerSubreddit}&t=day`;
+    const items = await fetchRss(url);
+    result[subreddit] = items;
   }
   result.generated_at = new Date().toISOString();
   return result;
@@ -136,6 +126,16 @@ async function fetchWeather() {
   return result;
 }
 
+async function loadJsonFile(fileName) {
+  const filePath = path.join(__dirname, "data", fileName);
+  try {
+    const content = await fs.readFile(filePath, "utf8");
+    return JSON.parse(content);
+  } catch {
+    return null;
+  }
+}
+
 async function writeData(fileName, data) {
   const filePath = path.join(__dirname, "data", fileName);
   await fs.mkdir(path.dirname(filePath), { recursive: true });
@@ -144,7 +144,24 @@ async function writeData(fileName, data) {
 
 async function main() {
   try {
-    const redditData = await fetchReddit();
+    let redditData;
+    try {
+      redditData = await fetchReddit();
+    } catch (redditError) {
+      console.warn("Reddit fetch failed:", redditError.message);
+      redditData = await loadJsonFile("reddit.json");
+      if (!redditData) {
+        console.warn("No existing reddit.json found; using empty reddit data.");
+        redditData = {
+          worldnews: [],
+          europe: [],
+          technology: [],
+          programming: [],
+          generated_at: new Date().toISOString()
+        };
+      }
+    }
+
     const weatherData = await fetchWeather();
     await writeData("reddit.json", redditData);
     await writeData("weather.json", weatherData);
