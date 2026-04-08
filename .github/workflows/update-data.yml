@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 */2 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -13,6 +16,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Install dependencies
+        run: npm install
       - name: Generate static data
         run: node fetch-data.js
       - name: Commit updated data
