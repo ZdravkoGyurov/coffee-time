@@ -43,19 +43,19 @@
   ],
   "europe": [
     {
-      "title": "JD Vance says EU is meddling in Hungary's election as he backs Orban in Budapest",
-      "permalink": "/r/europe/comments/1sf1bsa/jd_vance_says_eu_is_meddling_in_hungarys_election/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/wrwEZIb9F22Gsld4xrPP_DA4c1qxs8ZZJNk40de472c.jpeg?width=640&crop=smart&auto=webp&s=f04186c5a7c3dec10bc92b720d91dc5e1e66ff38",
-      "url": "https://www.reddit.com/r/europe/comments/1sf1bsa/jd_vance_says_eu_is_meddling_in_hungarys_election/",
-      "created_utc": null
-    },
-    {
       "title": "A bus stop in London, UK",
       "permalink": "/r/europe/comments/1sfno6j/a_bus_stop_in_london_uk/",
       "score": null,
       "thumbnail": "https://preview.redd.it/1vxiwvixnxtg1.jpeg?width=640&crop=smart&auto=webp&s=2262ea8bf04c6b89cfb944ce34166e5aceca844a",
       "url": "https://www.reddit.com/r/europe/comments/1sfno6j/a_bus_stop_in_london_uk/",
+      "created_utc": null
+    },
+    {
+      "title": "JD Vance says EU is meddling in Hungary's election as he backs Orban in Budapest",
+      "permalink": "/r/europe/comments/1sf1bsa/jd_vance_says_eu_is_meddling_in_hungarys_election/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/wrwEZIb9F22Gsld4xrPP_DA4c1qxs8ZZJNk40de472c.jpeg?width=640&crop=smart&auto=webp&s=f04186c5a7c3dec10bc92b720d91dc5e1e66ff38",
+      "url": "https://www.reddit.com/r/europe/comments/1sf1bsa/jd_vance_says_eu_is_meddling_in_hungarys_election/",
       "created_utc": null
     },
     {
@@ -143,14 +143,6 @@
       "created_utc": null
     },
     {
-      "title": "You can't cancel a JavaScript promise (except sometimes you can)",
-      "permalink": "/r/programming/comments/1sew9fx/you_cant_cancel_a_javascript_promise_except/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sew9fx/you_cant_cancel_a_javascript_promise_except/",
-      "created_utc": null
-    },
-    {
       "title": "\"What’s In It For Me\" Architecture",
       "permalink": "/r/programming/comments/1sezmr6/whats_in_it_for_me_architecture/",
       "score": null,
@@ -165,7 +157,15 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1sfozxd/multicore_by_default_by_ryan_fleury_digital_grove/",
       "created_utc": null
+    },
+    {
+      "title": "Beyond Indexes: How Open Table Formats Optimize Query Performance — Jack Vanlightly",
+      "permalink": "/r/programming/comments/1sfm3hs/beyond_indexes_how_open_table_formats_optimize/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1sfm3hs/beyond_indexes_how_open_table_formats_optimize/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-08T13:20:52.076Z"
+  "generated_at": "2026-04-08T13:47:41.262Z"
 }
