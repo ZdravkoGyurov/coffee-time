@@ -114,7 +114,6 @@ const newsDivId = "news";
 const subredditClassName = "subreddit";
 const postClassName = "post";
 const postTextClassName = "post-text";
-const scoreClassName = "post-score";
 
 // Weather code to description mapping (open-meteo codes)
 const WEATHER_CODES = {
@@ -191,15 +190,10 @@ function createPostElement(post) {
         ? `<img src="${post.thumbnail}" alt="post thumbnail">`
         : "";
 
-    const scoreHtml = post.score != null
-        ? `<span class="${scoreClassName}">↑ ${post.score}</span>`
-        : "";
-
     postDiv.innerHTML = `
         ${thumbnail}
         <span class="${postTextClassName}">
             <a href="${link}" target="_blank">${post.title}</a>
-            ${scoreHtml}
         </span>
     `;
     return postDiv;

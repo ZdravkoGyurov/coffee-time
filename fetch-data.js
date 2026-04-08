@@ -9,7 +9,7 @@ const CONFIG = {
     "technology",
     "programming"
   ],
-  postsPerSubreddit: 4,
+  postsPerSubreddit: 5,
   cities: [
     { name: "Varna", lat: 43.2141, lon: 27.9147 },
     { name: "Sofia", lat: 42.6977, lon: 23.3219 }
