@@ -127,13 +127,8 @@ body {
 
 .post-text a {
     color: var(--post-text);
-    text-decoration: none;
     font-size: 0.85rem;
     line-height: 1.2;
-}
-
-.post-text a:hover {
-    text-decoration: underline;
 }
 
 .post-score {
