@@ -47,27 +47,61 @@ async function fetchJson(url) {
     Accept: 'application/json'
   };
 
-  // Try Reddit directly first.
-  let res;
-  try {
-    res = await fetchWithRetry(url, { headers }, 2);
+  async function parseResponse(res, source) {
     const body = await res.text();
-    return JSON.parse(body);
-  } catch (directError) {
-    // fallback to proxy if direct access fails
-    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
-    const proxyRes = await fetchWithRetry(proxyUrl, { headers }, 2);
-    const wrapper = await proxyRes.json();
-    if (!wrapper || typeof wrapper.contents !== 'string') {
-      throw new Error(`Proxy returned unexpected wrapper for ${url}`);
+    const trimmed = body.trim();
+    if (!trimmed) {
+      throw new Error(`${source} returned empty body`);
     }
+    if (trimmed[0] === '<') {
+      throw new Error(`${source} returned HTML instead of JSON`);
+    }
+    return JSON.parse(body);
+  }
+
+  // Try Reddit directly first.
+  try {
+    const res = await fetchWithRetry(url, { headers }, 2);
+    return await parseResponse(res, 'direct fetch');
+  } catch (directError) {
+    console.warn(`Direct fetch failed: ${directError.message}`);
+  }
+
+  const proxyCandidates = [
+    {
+      url: `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
+      parser: async proxyRes => {
+        const wrapper = await proxyRes.json();
+        if (!wrapper || typeof wrapper.contents !== 'string') {
+          throw new Error('Proxy returned unexpected wrapper');
+        }
+        if (!wrapper.contents.trim() || wrapper.contents.trim()[0] === '<') {
+          throw new Error('Proxy returned HTML or empty contents');
+        }
+        return JSON.parse(wrapper.contents);
+      }
+    },
+    {
+      url: `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+      parser: async proxyRes => parseResponse(proxyRes, 'codetabs proxy')
+    },
+    {
+      url: `https://thingproxy.freeboard.io/fetch/${encodeURIComponent(url)}`,
+      parser: async proxyRes => parseResponse(proxyRes, 'thingproxy')
+    }
+  ];
+
+  let lastError;
+  for (const proxy of proxyCandidates) {
     try {
-      return JSON.parse(wrapper.contents);
-    } catch (error) {
-      const snippet = wrapper.contents.slice(0, 200).replace(/\n/g, ' ');
-      throw new Error(`Invalid JSON from proxy for ${url}: ${error.message}. Response snippet: ${snippet}`);
+      const proxyRes = await fetchWithRetry(proxy.url, { headers }, 2);
+      return await proxy.parser(proxyRes);
+    } catch (proxyError) {
+      lastError = proxyError;
     }
   }
+
+  throw new Error(`All fetch attempts failed for ${url}: ${lastError ? lastError.message : 'unknown error'}`);
 }
 
 async function fetchReddit() {
