@@ -16,7 +16,11 @@ const CONFIG = {
 };
 
 async function fetchJson(url) {
-  const res = await fetch(url);
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent': 'CoffeeTime-Bot/1.0 (https://github.com/ZdravkoGyurov/coffee-time)'
+    }
+  });
   if (!res.ok) {
     throw new Error(`Fetch failed: ${url} (${res.status})`);
   }
