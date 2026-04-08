@@ -60,25 +60,28 @@ async function fetchJson(url) {
 function parseRssFeed(xmlText, sourceUrl) {
   const parser = new DOMParser();
   const doc = parser.parseFromString(xmlText, 'application/xml');
-  const parserError = doc.querySelector('parsererror');
-  if (parserError) {
+  
+  // Check for parser errors using xmldom's approach
+  if (doc.documentElement.nodeName === 'parsererror') {
     throw new Error(`Invalid RSS XML from ${sourceUrl}`);
   }
 
-  const items = Array.from(doc.querySelectorAll('item'));
+  const items = Array.from(doc.getElementsByTagName('item'));
   if (items.length === 0) {
     throw new Error(`No RSS items found in ${sourceUrl}`);
   }
 
   return items.map(item => {
-    const title = item.querySelector('title')?.textContent?.trim() || '';
-    const link = item.querySelector('link')?.textContent?.trim() || '';
+    const titleEl = item.getElementsByTagName('title')[0];
+    const linkEl = item.getElementsByTagName('link')[0];
+    const thumbnailEl = item.getElementsByTagNameNS('http://search.yahoo.com/mrss/', 'thumbnail')[0];
+    
+    const title = titleEl?.textContent?.trim() || '';
+    const link = linkEl?.textContent?.trim() || '';
     const permalink = link.startsWith('https://www.reddit.com')
       ? link.replace(/^https?:\/\/www\.reddit\.com/, '')
       : link;
-    const thumbnail = item.querySelector('media\:thumbnail')?.getAttribute('url')
-      || item.querySelector('thumbnail')?.getAttribute('url')
-      || '';
+    const thumbnail = thumbnailEl?.getAttribute('url') || '';
 
     return {
       title,
