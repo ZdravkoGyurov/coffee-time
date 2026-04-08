@@ -15,6 +15,32 @@ const CONFIG = {
   ]
 };
 
+async function fetchWithRetry(url, options = {}, retries = 2) {
+  let lastError;
+
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 15000);
+
+    try {
+      const res = await fetch(url, { ...options, signal: controller.signal });
+      clearTimeout(timeoutId);
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status} ${res.statusText}`);
+      }
+      return res;
+    } catch (error) {
+      clearTimeout(timeoutId);
+      lastError = error;
+      if (attempt === retries) {
+        throw new Error(`Fetch failed for ${url} after ${attempt} attempts: ${error.message}`);
+      }
+    }
+  }
+
+  throw lastError;
+}
+
 async function fetchJson(url) {
   const headers = {
     'User-Agent': 'CoffeeTime-Bot/1.0 (https://github.com/ZdravkoGyurov/coffee-time)',
@@ -22,33 +48,25 @@ async function fetchJson(url) {
   };
 
   // Try Reddit directly first.
-  let res = await fetch(url, { headers });
-  let body = await res.text();
-  if (res.ok) {
-    try {
-      return JSON.parse(body);
-    } catch (error) {
-      throw new Error(`Invalid JSON from direct fetch ${url}: ${error.message}`);
-    }
-  }
-
-  // Fallback to a proxy if direct access is blocked.
-  const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
-  res = await fetch(proxyUrl, { headers });
-  if (!res.ok) {
-    throw new Error(`Proxy fetch failed: ${proxyUrl} (${res.status})`);
-  }
-
-  const wrapper = await res.json();
-  if (!wrapper || typeof wrapper.contents !== "string") {
-    throw new Error(`Proxy returned unexpected wrapper for ${url}`);
-  }
-
+  let res;
   try {
-    return JSON.parse(wrapper.contents);
-  } catch (error) {
-    const snippet = wrapper.contents.slice(0, 200).replace(/\n/g, " ");
-    throw new Error(`Invalid JSON from proxy for ${url}: ${error.message}. Response snippet: ${snippet}`);
+    res = await fetchWithRetry(url, { headers }, 2);
+    const body = await res.text();
+    return JSON.parse(body);
+  } catch (directError) {
+    // fallback to proxy if direct access fails
+    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+    const proxyRes = await fetchWithRetry(proxyUrl, { headers }, 2);
+    const wrapper = await proxyRes.json();
+    if (!wrapper || typeof wrapper.contents !== 'string') {
+      throw new Error(`Proxy returned unexpected wrapper for ${url}`);
+    }
+    try {
+      return JSON.parse(wrapper.contents);
+    } catch (error) {
+      const snippet = wrapper.contents.slice(0, 200).replace(/\n/g, ' ');
+      throw new Error(`Invalid JSON from proxy for ${url}: ${error.message}. Response snippet: ${snippet}`);
+    }
   }
 }
 
