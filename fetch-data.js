@@ -66,22 +66,37 @@ function parseRssFeed(xmlText, sourceUrl) {
     throw new Error(`Invalid RSS XML from ${sourceUrl}`);
   }
 
-  const items = Array.from(doc.getElementsByTagName('item'));
+  // Support both Atom (<entry>) and RSS (<item>)
+  let items = Array.from(doc.getElementsByTagName('entry'));
+  if (items.length === 0) {
+    items = Array.from(doc.getElementsByTagName('item'));
+  }
+  
   if (items.length === 0) {
     throw new Error(`No RSS items found in ${sourceUrl}`);
   }
 
   return items.map(item => {
     const titleEl = item.getElementsByTagName('title')[0];
+    
+    // For Atom feeds: link is an attribute on <link> element
+    let link = '';
     const linkEl = item.getElementsByTagName('link')[0];
-    const thumbnailEl = item.getElementsByTagNameNS('http://search.yahoo.com/mrss/', 'thumbnail')[0];
+    if (linkEl) {
+      link = linkEl.getAttribute('href') || linkEl.textContent?.trim() || '';
+    }
+    
+    // Try to get thumbnail from media:thumbnail
+    let thumbnail = '';
+    const mediaElements = item.getElementsByTagNameNS('http://search.yahoo.com/mrss/', 'thumbnail');
+    if (mediaElements.length > 0) {
+      thumbnail = mediaElements[0].getAttribute('url') || '';
+    }
     
     const title = titleEl?.textContent?.trim() || '';
-    const link = linkEl?.textContent?.trim() || '';
     const permalink = link.startsWith('https://www.reddit.com')
       ? link.replace(/^https?:\/\/www\.reddit\.com/, '')
       : link;
-    const thumbnail = thumbnailEl?.getAttribute('url') || '';
 
     return {
       title,
