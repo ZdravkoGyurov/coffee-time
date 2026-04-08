@@ -1,14 +1,6 @@
 {
   "worldnews": [
     {
-      "title": "Trump suspends Iran attack for two weeks, subject to Hormuz Strait opening",
-      "permalink": "/r/worldnews/comments/1sfb4mf/trump_suspends_iran_attack_for_two_weeks_subject/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/v7EAM-epJO4Al8bbiKNr1czLvFQ4BgC0D8g6D8YJ_VA.png?width=640&crop=smart&auto=webp&s=1cace8352728d5686ba5073bc9027e2bec05d00d",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sfb4mf/trump_suspends_iran_attack_for_two_weeks_subject/",
-      "created_utc": null
-    },
-    {
       "title": "Sánchez to Trump: Spain won’t ‘applaud those who set the world on fire just because they then show up with a bucket’",
       "permalink": "/r/worldnews/comments/1sfsvz4/sánchez_to_trump_spain_wont_applaud_those_who_set/",
       "score": null,
@@ -33,11 +25,19 @@
       "created_utc": null
     },
     {
-      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
-      "permalink": "/r/worldnews/comments/1sf9kqk/jd_vance_accuses_eu_of_interference_as_he_visits/",
+      "title": "Israel's opposition slams Netanyahu's 'political disaster', 'strategic failure' in Iran - Region - World",
+      "permalink": "/r/worldnews/comments/1sfojeb/israels_opposition_slams_netanyahus_political/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/J-HTetbPMEkj3BkTjmrT1Pu2r0ei7eZ9Kqw7ELVX0RQ.jpeg?width=640&crop=smart&auto=webp&s=f05bb9ef4f9cbd66486a2e1a9b0f7aee17d1b864",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sf9kqk/jd_vance_accuses_eu_of_interference_as_he_visits/",
+      "thumbnail": "https://external-preview.redd.it/mgu1CO-WFd1Q70PGh_Jy8gsnL3w-pTR9i9Ck6qMPOJc.jpeg?width=640&crop=smart&auto=webp&s=e8705b52b20d620f4212f3bd9be3bf02b1e04aae",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sfojeb/israels_opposition_slams_netanyahus_political/",
+      "created_utc": null
+    },
+    {
+      "title": "Germany accuses JD Vance of hypocrisy over claim that EU meddled in Hungary’s election",
+      "permalink": "/r/worldnews/comments/1sftyfq/germany_accuses_jd_vance_of_hypocrisy_over_claim/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/rirGiRMuYBPlZYPYQQrIRLonmgBssgxvlfxncrVhMt4.jpeg?width=640&crop=smart&auto=webp&s=363bdeac5529da003f7e84813f2c5d80f9e279f6",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sftyfq/germany_accuses_jd_vance_of_hypocrisy_over_claim/",
       "created_utc": null
     }
   ],
@@ -59,19 +59,19 @@
       "created_utc": null
     },
     {
-      "title": "If Hungary's opposition aren't declared winners of the upcoming election, what are the chances of major civil unrest?",
-      "permalink": "/r/europe/comments/1sf9vw4/if_hungarys_opposition_arent_declared_winners_of/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/Mp8hCZbk_4dw72RaTaPYtwoHmIf4BlSDfGtLUoOtDJI.jpeg?width=640&crop=smart&auto=webp&s=46f8eadd7115621ea7372dd239d5901f019bd217",
-      "url": "https://www.reddit.com/r/europe/comments/1sf9vw4/if_hungarys_opposition_arent_declared_winners_of/",
-      "created_utc": null
-    },
-    {
       "title": "Chinese man arrested for taking photos of Polish railway infrastructure",
       "permalink": "/r/europe/comments/1sfpmnw/chinese_man_arrested_for_taking_photos_of_polish/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/1MBUl5LAfLz8SHHP4d0Fj059bSfiZeMuy2Yyi9eyWNo.jpeg?width=640&crop=smart&auto=webp&s=ece3156b2bc64721e0d338683c2cc783cf884604",
       "url": "https://www.reddit.com/r/europe/comments/1sfpmnw/chinese_man_arrested_for_taking_photos_of_polish/",
+      "created_utc": null
+    },
+    {
+      "title": "Largest Dutch pension fund cuts ties with controversial tech firm Palantir",
+      "permalink": "/r/europe/comments/1sg0i3f/largest_dutch_pension_fund_cuts_ties_with/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/bjuP4GnyB79Vr5VorqCWL3eSZP9NP6ZGOrgfJgWbXkg.jpeg?width=640&crop=smart&auto=webp&s=61b155129fea289d8e5d2da55225d7e7c7d26299",
+      "url": "https://www.reddit.com/r/europe/comments/1sg0i3f/largest_dutch_pension_fund_cuts_ties_with/",
       "created_utc": null
     },
     {
@@ -127,6 +127,14 @@
   ],
   "programming": [
     {
+      "title": "Fake It Until You Break It: The End Of Non-Technical Managers In Software Engineering Dawns",
+      "permalink": "/r/programming/comments/1sg5gss/fake_it_until_you_break_it_the_end_of/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1sg5gss/fake_it_until_you_break_it_the_end_of/",
+      "created_utc": null
+    },
+    {
       "title": "I Am Very Fond of the Pipeline Operator",
       "permalink": "/r/programming/comments/1sfoqwq/i_am_very_fond_of_the_pipeline_operator/",
       "score": null,
@@ -143,29 +151,21 @@
       "created_utc": null
     },
     {
-      "title": "Floating point from scratch: Hard Mode",
-      "permalink": "/r/programming/comments/1sfr2i0/floating_point_from_scratch_hard_mode/",
+      "title": "How Pizza Tycoon (1994) simulated traffic on a 25 MHz CPU",
+      "permalink": "/r/programming/comments/1sg6y9x/how_pizza_tycoon_1994_simulated_traffic_on_a_25/",
       "score": null,
       "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sfr2i0/floating_point_from_scratch_hard_mode/",
+      "url": "https://www.reddit.com/r/programming/comments/1sg6y9x/how_pizza_tycoon_1994_simulated_traffic_on_a_25/",
       "created_utc": null
     },
     {
-      "title": "Beyond Indexes: How Open Table Formats Optimize Query Performance — Jack Vanlightly",
-      "permalink": "/r/programming/comments/1sfm3hs/beyond_indexes_how_open_table_formats_optimize/",
+      "title": "Absurd Workflows: Durable Execution With Just Postgres",
+      "permalink": "/r/programming/comments/1sg5koq/absurd_workflows_durable_execution_with_just/",
       "score": null,
       "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sfm3hs/beyond_indexes_how_open_table_formats_optimize/",
-      "created_utc": null
-    },
-    {
-      "title": "Building a Rust runtime for Typescript",
-      "permalink": "/r/programming/comments/1sfuoj2/building_a_rust_runtime_for_typescript/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sfuoj2/building_a_rust_runtime_for_typescript/",
+      "url": "https://www.reddit.com/r/programming/comments/1sg5koq/absurd_workflows_durable_execution_with_just/",
       "created_utc": null
     }
   ],
-  "generated_at": "2026-04-08T20:53:41.004Z"
+  "generated_at": "2026-04-08T22:50:27.562Z"
 }
