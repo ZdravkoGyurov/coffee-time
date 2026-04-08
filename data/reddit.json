@@ -1,14 +1,6 @@
 {
   "worldnews": [
     {
-      "title": "Pope Leo calls Trump's threat against Iran 'truly unacceptable'",
-      "permalink": "/r/worldnews/comments/1sf6j7i/pope_leo_calls_trumps_threat_against_iran_truly/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/hkUgi1hSm151lLMNH56CwsK_1h3CNmAn_HAbvg_8FjM.jpeg?width=640&crop=smart&auto=webp&s=fae3f44b9ad921e0345faa8703237023f6da09d9",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sf6j7i/pope_leo_calls_trumps_threat_against_iran_truly/",
-      "created_utc": null
-    },
-    {
       "title": "Trump suspends Iran attack for two weeks, subject to Hormuz Strait opening",
       "permalink": "/r/worldnews/comments/1sfb4mf/trump_suspends_iran_attack_for_two_weeks_subject/",
       "score": null,
@@ -30,6 +22,14 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/XcvCtvrP__00u6CNeZnF7cSELP63CorPEb4eIA-k790.jpeg?width=640&crop=smart&auto=webp&s=72135ca9e81145c5f0c5ef2f48811c78adbb9f8b",
       "url": "https://www.reddit.com/r/worldnews/comments/1sfwa3s/iran_halts_strait_of_hormuz_traffic_warns_over/",
+      "created_utc": null
+    },
+    {
+      "title": "Trump announces 50% tariffs on nations supplying Iran with weapons",
+      "permalink": "/r/worldnews/comments/1sfqjm2/trump_announces_50_tariffs_on_nations_supplying/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/s2_g9s5YrYRzKPHTCjREBvtD2LxM4HCQOsqMz-RIdcg.jpeg?width=640&crop=smart&auto=webp&s=fb6ee7a9e0a0c18c8f7ed379ba7e1a13e6ad5efb",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sfqjm2/trump_announces_50_tariffs_on_nations_supplying/",
       "created_utc": null
     },
     {
@@ -93,14 +93,6 @@
       "created_utc": null
     },
     {
-      "title": "Oracle Appoints Hilary Maxson As CFO With $29.7 Million Package After Firing 30,000 Employees",
-      "permalink": "/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/-1-AIDnvAiytEd3T4p8d-_oPDbcAR7HSA6SYKjUTI18.jpeg?width=640&crop=smart&auto=webp&s=da8c10efd8d132ab80cd879dfedcd5a291bd4e00",
-      "url": "https://www.reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/",
-      "created_utc": null
-    },
-    {
       "title": "Texas is giving data centers more than $1 billion in tax breaks each year",
       "permalink": "/r/technology/comments/1sfopl9/texas_is_giving_data_centers_more_than_1_billion/",
       "score": null,
@@ -109,11 +101,19 @@
       "created_utc": null
     },
     {
-      "title": "Data Centers Are Military Targets Now",
-      "permalink": "/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/",
+      "title": "John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement",
+      "permalink": "/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/K1wn6Y1X1g5BM1ZaE60xEGSbZH1gldpFGTW0fVT36UY.jpeg?width=640&crop=smart&auto=webp&s=4c90f60c354ae1c2d6804759d173b9bb3466be3c",
-      "url": "https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/",
+      "thumbnail": "https://external-preview.redd.it/uWfgzymaDwS1-48-oCdZVUz6NPa8_dTR6viuf1sATuM.jpeg?width=640&crop=smart&auto=webp&s=5653e8e6619e0de7e76e0bdb9d131f6c0a3d0feb",
+      "url": "https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/",
+      "created_utc": null
+    },
+    {
+      "title": "Republicans fooled by AI-generated image of US airman rescued in Iran - Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on X",
+      "permalink": "/r/technology/comments/1sfuk9g/republicans_fooled_by_aigenerated_image_of_us/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/-B2xtLe8EnHIjyEeiGWK_Zt4QWKMXfxkhfB9BN4kXBw.jpeg?width=640&crop=smart&auto=webp&s=804fc19f1ceffad0ad4f0ee5928aede6ae27eb6f",
+      "url": "https://www.reddit.com/r/technology/comments/1sfuk9g/republicans_fooled_by_aigenerated_image_of_us/",
       "created_utc": null
     },
     {
@@ -167,5 +167,5 @@
       "created_utc": null
     }
   ],
-  "generated_at": "2026-04-08T19:26:21.314Z"
+  "generated_at": "2026-04-08T20:53:41.004Z"
 }
