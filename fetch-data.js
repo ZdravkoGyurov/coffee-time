@@ -16,7 +16,9 @@ const CONFIG = {
 };
 
 async function fetchJson(url) {
-  const res = await fetch(url, {
+  // Use a CORS proxy to bypass Reddit's restrictions
+  const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+  const res = await fetch(proxyUrl, {
     headers: {
       'User-Agent': 'CoffeeTime-Bot/1.0 (https://github.com/ZdravkoGyurov/coffee-time)'
     }
