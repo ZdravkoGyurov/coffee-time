@@ -16,17 +16,40 @@ const CONFIG = {
 };
 
 async function fetchJson(url) {
-  // Use a CORS proxy to bypass Reddit's restrictions
-  const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
-  const res = await fetch(proxyUrl, {
-    headers: {
-      'User-Agent': 'CoffeeTime-Bot/1.0 (https://github.com/ZdravkoGyurov/coffee-time)'
+  const headers = {
+    'User-Agent': 'CoffeeTime-Bot/1.0 (https://github.com/ZdravkoGyurov/coffee-time)',
+    Accept: 'application/json'
+  };
+
+  // Try Reddit directly first.
+  let res = await fetch(url, { headers });
+  let body = await res.text();
+  if (res.ok) {
+    try {
+      return JSON.parse(body);
+    } catch (error) {
+      throw new Error(`Invalid JSON from direct fetch ${url}: ${error.message}`);
     }
-  });
-  if (!res.ok) {
-    throw new Error(`Fetch failed: ${url} (${res.status})`);
   }
-  return res.json();
+
+  // Fallback to a proxy if direct access is blocked.
+  const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+  res = await fetch(proxyUrl, { headers });
+  if (!res.ok) {
+    throw new Error(`Proxy fetch failed: ${proxyUrl} (${res.status})`);
+  }
+
+  const wrapper = await res.json();
+  if (!wrapper || typeof wrapper.contents !== "string") {
+    throw new Error(`Proxy returned unexpected wrapper for ${url}`);
+  }
+
+  try {
+    return JSON.parse(wrapper.contents);
+  } catch (error) {
+    const snippet = wrapper.contents.slice(0, 200).replace(/\n/g, " ");
+    throw new Error(`Invalid JSON from proxy for ${url}: ${error.message}. Response snippet: ${snippet}`);
+  }
 }
 
 async function fetchReddit() {
