@@ -1,0 +1,28 @@
+name: Update static site data
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Generate static data
+        run: node fetch-data.js
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/reddit.json data/weather.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update generated static data"
+            git push
+          else
+            echo "No data changes to commit"
+          fi
