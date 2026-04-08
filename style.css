@@ -1,0 +1,175 @@
+:root {
+    --bg-color: #f5efe6;
+    --text-color: #3b2a1a;
+    --header-bg: #6f4e37;
+    --header-text: #f5efe6;
+    --subreddit-header: #6f4e37;
+    --border-color: #c9a87c;
+    --post-text: #3b2a1a;
+    --score-color: #8b5e3c;
+}
+
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.8rem 1rem;
+    background-color: var(--header-bg);
+    color: var(--header-text);
+}
+
+#header h2 {
+    margin: 0;
+    color: var(--header-text);
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
+#header p {
+    margin: 0;
+    color: var(--header-text);
+    font-size: 0.85rem;
+}
+
+#main {
+    display: flex;
+    width: 100%;
+}
+
+#news {
+    width: 70%;
+    padding: 0.8rem;
+    background-color: var(--bg-color);
+}
+
+#info {
+    width: 30%;
+    padding: 0.8rem;
+    background-color: var(--bg-color);
+}
+
+#weather {
+    margin-bottom: 1rem;
+    padding: 0.6rem;
+    background-color: var(--bg-color);
+}
+
+#weather h3 {
+    margin: 0 0 0.5rem 0;
+    color: var(--subreddit-header);
+    font-size: 0.95rem;
+    font-weight: bold;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+#weather p {
+    margin: 0.3rem 0;
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
+
+#workout {
+    margin-bottom: 1rem;
+    padding: 0.6rem;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-size: 0.9rem;
+}
+
+.subreddit {
+    margin-bottom: 1rem;
+    padding: 0.6rem;
+    background-color: var(--bg-color);
+}
+
+.subreddit h3 {
+    margin: 0 0 0.5rem 0;
+    color: var(--subreddit-header);
+    font-size: 0.95rem;
+    font-weight: bold;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.post {
+    display: flex;
+    gap: 0.4rem;
+    margin-bottom: 0.3rem;
+}
+
+.post:last-child {
+    margin-bottom: 0;
+    border-bottom: none;
+}
+
+.post img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 3px;
+    flex-shrink: 0;
+}
+
+.post-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.post-text a {
+    color: var(--post-text);
+    text-decoration: none;
+    font-size: 0.85rem;
+    line-height: 1.2;
+}
+
+.post-text a:hover {
+    text-decoration: underline;
+}
+
+.post-score {
+    font-size: 0.75rem;
+    color: var(--score-color);
+    margin-top: 0.2rem;
+}
+
+.weather-city {
+    margin-bottom: 0.5rem;
+}
+
+#workout h3 {
+    margin: 0 0 0.5rem 0;
+    color: var(--subreddit-header);
+    font-size: 0.95rem;
+    font-weight: bold;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+#workout h4 {
+    margin: 0.4rem 0 0.3rem 0;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: var(--text-color);
+}
+
+#workout ul {
+    margin: 0.3rem 0;
+    padding-left: 1.2rem;
+    list-style-type: decimal;
+}
+
+#workout li {
+    margin-bottom: 0.2rem;
+    font-size: 0.85rem;
+    color: var(--text-color);
+}

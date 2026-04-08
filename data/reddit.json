@@ -1,0 +1,139 @@
+{
+  "worldnews": [
+    {
+      "title": "Major Climate Summit Reaches Historic Agreement",
+      "permalink": "/r/worldnews/comments/abc123/major_climate_summit/",
+      "score": 28490,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/climate",
+      "created_utc": 1712582400
+    },
+    {
+      "title": "New Species Discovered in Amazon Rainforest",
+      "permalink": "/r/worldnews/comments/def456/new_species/",
+      "score": 19834,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/species",
+      "created_utc": 1712579200
+    },
+    {
+      "title": "International Trade Agreement Signed",
+      "permalink": "/r/worldnews/comments/ghi789/trade_agreement/",
+      "score": 15672,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/trade",
+      "created_utc": 1712576000
+    },
+    {
+      "title": "Tech Company Announces Revolutionary Breakthrough",
+      "permalink": "/r/worldnews/comments/jkl012/tech_breakthrough/",
+      "score": 21456,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/tech",
+      "created_utc": 1712572800
+    }
+  ],
+  "europe": [
+    {
+      "title": "European Parliament Votes on New Privacy Law",
+      "permalink": "/r/europe/comments/mno345/privacy_law/",
+      "score": 12340,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/privacy",
+      "created_utc": 1712582400
+    },
+    {
+      "title": "Record Spring Temperatures Across Europe",
+      "permalink": "/r/europe/comments/pqr678/spring_temps/",
+      "score": 9876,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/temps",
+      "created_utc": 1712579200
+    },
+    {
+      "title": "New Railway Connection Opens Between Nations",
+      "permalink": "/r/europe/comments/stu901/railway/",
+      "score": 11234,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/railway",
+      "created_utc": 1712576000
+    },
+    {
+      "title": "Cultural Festival Draws Thousands of Visitors",
+      "permalink": "/r/europe/comments/vwx234/festival/",
+      "score": 8765,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/festival",
+      "created_utc": 1712572800
+    }
+  ],
+  "technology": [
+    {
+      "title": "New AI Model Shows 50x Performance Improvement",
+      "permalink": "/r/technology/comments/yza567/ai_model/",
+      "score": 34567,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/ai",
+      "created_utc": 1712582400
+    },
+    {
+      "title": "Smartphone Manufacturer Announces Budget-Friendly Flagship",
+      "permalink": "/r/technology/comments/bcd890/smartphone/",
+      "score": 19876,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/phone",
+      "created_utc": 1712579200
+    },
+    {
+      "title": "Battery Technology Reaches New Efficiency Record",
+      "permalink": "/r/technology/comments/efg123/battery/",
+      "score": 25643,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/battery",
+      "created_utc": 1712576000
+    },
+    {
+      "title": "Open Source Project Hits 1 Million GitHub Stars",
+      "permalink": "/r/technology/comments/hij456/opensource/",
+      "score": 15234,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/opensource",
+      "created_utc": 1712572800
+    }
+  ],
+  "programming": [
+    {
+      "title": "New Rust Feature Stabilized After Years of Development",
+      "permalink": "/r/programming/comments/klm789/rust_feature/",
+      "score": 8934,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/rust",
+      "created_utc": 1712582400
+    },
+    {
+      "title": "WebAssembly Gets Major Performance Boost",
+      "permalink": "/r/programming/comments/nop012/wasm/",
+      "score": 11234,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/wasm",
+      "created_utc": 1712579200
+    },
+    {
+      "title": "Framework Simplifies Complex State Management",
+      "permalink": "/r/programming/comments/qrs345/framework/",
+      "score": 7654,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/framework",
+      "created_utc": 1712576000
+    },
+    {
+      "title": "Developer Tools Update Improves Build Speed by 40%",
+      "permalink": "/r/programming/comments/tuv678/devtools/",
+      "score": 13456,
+      "thumbnail": "https://via.placeholder.com/100",
+      "url": "https://example.com/devtools",
+      "created_utc": 1712572800
+    }
+  ],
+  "generated_at": "2026-04-08T12:00:00.000Z"
+}

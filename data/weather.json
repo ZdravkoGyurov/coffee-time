@@ -1,0 +1,27 @@
+{
+  "cities": [
+    {
+      "name": "Varna",
+      "current_weather": {
+        "temperature": 14.2,
+        "windspeed": 12.5,
+        "winddirection": 215,
+        "weathercode": 80,
+        "is_day": 1,
+        "time": "2026-04-08T12:00"
+      }
+    },
+    {
+      "name": "Sofia",
+      "current_weather": {
+        "temperature": 18.5,
+        "windspeed": 8.3,
+        "winddirection": 180,
+        "weathercode": 3,
+        "is_day": 1,
+        "time": "2026-04-08T12:00"
+      }
+    }
+  ],
+  "generated_at": "2026-04-08T12:00:00.000Z"
+}
