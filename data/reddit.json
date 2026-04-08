@@ -1,14 +1,6 @@
 {
   "worldnews": [
     {
-      "title": "Iran cuts all diplomatic channels with US ahead of Trump’s Strait of Hormuz deadline",
-      "permalink": "/r/worldnews/comments/1sey6ua/iran_cuts_all_diplomatic_channels_with_us_ahead/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/mwVHfxPjsQOMGOsADFcq8O9tUFKCo0n3BarfvJaZAi0.jpeg?width=640&crop=smart&auto=webp&s=6b3c09d33efdbeb172b7e1d6b3d54eaf174bbb19",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sey6ua/iran_cuts_all_diplomatic_channels_with_us_ahead/",
-      "created_utc": null
-    },
-    {
       "title": "Pope Leo calls Trump's threat against Iran 'truly unacceptable'",
       "permalink": "/r/worldnews/comments/1sf6j7i/pope_leo_calls_trumps_threat_against_iran_truly/",
       "score": null,
@@ -38,6 +30,14 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/J-HTetbPMEkj3BkTjmrT1Pu2r0ei7eZ9Kqw7ELVX0RQ.jpeg?width=640&crop=smart&auto=webp&s=f05bb9ef4f9cbd66486a2e1a9b0f7aee17d1b864",
       "url": "https://www.reddit.com/r/worldnews/comments/1sf9kqk/jd_vance_accuses_eu_of_interference_as_he_visits/",
+      "created_utc": null
+    },
+    {
+      "title": "Iranians form human chains at power plants",
+      "permalink": "/r/worldnews/comments/1sf97ya/iranians_form_human_chains_at_power_plants/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/bal2WJDb-RRhZTlE2-UC2vRkhmEtwBSwQuVBnsnVWn4.jpeg?width=640&crop=smart&auto=webp&s=1bb5778e164d411eb7703f350aae0f138447539d",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sf97ya/iranians_form_human_chains_at_power_plants/",
       "created_utc": null
     }
   ],
@@ -117,11 +117,11 @@
       "created_utc": null
     },
     {
-      "title": "Sony Pictures Entertainment to Lay Off Hundreds in Massive Reorganization Across TV, Film and Corporate",
-      "permalink": "/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/",
+      "title": "Texas is giving data centers more than $1 billion in tax breaks each year",
+      "permalink": "/r/technology/comments/1sfopl9/texas_is_giving_data_centers_more_than_1_billion/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/tBs8-bO2dwd5yDXsBUT1VZ7cPFocgc8UPyINxPlSLJU.jpeg?width=640&crop=smart&auto=webp&s=73103102d1f286ea872ae4f14838fe2141a6d7bd",
-      "url": "https://www.reddit.com/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/",
+      "thumbnail": "https://external-preview.redd.it/Z5j5RKmmxRr5jbRqeoQgGDlz_6JazEUxKFi62vzkT9E.jpeg?width=640&crop=smart&auto=webp&s=9f2f046e6f89ea2913e5877e2d90cfac5b2ab916",
+      "url": "https://www.reddit.com/r/technology/comments/1sfopl9/texas_is_giving_data_centers_more_than_1_billion/",
       "created_utc": null
     }
   ],
@@ -132,14 +132,6 @@
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1sfoqwq/i_am_very_fond_of_the_pipeline_operator/",
-      "created_utc": null
-    },
-    {
-      "title": "DeiMOS - A superoptimizer for the MOS 6502",
-      "permalink": "/r/programming/comments/1sey2z5/deimos_a_superoptimizer_for_the_mos_6502/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sey2z5/deimos_a_superoptimizer_for_the_mos_6502/",
       "created_utc": null
     },
     {
@@ -165,7 +157,15 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1sfm3hs/beyond_indexes_how_open_table_formats_optimize/",
       "created_utc": null
+    },
+    {
+      "title": "Benchmark: pgvector vs Pinecone vs Qdrant vs Weaviate",
+      "permalink": "/r/programming/comments/1sfv4xw/benchmark_pgvector_vs_pinecone_vs_qdrant_vs/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1sfv4xw/benchmark_pgvector_vs_pinecone_vs_qdrant_vs/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-08T13:47:41.262Z"
+  "generated_at": "2026-04-08T15:17:40.133Z"
 }
