@@ -3,27 +3,27 @@
     {
       "name": "Varna",
       "current_weather": {
-        "time": "2026-04-09T17:45",
+        "time": "2026-04-09T19:15",
         "interval": 900,
-        "temperature": 7.8,
-        "windspeed": 1.4,
+        "temperature": 6.8,
+        "windspeed": 0.7,
         "winddirection": 90,
-        "is_day": 1,
+        "is_day": 0,
         "weathercode": 80
       }
     },
     {
       "name": "Sofia",
       "current_weather": {
-        "time": "2026-04-09T17:45",
+        "time": "2026-04-09T19:15",
         "interval": 900,
-        "temperature": 9.8,
-        "windspeed": 16.3,
-        "winddirection": 317,
-        "is_day": 1,
-        "weathercode": 2
+        "temperature": 8,
+        "windspeed": 8.7,
+        "winddirection": 318,
+        "is_day": 0,
+        "weathercode": 1
       }
     }
   ],
-  "generated_at": "2026-04-09T15:45:29.201Z"
+  "generated_at": "2026-04-09T17:15:06.155Z"
 }
