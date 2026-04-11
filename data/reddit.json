@@ -85,11 +85,11 @@
   ],
   "technology": [
     {
-      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-      "permalink": "/r/technology/comments/1shj7c3/france_launches_government_linux_desktop_plan_as/",
+      "title": "Gen Z workers are so fearful AI will take their job they’re intentionally sabotaging their company’s AI rollout",
+      "permalink": "/r/technology/comments/1si20pk/gen_z_workers_are_so_fearful_ai_will_take_their/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/GUvjZda_yEygz2pZZi4sSwcyXBBCSMAGHf2nJeD_DE8.jpeg?width=640&crop=smart&auto=webp&s=7164bc288525d3e347086f6eb50a7f42e80e9fb5",
-      "url": "https://www.reddit.com/r/technology/comments/1shj7c3/france_launches_government_linux_desktop_plan_as/",
+      "thumbnail": "https://external-preview.redd.it/kO4ZlTEhbIWLrZKz2viYPww7tJu2v-asz6aGjp3zi58.jpeg?width=640&crop=smart&auto=webp&s=861f3e4378fab68aa999acb20ea1f92c5dee7310",
+      "url": "https://www.reddit.com/r/technology/comments/1si20pk/gen_z_workers_are_so_fearful_ai_will_take_their/",
       "created_utc": null
     },
     {
@@ -101,19 +101,19 @@
       "created_utc": null
     },
     {
-      "title": "Gen Z workers are so fearful AI will take their job they’re intentionally sabotaging their company’s AI rollout",
-      "permalink": "/r/technology/comments/1si20pk/gen_z_workers_are_so_fearful_ai_will_take_their/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/kO4ZlTEhbIWLrZKz2viYPww7tJu2v-asz6aGjp3zi58.jpeg?width=640&crop=smart&auto=webp&s=861f3e4378fab68aa999acb20ea1f92c5dee7310",
-      "url": "https://www.reddit.com/r/technology/comments/1si20pk/gen_z_workers_are_so_fearful_ai_will_take_their/",
-      "created_utc": null
-    },
-    {
       "title": "Gallup: Gen Z growing more negative toward AI",
       "permalink": "/r/technology/comments/1si5cr2/gallup_gen_z_growing_more_negative_toward_ai/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/technology/comments/1si5cr2/gallup_gen_z_growing_more_negative_toward_ai/",
+      "created_utc": null
+    },
+    {
+      "title": "PC Industry in Dire Straits, ‘Asking You to Own Nothing and Be Happy,’ Says Framework CEO",
+      "permalink": "/r/technology/comments/1si5u69/pc_industry_in_dire_straits_asking_you_to_own/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/Zr-sD2NA4Ot8-jIgfHnBe5JKGG0keovTftjXKB-yFB8.jpeg?width=640&crop=smart&auto=webp&s=cdd353ccf0bf2cf3411176c5a57d25e5e3074c83",
+      "url": "https://www.reddit.com/r/technology/comments/1si5u69/pc_industry_in_dire_straits_asking_you_to_own/",
       "created_utc": null
     },
     {
@@ -127,11 +127,27 @@
   ],
   "programming": [
     {
+      "title": "Original Apollo 11 code open-sourced by NASA — original Command Module and Lunar Module code repos are now public domain resources",
+      "permalink": "/r/programming/comments/1sigsdp/original_apollo_11_code_opensourced_by_nasa/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1sigsdp/original_apollo_11_code_opensourced_by_nasa/",
+      "created_utc": null
+    },
+    {
       "title": "Floating point from scratch: Hard Mode",
       "permalink": "/r/programming/comments/1shxle1/floating_point_from_scratch_hard_mode/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1shxle1/floating_point_from_scratch_hard_mode/",
+      "created_utc": null
+    },
+    {
+      "title": "Korean has SOV grammar – here's what a programming language looks like when you actually design around that instead of just translating keywords",
+      "permalink": "/r/programming/comments/1side3n/korean_has_sov_grammar_heres_what_a_programming/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1side3n/korean_has_sov_grammar_heres_what_a_programming/",
       "created_utc": null
     },
     {
@@ -149,23 +165,7 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1shmtl3/reproducing_the_aws_outage_race_condition_with_a/",
       "created_utc": null
-    },
-    {
-      "title": "Korean has SOV grammar – here's what a programming language looks like when you actually design around that instead of just translating keywords",
-      "permalink": "/r/programming/comments/1side3n/korean_has_sov_grammar_heres_what_a_programming/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1side3n/korean_has_sov_grammar_heres_what_a_programming/",
-      "created_utc": null
-    },
-    {
-      "title": "Edge Python (a compiler that uses less than 200 kb) Update: Mark-sweep Garbage Collector + explicit VmErr + overflow and dicts fixes",
-      "permalink": "/r/programming/comments/1si85u2/edge_python_a_compiler_that_uses_less_than_200_kb/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1si85u2/edge_python_a_compiler_that_uses_less_than_200_kb/",
-      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-11T10:41:45.580Z"
+  "generated_at": "2026-04-11T13:12:22.687Z"
 }
