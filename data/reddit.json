@@ -17,19 +17,19 @@
       "created_utc": null
     },
     {
+      "title": "Hungary's Prime Minister Orban has congratulated Magyar on election victory",
+      "permalink": "/r/worldnews/comments/1sjnv1y/hungarys_prime_minister_orban_has_congratulated/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/RFui6u8WoRUMhnc-SxJdlXmnVPuzhKN1lsPkm_kApWQ.jpeg?width=640&crop=smart&auto=webp&s=5d2c1f50f91bf450f6fffbf69e4d79345cbf8c74",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sjnv1y/hungarys_prime_minister_orban_has_congratulated/",
+      "created_utc": null
+    },
+    {
       "title": "President Trump Announces U.S Navy to Detain Vessels Paying Iranian Hormuz Toll",
       "permalink": "/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/",
-      "created_utc": null
-    },
-    {
-      "title": "Pakistan deploys 13,000 troops and fighter jets to Saudi Arabia",
-      "permalink": "/r/worldnews/comments/1sj4u41/pakistan_deploys_13000_troops_and_fighter_jets_to/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/G0lTXT79FLakhnsqWUW5zhFIUM7flfCY8JClET8OaNM.jpeg?width=640&crop=smart&auto=webp&s=8f75d2ce5e85fa3531c435ce3fb57356d53600d2",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sj4u41/pakistan_deploys_13000_troops_and_fighter_jets_to/",
       "created_utc": null
     },
     {
@@ -42,14 +42,6 @@
     }
   ],
   "europe": [
-    {
-      "title": "Hungarian opposition holds last rally before tomorrow's election",
-      "permalink": "/r/europe/comments/1sivb1o/hungarian_opposition_holds_last_rally_before/",
-      "score": null,
-      "thumbnail": "https://preview.redd.it/dvqiu7qoomug1.jpeg?width=640&crop=smart&auto=webp&s=dd2ec0730c76907d126f881158099a91cf22a876",
-      "url": "https://www.reddit.com/r/europe/comments/1sivb1o/hungarian_opposition_holds_last_rally_before/",
-      "created_utc": null
-    },
     {
       "title": "Orbán’s 16-year rule over Hungary ends in crushing election defeat",
       "permalink": "/r/europe/comments/1sjo5wb/orbáns_16year_rule_over_hungary_ends_in_crushing/",
@@ -81,6 +73,14 @@
       "thumbnail": "https://external-preview.redd.it/7H4pwauycj9rNSZK2iZx1paoODDtWXmnm3tTDxPjUjw.jpeg?width=640&crop=smart&auto=webp&s=884d538267a760c751f971dddaa8cc85a433c252",
       "url": "https://www.reddit.com/r/europe/comments/1sj4dj0/after_16_years_in_power_putins_closest_friend_in/",
       "created_utc": null
+    },
+    {
+      "title": "Hungary election: official results page – as of 20:30, 14.7% reporting, opposition ahead 125 proj. mandates to 65. 133 needed for a supermajority.",
+      "permalink": "/r/europe/comments/1sjmkjt/hungary_election_official_results_page_as_of_2030/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/europe/comments/1sjmkjt/hungary_election_official_results_page_as_of_2030/",
+      "created_utc": null
     }
   ],
   "technology": [
@@ -101,14 +101,6 @@
       "created_utc": null
     },
     {
-      "title": "Microsoft confirms Windows 11 KB5077212, KB5079420 break PC reset on 25H2 and 24H2 systems",
-      "permalink": "/r/technology/comments/1siwupm/microsoft_confirms_windows_11_kb5077212_kb5079420/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/rk5U1633X_wW8Dm__DVLlaQ9nA1m3F1PF6qaMhvP6f4.jpeg?width=640&crop=smart&auto=webp&s=3ed1e522b9508f19795b86dfba5cd3b22344ebc6",
-      "url": "https://www.reddit.com/r/technology/comments/1siwupm/microsoft_confirms_windows_11_kb5077212_kb5079420/",
-      "created_utc": null
-    },
-    {
       "title": "Politico survey finds 84% of EU people distrust US tech companies to handle their personal data responsibly, rising to 93% distrust for Chinese tech firms",
       "permalink": "/r/technology/comments/1sje945/politico_survey_finds_84_of_eu_people_distrust_us/",
       "score": null,
@@ -122,6 +114,14 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/MwO4ccsldi0IJtUzKINmTrJAG1rRmAYo6yqitISEBhQ.png?width=640&crop=smart&auto=webp&s=7fa9a2595c989d9cb47085817c6bffc4915e9b88",
       "url": "https://www.reddit.com/r/technology/comments/1sj2v3m/rockstar_games_confirms_it_was_hacked_by/",
+      "created_utc": null
+    },
+    {
+      "title": "Veteran Microsoft engineer says original Task Manager was only 80KB so it could run smoothly on 90s computers — original utility used a smart technique to determine whether it was the only running instance",
+      "permalink": "/r/technology/comments/1sjle2j/veteran_microsoft_engineer_says_original_task/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/YG3WaUfFzJxTri1v5T66OYLwiBqf7yR5cC-8owMHsJc.png?width=640&crop=smart&auto=webp&s=0be509b6cca89fef301f3c0faa4c61eaba8b6eec",
+      "url": "https://www.reddit.com/r/technology/comments/1sjle2j/veteran_microsoft_engineer_says_original_task/",
       "created_utc": null
     }
   ],
@@ -167,5 +167,5 @@
       "created_utc": null
     }
   ],
-  "generated_at": "2026-04-12T20:44:11.010Z"
+  "generated_at": "2026-04-12T22:41:46.010Z"
 }
