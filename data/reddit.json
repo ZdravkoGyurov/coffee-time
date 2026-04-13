@@ -75,11 +75,11 @@
       "created_utc": null
     },
     {
-      "title": "Magyar says Hungarians have 'reclaimed' their country after Orbán ousted",
-      "permalink": "/r/europe/comments/1sjv3ew/magyar_says_hungarians_have_reclaimed_their/",
+      "title": "Von der Leyen uses Orbán defeat to push for end of veto in EU foreign policy",
+      "permalink": "/r/europe/comments/1sk9h1r/von_der_leyen_uses_orbán_defeat_to_push_for_end/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/o79XtqbIJF-cW8OJF_srJkMYWfjYeuGjuvyFmzgaaGU.jpeg?width=640&crop=smart&auto=webp&s=8cd21f6d4c3b6fabfe0dfba1b50ec05c53489c0a",
-      "url": "https://www.reddit.com/r/europe/comments/1sjv3ew/magyar_says_hungarians_have_reclaimed_their/",
+      "thumbnail": "https://external-preview.redd.it/NfgTrrd3JG4B0b7uXCS-My-syjEDvi8H8MchhaQamwU.jpeg?width=640&crop=smart&auto=webp&s=f3164c0c029f991b61775ffd4ff8bdf8dd383cbe",
+      "url": "https://www.reddit.com/r/europe/comments/1sk9h1r/von_der_leyen_uses_orbán_defeat_to_push_for_end/",
       "created_utc": null
     }
   ],
@@ -117,21 +117,21 @@
       "created_utc": null
     },
     {
-      "title": "‘I feel helpless’: college graduates can’t find entry-level roles in shrinking market amid rise of AI",
-      "permalink": "/r/technology/comments/1sjh7wn/i_feel_helpless_college_graduates_cant_find/",
+      "title": "Microsoft exec suggests AI agents will need to buy software licenses, just like employees",
+      "permalink": "/r/technology/comments/1sjyvfd/microsoft_exec_suggests_ai_agents_will_need_to/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/oBTgY9tgB5dGo25yCKF26J0iwMDYlrtl8OZhTx09K3k.jpeg?width=640&crop=smart&auto=webp&s=25f52161d56e02cf446785d8be77642fa1a3f2fd",
-      "url": "https://www.reddit.com/r/technology/comments/1sjh7wn/i_feel_helpless_college_graduates_cant_find/",
+      "thumbnail": "https://external-preview.redd.it/MkEmpxrUehNU1sW9LCCmkRztT_YTCyIfyQSyxcsfxTw.jpeg?width=640&crop=smart&auto=webp&s=9a421e630adf9c2b5df80d5d66de5678346e8f4f",
+      "url": "https://www.reddit.com/r/technology/comments/1sjyvfd/microsoft_exec_suggests_ai_agents_will_need_to/",
       "created_utc": null
     }
   ],
   "programming": [
     {
-      "title": "Flat Error Codes Are Not Enough",
-      "permalink": "/r/programming/comments/1sjg9v6/flat_error_codes_are_not_enough/",
+      "title": "I learned something about GPUs today",
+      "permalink": "/r/programming/comments/1sk9bhg/i_learned_something_about_gpus_today/",
       "score": null,
       "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sjg9v6/flat_error_codes_are_not_enough/",
+      "url": "https://www.reddit.com/r/programming/comments/1sk9bhg/i_learned_something_about_gpus_today/",
       "created_utc": null
     },
     {
@@ -140,14 +140,6 @@
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1sk5bxw/java_26_new_feature_breakdown_with_examples/",
-      "created_utc": null
-    },
-    {
-      "title": "I learned something about GPUs today",
-      "permalink": "/r/programming/comments/1sk9bhg/i_learned_something_about_gpus_today/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sk9bhg/i_learned_something_about_gpus_today/",
       "created_utc": null
     },
     {
@@ -165,7 +157,15 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1sk70tx/why_i_built_a_new_http_client_after_working_on/",
       "created_utc": null
+    },
+    {
+      "title": "How Netflix Uses Java - 2026 Edition #JavaOne",
+      "permalink": "/r/programming/comments/1sk33di/how_netflix_uses_java_2026_edition_javaone/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1sk33di/how_netflix_uses_java_2026_edition_javaone/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-13T13:55:25.926Z"
+  "generated_at": "2026-04-13T15:21:47.758Z"
 }
