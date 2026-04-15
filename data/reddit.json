@@ -33,11 +33,11 @@
       "created_utc": null
     },
     {
-      "title": "Estonia unmasks record number of Russian spies",
-      "permalink": "/r/worldnews/comments/1sl4rbw/estonia_unmasks_record_number_of_russian_spies/",
+      "title": "Spain approves plan to give around 500,000 undocumented migrants legal status",
+      "permalink": "/r/worldnews/comments/1slb1cw/spain_approves_plan_to_give_around_500000/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/lCEp2Q2WzTCkSxMFTrS54uz1ubIQ9p_kfPX_D4FWDk4.jpeg?width=640&crop=smart&auto=webp&s=0e2001ece492e10d27d7c3f6ca78858058cf745f",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sl4rbw/estonia_unmasks_record_number_of_russian_spies/",
+      "thumbnail": "https://external-preview.redd.it/LdVWn5ECrcFteAuQsOxNx0h7_QJXU2ddqT7wFg3DCeE.jpeg?width=640&crop=smart&auto=webp&s=64a84620135b6c7a4f72e57dc242874d252d488a",
+      "url": "https://www.reddit.com/r/worldnews/comments/1slb1cw/spain_approves_plan_to_give_around_500000/",
       "created_utc": null
     }
   ],
@@ -127,19 +127,11 @@
   ],
   "programming": [
     {
-      "title": "GitHub Stacked PRs",
-      "permalink": "/r/programming/comments/1sl4erj/github_stacked_prs/",
+      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
+      "permalink": "/r/programming/comments/1sm01ev/direct_win32_api_weirdshaped_windows_and_why_they/",
       "score": null,
       "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sl4erj/github_stacked_prs/",
-      "created_utc": null
-    },
-    {
-      "title": "Finding a duplicated item in an array of N integers in the range 1 to N − 1",
-      "permalink": "/r/programming/comments/1sl5h3v/finding_a_duplicated_item_in_an_array_of_n/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sl5h3v/finding_a_duplicated_item_in_an_array_of_n/",
+      "url": "https://www.reddit.com/r/programming/comments/1sm01ev/direct_win32_api_weirdshaped_windows_and_why_they/",
       "created_utc": null
     },
     {
@@ -151,21 +143,29 @@
       "created_utc": null
     },
     {
-      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
-      "permalink": "/r/programming/comments/1sm01ev/direct_win32_api_weirdshaped_windows_and_why_they/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sm01ev/direct_win32_api_weirdshaped_windows_and_why_they/",
-      "created_utc": null
-    },
-    {
       "title": "The real work of maintenance happens before you touch the code",
       "permalink": "/r/programming/comments/1slab5m/the_real_work_of_maintenance_happens_before_you/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1slab5m/the_real_work_of_maintenance_happens_before_you/",
       "created_utc": null
+    },
+    {
+      "title": "This Talk Has It All: Array Programming, GPU Shortcuts, A Live Demo & Much More • Conor Hoekstra",
+      "permalink": "/r/programming/comments/1sl7828/this_talk_has_it_all_array_programming_gpu/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1sl7828/this_talk_has_it_all_array_programming_gpu/",
+      "created_utc": null
+    },
+    {
+      "title": "Completion is a Substrate, not a UI",
+      "permalink": "/r/programming/comments/1sl77ob/completion_is_a_substrate_not_a_ui/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1sl77ob/completion_is_a_substrate_not_a_ui/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-15T09:27:13.091Z"
+  "generated_at": "2026-04-15T11:06:21.696Z"
 }
