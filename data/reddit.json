@@ -9,19 +9,19 @@
       "created_utc": null
     },
     {
-      "title": "'Xi will give me big, fat hug': Trump says he opened Hormuz for China and the world",
-      "permalink": "/r/worldnews/comments/1sm5bc3/xi_will_give_me_big_fat_hug_trump_says_he_opened/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/u65Bte5i0QjOvEYCBmoYYZzxGNLCpEAXOfKMYQMzUvs.png?width=640&crop=smart&auto=webp&s=858c94dc252e57261124dcce80a797f5ca840463",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sm5bc3/xi_will_give_me_big_fat_hug_trump_says_he_opened/",
-      "created_utc": null
-    },
-    {
       "title": "Pentagon prepares for possible military operation in Cuba",
       "permalink": "/r/worldnews/comments/1smlt60/pentagon_prepares_for_possible_military_operation/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/ByQfpmwroK959t9hn01AHuyYhUdBNT2FZNXEhaf153Q.jpeg?width=640&crop=smart&auto=webp&s=001f11fac927c2236abbf8beec70f0ca05a2e121",
       "url": "https://www.reddit.com/r/worldnews/comments/1smlt60/pentagon_prepares_for_possible_military_operation/",
+      "created_utc": null
+    },
+    {
+      "title": "'Xi will give me big, fat hug': Trump says he opened Hormuz for China and the world",
+      "permalink": "/r/worldnews/comments/1sm5bc3/xi_will_give_me_big_fat_hug_trump_says_he_opened/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/u65Bte5i0QjOvEYCBmoYYZzxGNLCpEAXOfKMYQMzUvs.png?width=640&crop=smart&auto=webp&s=858c94dc252e57261124dcce80a797f5ca840463",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sm5bc3/xi_will_give_me_big_fat_hug_trump_says_he_opened/",
       "created_utc": null
     },
     {
@@ -67,19 +67,19 @@
       "created_utc": null
     },
     {
-      "title": "Kremlin reportedly to ease internet restrictions as Putin's approval ratings slide",
-      "permalink": "/r/europe/comments/1slzcle/kremlin_reportedly_to_ease_internet_restrictions/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/0SgxH-NwC-N9WPn-8ORQoj-PYYYdHubfJEdh4tKtMh4.jpeg?width=640&crop=smart&auto=webp&s=63ae8aa531698176e6a30a499a931c2b3dbf77bb",
-      "url": "https://www.reddit.com/r/europe/comments/1slzcle/kremlin_reportedly_to_ease_internet_restrictions/",
-      "created_utc": null
-    },
-    {
       "title": "Hungary’s PM-elect signals support for euro adoption",
       "permalink": "/r/europe/comments/1smecvm/hungarys_pmelect_signals_support_for_euro_adoption/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/FYg5Y2i-UOMagPzvS5kCKyxTkgVI6vZg0n_CYvKFrDo.jpeg?width=640&crop=smart&auto=webp&s=1d3f56be9b0f363c37b5fd572e26ee1443853208",
       "url": "https://www.reddit.com/r/europe/comments/1smecvm/hungarys_pmelect_signals_support_for_euro_adoption/",
+      "created_utc": null
+    },
+    {
+      "title": "Attila Balázs, owner of Bayer Construct and one of the richest men in Hungary, sends letters of apology to employees for previously telling them to vote Viktor Orbán. He now encourages everyone to support the new government.",
+      "permalink": "/r/europe/comments/1smcq8g/attila_balázs_owner_of_bayer_construct_and_one_of/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/Zn-bEsnch09h8tmngCoeWIHMPGjUptNTl7I1pj1nbnk.jpeg?width=640&crop=smart&auto=webp&s=aa95da484fdb334d31340072120742bb0e4a3fab",
+      "url": "https://www.reddit.com/r/europe/comments/1smcq8g/attila_balázs_owner_of_bayer_construct_and_one_of/",
       "created_utc": null
     }
   ],
@@ -127,14 +127,6 @@
   ],
   "programming": [
     {
-      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
-      "permalink": "/r/programming/comments/1sm01ev/direct_win32_api_weirdshaped_windows_and_why_they/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sm01ev/direct_win32_api_weirdshaped_windows_and_why_they/",
-      "created_utc": null
-    },
-    {
       "title": "Things you didn't know about (Postgres) indexes",
       "permalink": "/r/programming/comments/1sm5d83/things_you_didnt_know_about_postgres_indexes/",
       "score": null,
@@ -159,6 +151,14 @@
       "created_utc": null
     },
     {
+      "title": "Atomic Operations in Go",
+      "permalink": "/r/programming/comments/1smpas2/atomic_operations_in_go/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1smpas2/atomic_operations_in_go/",
+      "created_utc": null
+    },
+    {
       "title": "Hardware Backdoors in x86 CPUs - Unlocking God Mode",
       "permalink": "/r/programming/comments/1smawxi/hardware_backdoors_in_x86_cpus_unlocking_god_mode/",
       "score": null,
@@ -167,5 +167,5 @@
       "created_utc": null
     }
   ],
-  "generated_at": "2026-04-16T06:06:52.562Z"
+  "generated_at": "2026-04-16T09:26:02.280Z"
 }
