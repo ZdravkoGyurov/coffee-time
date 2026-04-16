@@ -1,14 +1,6 @@
 {
   "worldnews": [
     {
-      "title": "Zelenskyy: return of draft-age Ukrainian men from abroad is a matter of fairness",
-      "permalink": "/r/worldnews/comments/1sm1l4n/zelenskyy_return_of_draftage_ukrainian_men_from/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/6v10g2KEopc6Zqe1X3PUe1s7sa883KQPs0FgLH8-j8Y.jpeg?width=640&crop=smart&auto=webp&s=84d9aa729c7e3517a864fc791b7771e6df3d2e04",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sm1l4n/zelenskyy_return_of_draftage_ukrainian_men_from/",
-      "created_utc": null
-    },
-    {
       "title": "Pentagon prepares for possible military operation in Cuba",
       "permalink": "/r/worldnews/comments/1smlt60/pentagon_prepares_for_possible_military_operation/",
       "score": null,
@@ -38,6 +30,14 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/oi3J34LZ1KrilwIy7I4PmF-RpfYqVSBeggawEQ-mWFw.jpeg?width=640&crop=smart&auto=webp&s=5335ea3285dbee57212e655fa276d9dda85ced74",
       "url": "https://www.reddit.com/r/worldnews/comments/1sm84wm/us_stacks_three_carrier_groups_and_10_destroyers/",
+      "created_utc": null
+    },
+    {
+      "title": "Pope Leo, attacked again by Trump, says world needs message of peace",
+      "permalink": "/r/worldnews/comments/1sm8vmt/pope_leo_attacked_again_by_trump_says_world_needs/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/tjN9oMd-Lyf40C0PeDLwr1fHaOSBdpAvbOLFmXpDjWA.jpeg?width=640&crop=smart&auto=webp&s=86b39826cb2601dc325a013e9b8af2f692fc155e",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sm8vmt/pope_leo_attacked_again_by_trump_says_world_needs/",
       "created_utc": null
     }
   ],
@@ -75,11 +75,11 @@
       "created_utc": null
     },
     {
-      "title": "Attila Balázs, owner of Bayer Construct and one of the richest men in Hungary, sends letters of apology to employees for previously telling them to vote Viktor Orbán. He now encourages everyone to support the new government.",
-      "permalink": "/r/europe/comments/1smcq8g/attila_balázs_owner_of_bayer_construct_and_one_of/",
+      "title": "Vance calls end of Ukraine aid 'one of the proudest' achievements of Trump administration",
+      "permalink": "/r/europe/comments/1smwfi1/vance_calls_end_of_ukraine_aid_one_of_the/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/Zn-bEsnch09h8tmngCoeWIHMPGjUptNTl7I1pj1nbnk.jpeg?width=640&crop=smart&auto=webp&s=aa95da484fdb334d31340072120742bb0e4a3fab",
-      "url": "https://www.reddit.com/r/europe/comments/1smcq8g/attila_balázs_owner_of_bayer_construct_and_one_of/",
+      "thumbnail": "https://external-preview.redd.it/u-p4QwvUa08TVJ56ugZmG7qcEr6CcLHNgN9ieD9OuJ8.jpeg?width=640&crop=smart&auto=webp&s=1888a3b2df139fb9fcbd321e6530512f65da9c6f",
+      "url": "https://www.reddit.com/r/europe/comments/1smwfi1/vance_calls_end_of_ukraine_aid_one_of_the/",
       "created_utc": null
     }
   ],
@@ -135,6 +135,14 @@
       "created_utc": null
     },
     {
+      "title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
+      "permalink": "/r/programming/comments/1smyun6/the_api_tooling_crisis_why_developers_are/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1smyun6/the_api_tooling_crisis_why_developers_are/",
+      "created_utc": null
+    },
+    {
       "title": "JEP 534: Compact Object Headers by Default",
       "permalink": "/r/programming/comments/1smh53x/jep_534_compact_object_headers_by_default/",
       "score": null,
@@ -157,15 +165,7 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1smpas2/atomic_operations_in_go/",
       "created_utc": null
-    },
-    {
-      "title": "Hardware Backdoors in x86 CPUs - Unlocking God Mode",
-      "permalink": "/r/programming/comments/1smawxi/hardware_backdoors_in_x86_cpus_unlocking_god_mode/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1smawxi/hardware_backdoors_in_x86_cpus_unlocking_god_mode/",
-      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-16T09:26:02.280Z"
+  "generated_at": "2026-04-16T11:10:24.876Z"
 }
