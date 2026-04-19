@@ -1,11 +1,11 @@
 {
   "worldnews": [
     {
-      "title": "US lifts sanctions on Russian oil despite earlier assurances",
-      "permalink": "/r/worldnews/comments/1sopm8r/us_lifts_sanctions_on_russian_oil_despite_earlier/",
+      "title": "Diplomatic cables show Iran war is damaging US on multiple fronts across the world",
+      "permalink": "/r/worldnews/comments/1spdyh6/diplomatic_cables_show_iran_war_is_damaging_us_on/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/Ucs8ZjnzIes0h8EgjyaDVd-y1EfF-44HCPsC6nqH5cU.jpeg?width=640&crop=smart&auto=webp&s=dcaf42a1f96bf34473bc0204ae9a1755a63501c8",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sopm8r/us_lifts_sanctions_on_russian_oil_despite_earlier/",
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1spdyh6/diplomatic_cables_show_iran_war_is_damaging_us_on/",
       "created_utc": null
     },
     {
@@ -14,14 +14,6 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/Xk1yp0ThP2QcfLhmnnNTJ6Td8gKE_jHFslduRdqCmmo.jpeg?width=640&crop=smart&auto=webp&s=d272f3c6534690b1b46189f9a195512afe806386",
       "url": "https://www.reddit.com/r/worldnews/comments/1sowpli/macron_french_soldier_was_killed_in_lebanon/",
-      "created_utc": null
-    },
-    {
-      "title": "Diplomatic cables show Iran war is damaging US on multiple fronts across the world",
-      "permalink": "/r/worldnews/comments/1spdyh6/diplomatic_cables_show_iran_war_is_damaging_us_on/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/worldnews/comments/1spdyh6/diplomatic_cables_show_iran_war_is_damaging_us_on/",
       "created_utc": null
     },
     {
@@ -39,9 +31,25 @@
       "thumbnail": "https://external-preview.redd.it/NN_qZZ39cOMwvJ1L-fMY2QIKdbmTG5Mrjf2p8tPSJHg.jpeg?width=320&crop=smart&auto=webp&s=71dd38305398b6409315f71473e13a5fa8ba929b",
       "url": "https://www.reddit.com/r/worldnews/comments/1sp37zb/hezbollah_threatens_lebanons_president_he_will/",
       "created_utc": null
+    },
+    {
+      "title": "Iranian gunboats fire on tanker in Strait of Hormuz as Iran reimposes restrictions - North Shore News",
+      "permalink": "/r/worldnews/comments/1sovhn0/iranian_gunboats_fire_on_tanker_in_strait_of/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sovhn0/iranian_gunboats_fire_on_tanker_in_strait_of/",
+      "created_utc": null
     }
   ],
   "europe": [
+    {
+      "title": "Trash can full of shredded documents behind the Hungarian state media’s building after the election",
+      "permalink": "/r/europe/comments/1sp6ogr/trash_can_full_of_shredded_documents_behind_the/",
+      "score": null,
+      "thumbnail": "https://preview.redd.it/c6d0brv310wg1.jpeg?width=640&crop=smart&auto=webp&s=c863ff82dc318adf37c778ee0ef032ba9000a77b",
+      "url": "https://www.reddit.com/r/europe/comments/1sp6ogr/trash_can_full_of_shredded_documents_behind_the/",
+      "created_utc": null
+    },
     {
       "title": "'Allies, not vassals': How Meloni's break with the president of the United States became a political moment for Italy",
       "permalink": "/r/europe/comments/1sot5vw/allies_not_vassals_how_melonis_break_with_the/",
@@ -72,14 +80,6 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/Xk1yp0ThP2QcfLhmnnNTJ6Td8gKE_jHFslduRdqCmmo.jpeg?width=640&crop=smart&auto=webp&s=d272f3c6534690b1b46189f9a195512afe806386",
       "url": "https://www.reddit.com/r/europe/comments/1sowm46/macron_french_soldier_was_killed_in_lebanon/",
-      "created_utc": null
-    },
-    {
-      "title": "Trash can full of shredded documents behind the Hungarian state media’s building after the election",
-      "permalink": "/r/europe/comments/1sp6ogr/trash_can_full_of_shredded_documents_behind_the/",
-      "score": null,
-      "thumbnail": "https://preview.redd.it/c6d0brv310wg1.jpeg?width=640&crop=smart&auto=webp&s=c863ff82dc318adf37c778ee0ef032ba9000a77b",
-      "url": "https://www.reddit.com/r/europe/comments/1sp6ogr/trash_can_full_of_shredded_documents_behind_the/",
       "created_utc": null
     }
   ],
@@ -135,11 +135,11 @@
       "created_utc": null
     },
     {
-      "title": "Post-Quantum Cryptography Migration at Meta: Framework, Lessons, and Takeaways",
-      "permalink": "/r/programming/comments/1soqmzq/postquantum_cryptography_migration_at_meta/",
+      "title": "Reconstructing a Dead USB protocol: From Unknown Chip to Working Implementation",
+      "permalink": "/r/programming/comments/1spkuzl/reconstructing_a_dead_usb_protocol_from_unknown/",
       "score": null,
       "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1soqmzq/postquantum_cryptography_migration_at_meta/",
+      "url": "https://www.reddit.com/r/programming/comments/1spkuzl/reconstructing_a_dead_usb_protocol_from_unknown/",
       "created_utc": null
     },
     {
@@ -149,7 +149,23 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1spbfax/optimizing_ruby_path_methods_byroot/",
       "created_utc": null
+    },
+    {
+      "title": "Clojure: The Documentary",
+      "permalink": "/r/programming/comments/1spnfdb/clojure_the_documentary/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1spnfdb/clojure_the_documentary/",
+      "created_utc": null
+    },
+    {
+      "title": "Built a chaotic warehouse simulator in 7 weeks (won Best Project Gold at NUS!)",
+      "permalink": "/r/programming/comments/1spl0mm/built_a_chaotic_warehouse_simulator_in_7_weeks/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1spl0mm/built_a_chaotic_warehouse_simulator_in_7_weeks/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-19T06:02:40.403Z"
+  "generated_at": "2026-04-19T09:00:39.766Z"
 }
