@@ -43,30 +43,6 @@
   ],
   "europe": [
     {
-      "title": "Polish presidential official calls US president pope attacks and \"Jesus\" graphic \"insult to all Catholics\"",
-      "permalink": "/r/europe/comments/1spn8oe/polish_presidential_official_calls_us_president/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/PwOdePY4_eLVKUPDeZhww_JyoBTlDRiB8MC6ZW0VXZs.jpeg?width=640&crop=smart&auto=webp&s=6a61f928641f4c6677d6fb14596628042cf7b4e5",
-      "url": "https://www.reddit.com/r/europe/comments/1spn8oe/polish_presidential_official_calls_us_president/",
-      "created_utc": null
-    },
-    {
-      "title": "Magyar confirms first trip as new Hungarian PM will be to Poland",
-      "permalink": "/r/europe/comments/1spn6hp/magyar_confirms_first_trip_as_new_hungarian_pm/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/ZI8mAS79kv__NCuJZ2sWOlFPQ8jVvXUQKkW4qgaXotc.png?width=640&crop=smart&auto=webp&s=e6b635f5f1646702b4b821bb78f8b3c0a9b644b9",
-      "url": "https://www.reddit.com/r/europe/comments/1spn6hp/magyar_confirms_first_trip_as_new_hungarian_pm/",
-      "created_utc": null
-    },
-    {
-      "title": "Hungary: Tisza (blue) vs Fidesz (orange) election wins per area, black dots are cities Peter Magyar visited in person during his campaign",
-      "permalink": "/r/europe/comments/1spoph4/hungary_tisza_blue_vs_fidesz_orange_election_wins/",
-      "score": null,
-      "thumbnail": "https://preview.redd.it/ezlx0kq0d4wg1.png?width=640&crop=smart&auto=webp&s=7ed0a41e6ed83d0079e4e2a9227712d3c6e38c83",
-      "url": "https://www.reddit.com/r/europe/comments/1spoph4/hungary_tisza_blue_vs_fidesz_orange_election_wins/",
-      "created_utc": null
-    },
-    {
       "title": "The Hungarian Tisza Party is sending an unprecedented number and proportion of female representatives to parliament, and the leader of the parliamentary group will also be a woman.",
       "permalink": "/r/europe/comments/1sq1b9p/the_hungarian_tisza_party_is_sending_an/",
       "score": null,
@@ -80,6 +56,30 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/Mb1ActDQXugmsozWw-aKg1BKsLMWl-m7EAQV76cwXg4.jpeg?width=640&crop=smart&auto=webp&s=8a4bd5e11953cd9d0702e12e1fcc59b2172aa856",
       "url": "https://www.reddit.com/r/europe/comments/1spzdhx/poland_refuses_to_host_russian_divers_at_next/",
+      "created_utc": null
+    },
+    {
+      "title": "Salford/Manchester, 2003 vs 2026",
+      "permalink": "/r/europe/comments/1spp5l3/salfordmanchester_2003_vs_2026/",
+      "score": null,
+      "thumbnail": "https://preview.redd.it/b5to3dz1i4wg1.jpeg?width=640&crop=smart&auto=webp&s=bd8674e13be46805970ccaa57472088b11d41068",
+      "url": "https://www.reddit.com/r/europe/comments/1spp5l3/salfordmanchester_2003_vs_2026/",
+      "created_utc": null
+    },
+    {
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
+      "permalink": "/r/europe/comments/1spuqhh/zelensky_condemns_us_extension_of_russian/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/sifzq-ink5ym5j6wnHIeFv6sWe9JSo2KPE4SuLo2f14.jpeg?width=640&crop=smart&auto=webp&s=c8738abd947311414b173509554a7d9b938adfca",
+      "url": "https://www.reddit.com/r/europe/comments/1spuqhh/zelensky_condemns_us_extension_of_russian/",
+      "created_utc": null
+    },
+    {
+      "title": "Japanese garden in Bucharest, the biggest cherry garden in Europe.",
+      "permalink": "/r/europe/comments/1spoy3q/japanese_garden_in_bucharest_the_biggest_cherry/",
+      "score": null,
+      "thumbnail": "https://preview.redd.it/6ezaataxf4wg1.jpeg?width=640&crop=smart&auto=webp&s=4e8a31ec6146f3a6a9e7da02798194a34739a418",
+      "url": "https://www.reddit.com/r/europe/comments/1spoy3q/japanese_garden_in_bucharest_the_biggest_cherry/",
       "created_utc": null
     }
   ],
@@ -143,6 +143,14 @@
       "created_utc": null
     },
     {
+      "title": "When did Github stop being about Git?",
+      "permalink": "/r/programming/comments/1sqh1og/when_did_github_stop_being_about_git/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1sqh1og/when_did_github_stop_being_about_git/",
+      "created_utc": null
+    },
+    {
       "title": "Migrating from DigitalOcean to Hetzner",
       "permalink": "/r/programming/comments/1sprq34/migrating_from_digitalocean_to_hetzner/",
       "score": null,
@@ -157,15 +165,7 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1spxms7/the_seven_programming_urlanguages/",
       "created_utc": null
-    },
-    {
-      "title": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
-      "permalink": "/r/programming/comments/1spuizj/c26_reflection_memory_safety_contracts_and_a_new/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1spuizj/c26_reflection_memory_safety_contracts_and_a_new/",
-      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-20T06:21:25.714Z"
+  "generated_at": "2026-04-20T10:04:31.351Z"
 }
