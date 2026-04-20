@@ -1,14 +1,6 @@
 {
   "worldnews": [
     {
-      "title": "PM Carney declares U.S. ties now a ‘weakness’ in address to Canadians",
-      "permalink": "/r/worldnews/comments/1spucp4/pm_carney_declares_us_ties_now_a_weakness_in/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/W7aegWIzfcWYuYoz0-H1cC9dKaPyvBV-9J7WJOuc4do.jpeg?width=640&crop=smart&auto=webp&s=2251d4ee942e9cfd060ae3ad180cae017ebba700",
-      "url": "https://www.reddit.com/r/worldnews/comments/1spucp4/pm_carney_declares_us_ties_now_a_weakness_in/",
-      "created_utc": null
-    },
-    {
       "title": "Russia may announce general mobilisation to attack Ukraine or Baltic states – Zelenskyy",
       "permalink": "/r/worldnews/comments/1sq2eqo/russia_may_announce_general_mobilisation_to/",
       "score": null,
@@ -30,6 +22,14 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/she2AwyDONc8eW823TTVdcMvUsP8gKA0XpGsjGNROfk.jpeg?width=640&crop=smart&auto=webp&s=600573757700b0d7ec31f481c31fc46efe6163c6",
       "url": "https://www.reddit.com/r/worldnews/comments/1sq3z80/ukraine_moves_to_replace_frontline_soldiers_with/",
+      "created_utc": null
+    },
+    {
+      "title": "French prosecutors summon Elon Musk over allegations of child abuse images and deepfakes on X",
+      "permalink": "/r/worldnews/comments/1sqiflk/french_prosecutors_summon_elon_musk_over/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/aJ4wqgFML4apxMxZ8eVATUDwjS_JjweNZm1_-cBZioU.jpeg?width=640&crop=smart&auto=webp&s=a93bc4ed7608c08cc15942973e6c8dc4cda92558",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sqiflk/french_prosecutors_summon_elon_musk_over/",
       "created_utc": null
     },
     {
@@ -75,11 +75,11 @@
       "created_utc": null
     },
     {
-      "title": "Zelensky condemns US extension of Russian sanctions waiver",
-      "permalink": "/r/europe/comments/1spuqhh/zelensky_condemns_us_extension_of_russian/",
+      "title": "Helsinki, Finland",
+      "permalink": "/r/europe/comments/1spxhw2/helsinki_finland/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/sifzq-ink5ym5j6wnHIeFv6sWe9JSo2KPE4SuLo2f14.jpeg?width=640&crop=smart&auto=webp&s=c8738abd947311414b173509554a7d9b938adfca",
-      "url": "https://www.reddit.com/r/europe/comments/1spuqhh/zelensky_condemns_us_extension_of_russian/",
+      "thumbnail": "https://preview.redd.it/1o50wqupa6wg1.jpeg?width=640&crop=smart&auto=webp&s=471d003ded9672a576340289b971f97dca71bbb2",
+      "url": "https://www.reddit.com/r/europe/comments/1spxhw2/helsinki_finland/",
       "created_utc": null
     }
   ],
@@ -109,31 +109,23 @@
       "created_utc": null
     },
     {
-      "title": "Toshiba refuses to replace large hard drive that was under warranty — company offers refund at the purchase price, not the higher current retail price",
-      "permalink": "/r/technology/comments/1spu6k7/toshiba_refuses_to_replace_large_hard_drive_that/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/q1kEJkwvpMp9tMVlTZEBQrRCRosqMt-qvEbH7YTFxuU.jpeg?width=640&crop=smart&auto=webp&s=897f01ed89d918e2e983a4c6bc84a5c417fe13c8",
-      "url": "https://www.reddit.com/r/technology/comments/1spu6k7/toshiba_refuses_to_replace_large_hard_drive_that/",
-      "created_utc": null
-    },
-    {
       "title": "EU Declared Age App “Ready” While GitHub Flagged it Unfit, Then Hackers Bypassed It in 2 Minutes",
       "permalink": "/r/technology/comments/1sqhnyo/eu_declared_age_app_ready_while_github_flagged_it/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/ys_QCNALDd6KofUYe_PAQFzidh2sdb8iJ-XI5i8NiJg.jpeg?width=640&crop=smart&auto=webp&s=85db700c07f4336f86eb9592f67bf54eebf05ada",
       "url": "https://www.reddit.com/r/technology/comments/1sqhnyo/eu_declared_age_app_ready_while_github_flagged_it/",
       "created_utc": null
+    },
+    {
+      "title": "US may force operating systems to have mandatory age verification, share info with third parties",
+      "permalink": "/r/technology/comments/1sq7rkr/us_may_force_operating_systems_to_have_mandatory/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/TP3JiokEReUHtaYIYlzJRLju37eTfmSi1cOhey1G3Mg.jpeg?width=640&crop=smart&auto=webp&s=5f6c1af1e4f22ce74431b054bf79fe310c3addcf",
+      "url": "https://www.reddit.com/r/technology/comments/1sq7rkr/us_may_force_operating_systems_to_have_mandatory/",
+      "created_utc": null
     }
   ],
   "programming": [
-    {
-      "title": "When did Github stop being about Git?",
-      "permalink": "/r/programming/comments/1sqh1og/when_did_github_stop_being_about_git/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sqh1og/when_did_github_stop_being_about_git/",
-      "created_utc": null
-    },
     {
       "title": "Vercel reportedly breached by ShinyHunters, non sensitive secrets at risk",
       "permalink": "/r/programming/comments/1spwg4r/vercel_reportedly_breached_by_shinyhunters_non/",
@@ -159,13 +151,21 @@
       "created_utc": null
     },
     {
-      "title": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
-      "permalink": "/r/programming/comments/1spuizj/c26_reflection_memory_safety_contracts_and_a_new/",
+      "title": "Modern Frontend Complexity: essential or accidental?",
+      "permalink": "/r/programming/comments/1sqmvt5/modern_frontend_complexity_essential_or_accidental/",
       "score": null,
       "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1spuizj/c26_reflection_memory_safety_contracts_and_a_new/",
+      "url": "https://www.reddit.com/r/programming/comments/1sqmvt5/modern_frontend_complexity_essential_or_accidental/",
+      "created_utc": null
+    },
+    {
+      "title": "Byte Magazine Volume 00 Number 01 - The Worlds Greatest Toy : Free Download, Borrow, and Streaming : Internet Archive",
+      "permalink": "/r/programming/comments/1spxlag/byte_magazine_volume_00_number_01_the_worlds/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1spxlag/byte_magazine_volume_00_number_01_the_worlds/",
       "created_utc": null
     }
   ],
-  "generated_at": "2026-04-20T13:57:30.515Z"
+  "generated_at": "2026-04-20T15:23:24.815Z"
 }
