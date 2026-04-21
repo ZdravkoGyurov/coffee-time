@@ -25,6 +25,12 @@ body {
     color: var(--header-text);
 }
 
+#header p {
+    margin: 0;
+    color: var(--header-text);
+    font-size: 0.85rem;
+}
+
 #header h2 {
     margin: 0;
     color: var(--header-text);
@@ -32,45 +38,33 @@ body {
     font-weight: normal;
 }
 
-#header p {
-    margin: 0;
-    color: var(--header-text);
-    font-size: 0.85rem;
-}
-
 #main {
-    display: flex;
     width: 100%;
 }
 
 #news {
-    width: 70%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    padding: 1rem;
     background-color: var(--bg-color);
+}
+
+@media (max-width: 768px) {
+    #news {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    #news {
+        grid-template-columns: 1fr;
+    }
 }
 
 #info {
     width: 30%;
     background-color: var(--bg-color);
-}
-
-#weather {
-    padding: 0.6rem;
-    background-color: var(--bg-color);
-}
-
-#weather h3 {
-    margin: 0 0 0.5rem 0;
-    color: var(--subreddit-header);
-    font-size: 0.95rem;
-    font-weight: bold;
-    padding-bottom: 0.4rem;
-    border-bottom: 2px solid var(--border-color);
-}
-
-#weather p {
-    margin: 0.3rem 0;
-    font-size: 0.9rem;
-    color: var(--text-color);
 }
 
 #workout {
@@ -97,7 +91,7 @@ body {
 .post {
     display: flex;
     gap: 0.4rem;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.5rem;
 }
 
 .post:last-child {
@@ -117,7 +111,7 @@ body {
     flex: 1;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
 .post-text a {
@@ -130,10 +124,6 @@ body {
     font-size: 0.75rem;
     color: var(--score-color);
     margin-top: 0.2rem;
-}
-
-.weather-city {
-    margin-bottom: 0.5rem;
 }
 
 #workout h3 {

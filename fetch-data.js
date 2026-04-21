@@ -7,13 +7,10 @@ const CONFIG = {
     "worldnews",
     "europe",
     "technology",
+    "gamingnews",
     "programming"
   ],
-  postsPerSubreddit: 5,
-  cities: [
-    { name: "Varna", lat: 43.2141, lon: 27.9147 },
-    { name: "Sofia", lat: 42.6977, lon: 23.3219 }
-  ]
+  postsPerSubreddit: 5
 };
 
 async function fetchWithRetry(url, options = {}, retries = 2) {
@@ -40,21 +37,6 @@ async function fetchWithRetry(url, options = {}, retries = 2) {
   }
 
   throw lastError;
-}
-
-async function fetchJson(url) {
-  const headers = {
-    'User-Agent': 'CoffeeTime-Bot/1.0 (https://github.com/ZdravkoGyurov/coffee-time)',
-    Accept: 'application/json'
-  };
-
-  const res = await fetchWithRetry(url, { headers }, 2);
-  const body = await res.text();
-  try {
-    return JSON.parse(body);
-  } catch (error) {
-    throw new Error(`Invalid JSON from ${url}: ${error.message}`);
-  }
 }
 
 function parseRssFeed(xmlText, sourceUrl) {
@@ -131,20 +113,6 @@ async function fetchReddit() {
   return result;
 }
 
-async function fetchWeather() {
-  const result = { cities: [] };
-  for (const city of CONFIG.cities) {
-    const url = `https://api.open-meteo.com/v1/forecast?latitude=${city.lat}&longitude=${city.lon}&current_weather=true&timezone=Europe%2FBerlin`;
-    const data = await fetchJson(url);
-    result.cities.push({
-      name: city.name,
-      current_weather: data.current_weather || null
-    });
-  }
-  result.generated_at = new Date().toISOString();
-  return result;
-}
-
 async function loadJsonFile(fileName) {
   const filePath = path.join(__dirname, "data", fileName);
   try {
@@ -175,16 +143,15 @@ async function main() {
           worldnews: [],
           europe: [],
           technology: [],
+          gamingnews: [],
           programming: [],
           generated_at: new Date().toISOString()
         };
       }
     }
 
-    const weatherData = await fetchWeather();
     await writeData("reddit.json", redditData);
-    await writeData("weather.json", weatherData);
-    console.log("Static data updated: data/reddit.json and data/weather.json");
+    console.log("Static data updated: data/reddit.json");
   } catch (error) {
     console.error(error);
     process.exit(1);

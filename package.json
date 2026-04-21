@@ -1,7 +1,7 @@
 {
   "name": "coffee-time",
   "version": "1.0.0",
-  "description": "A minimal static site for news, weather, and workouts",
+  "description": "A minimal static site for news",
   "main": "fetch-data.js",
   "scripts": {
     "fetch-data": "node fetch-data.js"

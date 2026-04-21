@@ -3,67 +3,10 @@ const CONFIG = {
         "worldnews",
         "europe",
         "technology",
-        "programming"
+        "programming",
+        "gamingnews"
     ],
-    postsPerSubreddit: 4,
-    cities: [
-        { name: "Varna", lat: 43.2141, lon: 27.9147 },
-        { name: "Sofia", lat: 42.6977, lon: 23.3219 }
-    ],
-    workouts: {
-        1: {
-            name: "Upper 1",
-            exercises: [
-                "Bench Press 4 x 6-8",
-                "Pull Up / Pull Down 4 x 6-10",
-                "Incline Bench Press / Dip 3 x 8-12",
-                "Cable Row 3 x 8-12",
-                "Tricep Pushdown 3 x 10-15",
-                "Dumbbell Curl 3 x 10-15"
-            ]
-        },
-        3: {
-            name: "Lower 1",
-            exercises: [
-                "Squat 4 x 6-8",
-                "RDL 4 x 6-10",
-                "Leg Press / Leg Extension 3 x 8-12",
-                "Leg Curl 3 x 10-15",
-                "Calf Raises 3 x 10-15"
-            ]
-        },
-        5: {
-            name: "Upper 2",
-            exercises: [
-                "Bench Press 4 x 6-8",
-                "Pull Up / Pull Down 4 x 6-10",
-                "Overhead Press 3 x 6-10",
-                "Lateral Raises 3 x 12-15",
-                "Tricep Pushdown 3 x 10-15",
-                "Dumbbell Curl 3 x 10-15"
-            ]
-        },
-        6: {
-            name: "Lower 2",
-            exercises: [
-                "Squat 4 x 6-8",
-                "RDL 4 x 6-10",
-                "Leg Press / Leg Extension 3 x 8-12",
-                "Leg Curl 3 x 10-15",
-                "Calf Raises 3 x 10-15"
-            ]
-        },
-        0: {
-            name: "Lower 2",
-            exercises: [
-                "1. Squat 4 x 6-8",
-                "2. RDL 4 x 6-10",
-                "3. Leg Press / Leg Extension 3 x 8-12",
-                "4. Leg Curl 3 x 10-15",
-                "5. Calf Raises 3 x 10-15"
-            ]
-        }
-    }
+    postsPerSubreddit: 5,
 };
 
 const LOCAL_REDDIT_FALLBACK = {
@@ -115,37 +58,6 @@ const subredditClassName = "subreddit";
 const postClassName = "post";
 const postTextClassName = "post-text";
 
-// Weather code to description mapping (open-meteo codes)
-const WEATHER_CODES = {
-    0: "Clear sky",
-    1: "Mainly clear",
-    2: "Partly cloudy",
-    3: "Overcast",
-    45: "Foggy",
-    48: "Foggy",
-    51: "Light drizzle",
-    53: "Moderate drizzle",
-    55: "Dense drizzle",
-    61: "Slight rain",
-    63: "Moderate rain",
-    65: "Heavy rain",
-    71: "Slight snow",
-    73: "Moderate snow",
-    75: "Heavy snow",
-    80: "Slight rain showers",
-    81: "Moderate rain showers",
-    82: "Violent rain showers",
-    85: "Slight snow showers",
-    86: "Heavy snow showers",
-    95: "Thunderstorm",
-    96: "Thunderstorm with hail",
-    99: "Thunderstorm with hail"
-};
-
-function getWeatherDescription(code) {
-    return WEATHER_CODES[code] || "Unknown";
-}
-
 function formatDate(dateString) {
     const date = new Date(dateString);
     const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
@@ -160,18 +72,13 @@ function formatDate(dateString) {
 
 async function fetchLocalData() {
     try {
-        const [redditRes, weatherRes] = await Promise.all([
-            fetch("data/reddit.json"),
-            fetch("data/weather.json")
-        ]);
-
-        if (!redditRes.ok || !weatherRes.ok) {
-            throw new Error("Unable to load local data files");
+        const redditRes = await fetch("data/reddit.json");
+        if (!redditRes.ok) {
+            throw new Error("Unable to load Reddit data file");
         }
 
         const reddit = await redditRes.json();
-        const weather = await weatherRes.json();
-        return { reddit, weather };
+        return { reddit };
     } catch (err) {
         console.error("Error loading local data:", err);
         return null;
@@ -214,36 +121,10 @@ function renderSubredditPosts(newsContainer, subreddit, posts) {
     newsContainer.appendChild(subredditDiv);
 }
 
-function renderWeather(weatherData) {
-    const weatherContainer = document.getElementById("weather");
-    weatherContainer.innerHTML = "";
-
-    const h3 = document.createElement("h3");
-    h3.textContent = "Weather";
-    weatherContainer.appendChild(h3);
-
-    if (!weatherData || !weatherData.cities) {
-        weatherContainer.innerHTML += "<p>Weather data is unavailable.</p>";
-        return;
-    }
-
-    weatherData.cities.forEach(city => {
-        const p = document.createElement("p");
-        if (city.current_weather) {
-            const temp = city.current_weather.temperature;
-            const weatherDesc = getWeatherDescription(city.current_weather.weathercode);
-            p.innerHTML = `<strong>${city.name}</strong> ${temp}°C, ${weatherDesc}`;
-        } else {
-            p.innerHTML = `<strong>${city.name}</strong> Weather unavailable`;
-        }
-        weatherContainer.appendChild(p);
-    });
-}
-
-function renderDate(generatedAt) {
+function renderDate() {
     const dateEl = document.getElementById("date");
-    if (dateEl && generatedAt) {
-        dateEl.textContent = formatDate(generatedAt);
+    if (dateEl) {
+        dateEl.textContent = formatDate(new Date());
     }
 }
 
@@ -286,7 +167,6 @@ async function loadSite() {
     // Use local JSON data (generated by GitHub Actions fetch-data.js)
     // Browser can't fetch Reddit RSS directly due to CORS
     const redditData = localData ? localData.reddit : LOCAL_REDDIT_FALLBACK;
-    const weatherData = localData ? localData.weather : null;
 
     if (!newsContainer) return;
 
@@ -295,9 +175,9 @@ async function loadSite() {
         renderSubredditPosts(newsContainer, subreddit, redditData ? redditData[subreddit] : []);
     }
 
-    renderWeather(weatherData);
-    renderDate(weatherData?.generated_at);
-    renderWorkout();
+    
+    renderDate();
+    
 }
 
 loadSite();
