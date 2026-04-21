@@ -85,14 +85,6 @@
   ],
   "technology": [
     {
-      "title": "Apple CEO Tim Cook stepping down, John Ternus confirmed as new Apple CEO",
-      "permalink": "/r/technology/comments/1sr27m5/apple_ceo_tim_cook_stepping_down_john_ternus/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/bT3Jq5RNkDs-ee4U7t8gqSYDZQVgw0GSM-1v8FQwuME.jpeg?width=640&crop=smart&auto=webp&s=a15ce85587f2e3513454cb9de9cdca294c128dc9",
-      "url": "https://www.reddit.com/r/technology/comments/1sr27m5/apple_ceo_tim_cook_stepping_down_john_ternus/",
-      "created_utc": null
-    },
-    {
       "title": "JetBlue Responds to Accusations of Using Surveillance Pricing After Viral Tweet",
       "permalink": "/r/technology/comments/1sr819l/jetblue_responds_to_accusations_of_using/",
       "score": null,
@@ -117,6 +109,14 @@
       "created_utc": null
     },
     {
+      "title": "Google Starts Scanning All Your Photos As New Update Goes Live",
+      "permalink": "/r/technology/comments/1srkydg/google_starts_scanning_all_your_photos_as_new/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/BGvQYo15rxwKuMk-5AaC5yX0j56frMoCyXm3wnVIuMI.jpeg?width=640&crop=smart&auto=webp&s=386df42e86c1c9dbde40882bab058d06823a7040",
+      "url": "https://www.reddit.com/r/technology/comments/1srkydg/google_starts_scanning_all_your_photos_as_new/",
+      "created_utc": null
+    },
+    {
       "title": "AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace — hacker seeking $2 million for stolen data",
       "permalink": "/r/technology/comments/1sr2wwt/ai_cloud_company_vercel_breached_after_employee/",
       "score": null,
@@ -135,19 +135,19 @@
       "created_utc": null
     },
     {
-      "title": "“We Don’t Chase Trends”: Miyamoto Explains How Nintendo Built Global Hits",
-      "permalink": "/r/gamingnews/comments/1srk3hi/we_dont_chase_trends_miyamoto_explains_how/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/7KQ6qd63N7DjSWw1nxxjqO7p1LCIuJ0UxBYUg5i8tew.jpeg?width=640&crop=smart&auto=webp&s=3ffd8ac6aef3b41dc48a6d184ca4280e0305771c",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1srk3hi/we_dont_chase_trends_miyamoto_explains_how/",
-      "created_utc": null
-    },
-    {
       "title": "Insider Gaming: Assassin’s Creed Black Flag Resynced Doesn’t Include DLC or Multiplayer",
       "permalink": "/r/gamingnews/comments/1srnpl8/insider_gaming_assassins_creed_black_flag/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/QhTNaUiv5fB-Wl_Da3l-6rIzOjWMFCTQjX0DvvmL61o.jpeg?width=640&crop=smart&auto=webp&s=0aecc4ac4c595bdb775922428ff4b182e7dd63a6",
       "url": "https://www.reddit.com/r/gamingnews/comments/1srnpl8/insider_gaming_assassins_creed_black_flag/",
+      "created_utc": null
+    },
+    {
+      "title": "“We Don’t Chase Trends”: Miyamoto Explains How Nintendo Built Global Hits",
+      "permalink": "/r/gamingnews/comments/1srk3hi/we_dont_chase_trends_miyamoto_explains_how/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/7KQ6qd63N7DjSWw1nxxjqO7p1LCIuJ0UxBYUg5i8tew.jpeg?width=640&crop=smart&auto=webp&s=3ffd8ac6aef3b41dc48a6d184ca4280e0305771c",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1srk3hi/we_dont_chase_trends_miyamoto_explains_how/",
       "created_utc": null
     },
     {
@@ -177,6 +177,14 @@
       "created_utc": null
     },
     {
+      "title": "Announcing TypeScript 7.0 Beta",
+      "permalink": "/r/programming/comments/1srwby3/announcing_typescript_70_beta/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1srwby3/announcing_typescript_70_beta/",
+      "created_utc": null
+    },
+    {
       "title": "Theseus, a static Windows emulator",
       "permalink": "/r/programming/comments/1srccyp/theseus_a_static_windows_emulator/",
       "score": null,
@@ -199,15 +207,7 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1src2an/how_to_make_a_fast_dynamic_language_interpreter/",
       "created_utc": null
-    },
-    {
-      "title": "Announcing TypeScript 7.0 Beta",
-      "permalink": "/r/programming/comments/1srwby3/announcing_typescript_70_beta/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1srwby3/announcing_typescript_70_beta/",
-      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-21T19:21:26.406Z"
+  "generated_at": "2026-04-21T20:59:40.229Z"
 }
