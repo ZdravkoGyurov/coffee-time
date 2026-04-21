@@ -40,6 +40,16 @@ const LOCAL_REDDIT_FALLBACK = {
             created_utc: null
         }
     ],
+    gamingnews: [
+        {
+            title: "Sample Gaming News Post",
+            permalink: "/r/gamingnews/comments/sample/sample_post/",
+            score: null,
+            thumbnail: "",
+            url: "https://reddit.com/r/gamingnews",
+            created_utc: null
+        }
+    ],
     programming: [
         {
             title: "Sample Programming Post",
