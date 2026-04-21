@@ -3,8 +3,8 @@ const CONFIG = {
         "worldnews",
         "europe",
         "technology",
-        "programming",
-        "gamingnews"
+        "gamingnews",
+        "programming"
     ],
     postsPerSubreddit: 5,
 };
