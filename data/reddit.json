@@ -1,14 +1,6 @@
 {
   "worldnews": [
     {
-      "title": "UAE Warns US It Could Sell Oil in Chinese Yuan if War Drains Dollar Supplies, Triggering Biggest Threat to the Petrodollar Since the 1970s",
-      "permalink": "/r/worldnews/comments/1sse88d/uae_warns_us_it_could_sell_oil_in_chinese_yuan_if/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/fA39P9a7yICCDYi3IZNdWpBq0MhK-A5Cup0jaLAhtLY.jpeg?width=640&crop=smart&auto=webp&s=941e5006968135ec1bb47284056663d10f97114e",
-      "url": "https://www.reddit.com/r/worldnews/comments/1sse88d/uae_warns_us_it_could_sell_oil_in_chinese_yuan_if/",
-      "created_utc": null
-    },
-    {
       "title": "Canada will not let US dictate terms of USMCA review, says Carney",
       "permalink": "/r/worldnews/comments/1ssnhld/canada_will_not_let_us_dictate_terms_of_usmca/",
       "score": null,
@@ -39,6 +31,14 @@
       "thumbnail": "https://external-preview.redd.it/AWl6oSi4kq4emM73vcP-ePt6AAGdR7_VR92k3LrntrI.jpeg?width=640&crop=smart&auto=webp&s=655eaf161503bf6ed8f5e085fb1ef5d52c5c921d",
       "url": "https://www.reddit.com/r/worldnews/comments/1sso3wh/iran_seizes_ships_in_strait_of_hormuz_after_trump/",
       "created_utc": null
+    },
+    {
+      "title": "Iran more capable than Trump administration is publicly acknowledging, sources say",
+      "permalink": "/r/worldnews/comments/1sspfdm/iran_more_capable_than_trump_administration_is/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/mG2M3AtDpbKBjjzI1URVR2W2ih6YXWJ3ObH1vJn5OaM.jpeg?width=640&crop=smart&auto=webp&s=2b9f8037898a0c6efbd26a58272d53da09f3c36c",
+      "url": "https://www.reddit.com/r/worldnews/comments/1sspfdm/iran_more_capable_than_trump_administration_is/",
+      "created_utc": null
     }
   ],
   "europe": [
@@ -48,14 +48,6 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/4tfqWtxdjzIRK-3bSBnF0Jxk_pZTgVSVFSybmNHenm8.jpeg?width=640&crop=smart&auto=webp&s=bdbe1c3039483a277da838011c8263b128a3fbd6",
       "url": "https://www.reddit.com/r/europe/comments/1ssjkz2/eu_moves_to_ban_russian_war_veterans_from_entry/",
-      "created_utc": null
-    },
-    {
-      "title": "EU chief groups Turkey with Russia and China as \"threats to be countered,\" sparking diplomatic firestorm",
-      "permalink": "/r/europe/comments/1ssd3yz/eu_chief_groups_turkey_with_russia_and_china_as/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/Wzwxix-wAJJKCAMn6KqBouNEkRJaJUSg6JfHqHAK-kw.png?width=640&crop=smart&auto=webp&s=5530a4659551528294a2bc2635cda1274700797d",
-      "url": "https://www.reddit.com/r/europe/comments/1ssd3yz/eu_chief_groups_turkey_with_russia_and_china_as/",
       "created_utc": null
     },
     {
@@ -72,6 +64,14 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/0zGeV1v6zopmtwMbzeNyPnUyPDwli1Mm9FUxQeBWx4A.jpeg?width=640&crop=smart&auto=webp&s=723b306301d1098ad085c01813b03684648c89e0",
       "url": "https://www.reddit.com/r/europe/comments/1ssnaop/priceless_2500yearold_golden_helmet_returned_to/",
+      "created_utc": null
+    },
+    {
+      "title": "France confirms data breach at government agency that manages citizens' IDs",
+      "permalink": "/r/europe/comments/1sswpwz/france_confirms_data_breach_at_government_agency/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/veLyRTfqBZ909kBwhjLnKaDW2QYdr81u_3U8vyTeq3I.jpeg?width=640&crop=smart&auto=webp&s=39199928af7ab23b3943d94d025a4e0cf89f38a8",
+      "url": "https://www.reddit.com/r/europe/comments/1sswpwz/france_confirms_data_breach_at_government_agency/",
       "created_utc": null
     },
     {
@@ -109,19 +109,19 @@
       "created_utc": null
     },
     {
+      "title": "Anthropic has surged to a trillion-dollar valuation on secondary markets, overtaking OpenAI.",
+      "permalink": "/r/technology/comments/1st6fxr/anthropic_has_surged_to_a_trilliondollar/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/sq3naVe5VJVoZvqm8o1IwndbwIeT6Iwqpoi0x9tB730.jpeg?width=640&crop=smart&auto=webp&s=1e6f90fae331a2e20d4eea2d54113ee920ea6199",
+      "url": "https://www.reddit.com/r/technology/comments/1st6fxr/anthropic_has_surged_to_a_trilliondollar/",
+      "created_utc": null
+    },
+    {
       "title": "Data centers are dealing hidden damage to environmental and public health—costing the economy $25 billion every year",
       "permalink": "/r/technology/comments/1sskffu/data_centers_are_dealing_hidden_damage_to/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/q289aM1_CSsVRSamCAc3hlTEGuKbtUQPTENlUvd4S6Q.jpeg?width=640&crop=smart&auto=webp&s=7120f05cd041f79dd2108060fd2df5ed0ba5f9af",
       "url": "https://www.reddit.com/r/technology/comments/1sskffu/data_centers_are_dealing_hidden_damage_to/",
-      "created_utc": null
-    },
-    {
-      "title": "Palantir inks $300 million deal with USDA to safeguard food supply",
-      "permalink": "/r/technology/comments/1ssjyjw/palantir_inks_300_million_deal_with_usda_to/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/AxEcfH9VTwZ-c5EvYe_FYvZdkhnJpYx9AXXPb2MjjiA.jpeg?width=640&crop=smart&auto=webp&s=4f25e3650830d04529f8dc6d1bbb21155df493ac",
-      "url": "https://www.reddit.com/r/technology/comments/1ssjyjw/palantir_inks_300_million_deal_with_usda_to/",
       "created_utc": null
     }
   ],
@@ -159,11 +159,11 @@
       "created_utc": null
     },
     {
-      "title": "Ubisoft officially unveil Assassin's Creed Black Flag Resynced",
-      "permalink": "/r/gamingnews/comments/1st42lw/ubisoft_officially_unveil_assassins_creed_black/",
+      "title": "RUINER 2 - Official Gameplay Trailer",
+      "permalink": "/r/gamingnews/comments/1ssxf7c/ruiner_2_official_gameplay_trailer/",
       "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1st42lw/ubisoft_officially_unveil_assassins_creed_black/",
+      "thumbnail": "https://external-preview.redd.it/0l8JKlV4pf-VRdI0fTj_N4OtKGGC0Yc_6wwwiqI6lpo.jpeg?width=320&crop=smart&auto=webp&s=ba8af533364cc024a26722ac4f7bb11ed6203a27",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1ssxf7c/ruiner_2_official_gameplay_trailer/",
       "created_utc": null
     }
   ],
@@ -174,14 +174,6 @@
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1ssh8e2/markdown_aaron_swartz_the_weblog/",
-      "created_utc": null
-    },
-    {
-      "title": "Bun 1.1.13 out with memory fixes as dev complain of leaks",
-      "permalink": "/r/programming/comments/1sse59e/bun_1113_out_with_memory_fixes_as_dev_complain_of/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sse59e/bun_1113_out_with_memory_fixes_as_dev_complain_of/",
       "created_utc": null
     },
     {
@@ -201,6 +193,14 @@
       "created_utc": null
     },
     {
+      "title": "An update on the rust-coreutils rewrite for Ubuntu 26.04",
+      "permalink": "/r/programming/comments/1stch8t/an_update_on_the_rustcoreutils_rewrite_for_ubuntu/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1stch8t/an_update_on_the_rustcoreutils_rewrite_for_ubuntu/",
+      "created_utc": null
+    },
+    {
       "title": "The Work Runs on Different Maps",
       "permalink": "/r/programming/comments/1ssmxlj/the_work_runs_on_different_maps/",
       "score": null,
@@ -209,5 +209,5 @@
       "created_utc": null
     }
   ],
-  "generated_at": "2026-04-23T06:10:22.073Z"
+  "generated_at": "2026-04-23T09:50:02.471Z"
 }
