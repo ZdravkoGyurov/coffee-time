@@ -85,14 +85,6 @@
   ],
   "technology": [
     {
-      "title": "Federal Surveillance Tech Becomes Mandatory in New Cars by 2027",
-      "permalink": "/r/technology/comments/1suuk7c/federal_surveillance_tech_becomes_mandatory_in/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/aYT7vlBCX_N54sh4BoYDvq1ad7k3eG2SO2zN5IV8B8E.jpeg?width=640&crop=smart&auto=webp&s=41b59b3e9efc5d3418d3dfcf215952f6682da28d",
-      "url": "https://www.reddit.com/r/technology/comments/1suuk7c/federal_surveillance_tech_becomes_mandatory_in/",
-      "created_utc": null
-    },
-    {
       "title": "Palantir employees are talking about company’s “descent into fascism”",
       "permalink": "/r/technology/comments/1sve3jw/palantir_employees_are_talking_about_companys/",
       "score": null,
@@ -114,6 +106,14 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/uZBXTq9-wmzUp1vSsZ08fJuagWK1GHGoRPTaTroQWrE.jpeg?width=640&crop=smart&auto=webp&s=0bf300c565fddfa690a3e4c6fdf2879145824fa6",
       "url": "https://www.reddit.com/r/technology/comments/1sv2758/france_ditches_windows_for_linux_to_move_away/",
+      "created_utc": null
+    },
+    {
+      "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
+      "permalink": "/r/technology/comments/1svg24x/someone_allegedly_used_a_hairdryer_to_rig/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/SnTeoS7H1mCopuQNusWbgAIHWYCJW0s3jE-0h0hFYlE.jpeg?width=640&crop=smart&auto=webp&s=9eee066ce467bcd3eba235a7145b598ff8f2523a",
+      "url": "https://www.reddit.com/r/technology/comments/1svg24x/someone_allegedly_used_a_hairdryer_to_rig/",
       "created_utc": null
     },
     {
@@ -151,19 +151,11 @@
       "created_utc": null
     },
     {
-      "title": "Former Call of Duty Dev Has a Lead Role on Tarkov Head's New Game",
-      "permalink": "/r/gamingnews/comments/1suuhto/former_call_of_duty_dev_has_a_lead_role_on_tarkov/",
+      "title": "PS4 and PS5 DRM Claims Spark Concern Over 30 Day Online Check Requirement",
+      "permalink": "/r/gamingnews/comments/1svomqf/ps4_and_ps5_drm_claims_spark_concern_over_30_day/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/7FHesTQjdejb_V36INhH5ReqPGe6WJ_LJpfs_K-or30.jpeg?width=640&crop=smart&auto=webp&s=54128a279d413119801e736b6884f7e81106edd6",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1suuhto/former_call_of_duty_dev_has_a_lead_role_on_tarkov/",
-      "created_utc": null
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced: Collector's Edition Trailer",
-      "permalink": "/r/gamingnews/comments/1sutdxv/assassins_creed_black_flag_resynced_collectors/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/ONGsqw6RmMCCifbs2pS_8q_elHagDg1eLEh9Auc0aoc.jpeg?width=320&crop=smart&auto=webp&s=40aebcd89d011ef517d93926616713a1e870e125",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1sutdxv/assassins_creed_black_flag_resynced_collectors/",
+      "thumbnail": "https://external-preview.redd.it/I9SWEFwDnpkivxlGbd6o6FTd6n0h6QIN-IOpakwx0OI.png?width=640&crop=smart&auto=webp&s=8c9e47bce152fb171642298f6b72c9c051d54d34",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1svomqf/ps4_and_ps5_drm_claims_spark_concern_over_30_day/",
       "created_utc": null
     }
   ],
@@ -177,27 +169,11 @@
       "created_utc": null
     },
     {
-      "title": "My audio interface has ssh enabled by default",
-      "permalink": "/r/programming/comments/1sutiw3/my_audio_interface_has_ssh_enabled_by_default/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1sutiw3/my_audio_interface_has_ssh_enabled_by_default/",
-      "created_utc": null
-    },
-    {
       "title": "GitHub Status - Incident with Pull Requests",
       "permalink": "/r/programming/comments/1suzrdx/github_status_incident_with_pull_requests/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1suzrdx/github_status_incident_with_pull_requests/",
-      "created_utc": null
-    },
-    {
-      "title": "A Field Guide to bugs",
-      "permalink": "/r/programming/comments/1svb7tw/a_field_guide_to_bugs/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1svb7tw/a_field_guide_to_bugs/",
       "created_utc": null
     },
     {
@@ -207,7 +183,23 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1svk4ij/npm_slop_wonky_software_supply_chains/",
       "created_utc": null
+    },
+    {
+      "title": "In-Flight Request Tracking: Lessons from Card Payments and HTTP/2",
+      "permalink": "/r/programming/comments/1svif0b/inflight_request_tracking_lessons_from_card/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1svif0b/inflight_request_tracking_lessons_from_card/",
+      "created_utc": null
+    },
+    {
+      "title": "A Field Guide to bugs",
+      "permalink": "/r/programming/comments/1svb7tw/a_field_guide_to_bugs/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1svb7tw/a_field_guide_to_bugs/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-25T20:49:01.393Z"
+  "generated_at": "2026-04-25T22:44:51.729Z"
 }
