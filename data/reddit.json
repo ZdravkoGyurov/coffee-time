@@ -1,14 +1,6 @@
 {
   "worldnews": [
     {
-      "title": "Nato says US cannot suspend Spain from alliance, after reported Pentagon email",
-      "permalink": "/r/worldnews/comments/1subt89/nato_says_us_cannot_suspend_spain_from_alliance/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/raKYrzMHt21o-66eXu8LHlUKXs9vomk9l6prISbJqRI.jpeg?width=640&crop=smart&auto=webp&s=361a9f3c0b5311e964804e16dd3d2426ff45a865",
-      "url": "https://www.reddit.com/r/worldnews/comments/1subt89/nato_says_us_cannot_suspend_spain_from_alliance/",
-      "created_utc": null
-    },
-    {
       "title": "34 Iran Tankers Slip Past US Hormuz Blockade, With Over $900 Million In Oil: Report",
       "permalink": "/r/worldnews/comments/1sutjpw/34_iran_tankers_slip_past_us_hormuz_blockade_with/",
       "score": null,
@@ -39,6 +31,14 @@
       "thumbnail": "https://external-preview.redd.it/QpvvQadsq-e96eCBc47uZ_PpF8hFwzDFKPgmQJJBb9Y.jpeg?width=640&crop=smart&auto=webp&s=a840efbe0bb0f6e7291a52624a23c85f797b460a",
       "url": "https://www.reddit.com/r/worldnews/comments/1sue0l9/polish_pm_in_apparent_jab_at_orbán_first_eu/",
       "created_utc": null
+    },
+    {
+      "title": "Trump offering Canadian aluminum and steel companies tariff relief if they move to U.S.",
+      "permalink": "/r/worldnews/comments/1suqy03/trump_offering_canadian_aluminum_and_steel/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/ENXGGL-ZJt8Zqhid2f-RZNAmacApIcZ1JcVEEHRgy-k.jpeg?width=320&crop=smart&auto=webp&s=96943143a94d138b7acbbf5c68036137e22076c0",
+      "url": "https://www.reddit.com/r/worldnews/comments/1suqy03/trump_offering_canadian_aluminum_and_steel/",
+      "created_utc": null
     }
   ],
   "europe": [
@@ -67,19 +67,19 @@
       "created_utc": null
     },
     {
-      "title": "UK Grieving mother to end her life in Swiss clinic four years after losing her son",
-      "permalink": "/r/europe/comments/1sublwx/uk_grieving_mother_to_end_her_life_in_swiss/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/-I1X0hsmITBI_G2P5gSk8DMRpUuxcIEAMKkI5PVKE-U.jpeg?width=640&crop=smart&auto=webp&s=0a803988506cf7ad0a393dab37c247c0a8f7bffa",
-      "url": "https://www.reddit.com/r/europe/comments/1sublwx/uk_grieving_mother_to_end_her_life_in_swiss/",
-      "created_utc": null
-    },
-    {
       "title": "Airlines will be forced to cancel flights amid jet fuel shortages this summer",
       "permalink": "/r/europe/comments/1sujs7p/airlines_will_be_forced_to_cancel_flights_amid/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/KcS4cbcG1mJnI8x_ZxnLNMQoNf-IudOjrh4y7wr3CQ0.jpeg?width=640&crop=smart&auto=webp&s=dac6642e1c497d1f66978b45d32ce73c4909c57b",
       "url": "https://www.reddit.com/r/europe/comments/1sujs7p/airlines_will_be_forced_to_cancel_flights_amid/",
+      "created_utc": null
+    },
+    {
+      "title": "The political left is disappearing across Central Europe, despite Orban's defeat in Hungary",
+      "permalink": "/r/europe/comments/1sue48a/the_political_left_is_disappearing_across_central/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/bLqsLc7tKKG1vMP7IgT5EdQveEp3rtSFPR6bZcp6p9s.jpeg?width=640&crop=smart&auto=webp&s=62b3a2c2d379e891d96e6cae318b34728ff044d5",
+      "url": "https://www.reddit.com/r/europe/comments/1sue48a/the_political_left_is_disappearing_across_central/",
       "created_utc": null
     }
   ],
@@ -185,14 +185,6 @@
       "created_utc": null
     },
     {
-      "title": "Clock Synchronization Is a Nightmare",
-      "permalink": "/r/programming/comments/1suc1ds/clock_synchronization_is_a_nightmare/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1suc1ds/clock_synchronization_is_a_nightmare/",
-      "created_utc": null
-    },
-    {
       "title": "On sabotaging projects by overthinking",
       "permalink": "/r/programming/comments/1sumkeu/on_sabotaging_projects_by_overthinking/",
       "score": null,
@@ -207,7 +199,15 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1sucv4e/hunting_a_windows_arm_crash_through_rust_c_and_a/",
       "created_utc": null
+    },
+    {
+      "title": "Modern LZ Compression Part 2: FSE and Arithmetic Coding",
+      "permalink": "/r/programming/comments/1suioko/modern_lz_compression_part_2_fse_and_arithmetic/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1suioko/modern_lz_compression_part_2_fse_and_arithmetic/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-04-25T09:01:22.934Z"
+  "generated_at": "2026-04-25T10:50:43.592Z"
 }
