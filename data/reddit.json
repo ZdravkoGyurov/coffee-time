@@ -59,6 +59,14 @@
       "created_utc": null
     },
     {
+      "title": "US president says 'probably' when asked if he might pull US troops out of Italy and Spain",
+      "permalink": "/r/europe/comments/1t0jsnh/us_president_says_probably_when_asked_if_he_might/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/dS0DDUpjG1JT-jxlmE5izgPCMuUnxixZ2zqJnG9VXq8.jpeg?width=640&crop=smart&auto=webp&s=eca5a4b777f1c6578dbc57369ff694e3157eed32",
+      "url": "https://www.reddit.com/r/europe/comments/1t0jsnh/us_president_says_probably_when_asked_if_he_might/",
+      "created_utc": null
+    },
+    {
       "title": "Russia to hold Victory Day parade without military equipment amid Ukraine war",
       "permalink": "/r/europe/comments/1szu1wx/russia_to_hold_victory_day_parade_without/",
       "score": null,
@@ -72,14 +80,6 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/ct1338dyJgXQYv70pOfPwvZo6WxcvI_YCV1i5ArO4Ug.jpeg?width=640&crop=smart&auto=webp&s=8a255b2d88317e7659bc3511c38c85e94e6666ff",
       "url": "https://www.reddit.com/r/europe/comments/1szwqwp/bus_sinks_into_the_river_seine_near_paris_after/",
-      "created_utc": null
-    },
-    {
-      "title": "US president says 'probably' when asked if he might pull US troops out of Italy and Spain",
-      "permalink": "/r/europe/comments/1t0jsnh/us_president_says_probably_when_asked_if_he_might/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/dS0DDUpjG1JT-jxlmE5izgPCMuUnxixZ2zqJnG9VXq8.jpeg?width=640&crop=smart&auto=webp&s=eca5a4b777f1c6578dbc57369ff694e3157eed32",
-      "url": "https://www.reddit.com/r/europe/comments/1t0jsnh/us_president_says_probably_when_asked_if_he_might/",
       "created_utc": null
     }
   ],
@@ -151,19 +151,19 @@
       "created_utc": null
     },
     {
-      "title": "Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today",
-      "permalink": "/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/4CX0XPUnIkptNGI0A42hTFVG1S4ARWVTY4BGuMzKjO4.jpeg?width=640&crop=smart&auto=webp&s=22d5e605aa68e208b95a2d42225f0365b5da58a5",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
-      "created_utc": null
-    },
-    {
       "title": "The New York Childrens Online Safety Act will ban anyone under 18 from chatting online and force all virtual platforms to perform age verification checks for all users.",
       "permalink": "/r/gamingnews/comments/1t0c2cu/the_new_york_childrens_online_safety_act_will_ban/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/SJm-1FrbkEq2QzYFvtsbhKWrpsFyPcyJu3jf6cClWy4.png?width=640&crop=smart&auto=webp&s=b5fc5ace66967bc1dbc8cb3e613a8670ae2b4eb2",
       "url": "https://www.reddit.com/r/gamingnews/comments/1t0c2cu/the_new_york_childrens_online_safety_act_will_ban/",
+      "created_utc": null
+    },
+    {
+      "title": "Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today",
+      "permalink": "/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/4CX0XPUnIkptNGI0A42hTFVG1S4ARWVTY4BGuMzKjO4.jpeg?width=640&crop=smart&auto=webp&s=22d5e605aa68e208b95a2d42225f0365b5da58a5",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
       "created_utc": null
     }
   ],
@@ -174,14 +174,6 @@
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1t058mu/microsoft_opensources_the_earliest_dos_source/",
-      "created_utc": null
-    },
-    {
-      "title": "Copy Fail: an exploit for all Linux distributions since 2017",
-      "permalink": "/r/programming/comments/1szrkre/copy_fail_an_exploit_for_all_linux_distributions/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1szrkre/copy_fail_an_exploit_for_all_linux_distributions/",
       "created_utc": null
     },
     {
@@ -207,7 +199,15 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1t0m1pn/for_linux_kernel_vulnerabilities_there_is_no/",
       "created_utc": null
+    },
+    {
+      "title": "HA pipelines without Kafka",
+      "permalink": "/r/programming/comments/1t04cxo/ha_pipelines_without_kafka/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1t04cxo/ha_pipelines_without_kafka/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-05-01T09:51:52.680Z"
+  "generated_at": "2026-05-01T11:12:31.574Z"
 }
