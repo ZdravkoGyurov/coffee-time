@@ -1,22 +1,6 @@
 {
   "worldnews": [
     {
-      "title": "The US is no longer the leader: Germany has become the largest ammunition producer in the world",
-      "permalink": "/r/worldnews/comments/1t2zocy/the_us_is_no_longer_the_leader_germany_has_become/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/dzZTqokNKoiTj_IMZVCraQYEdOp8NPHQaUnkBascH-c.jpeg?width=640&crop=smart&auto=webp&s=861443a157656619108b3ec0f11d2a4383becd43",
-      "url": "https://www.reddit.com/r/worldnews/comments/1t2zocy/the_us_is_no_longer_the_leader_germany_has_become/",
-      "created_utc": null
-    },
-    {
-      "title": "Putin shelters in bunkers amid ‘assassination’ fears",
-      "permalink": "/r/worldnews/comments/1t3ekny/putin_shelters_in_bunkers_amid_assassination_fears/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/VZBCniq2CcdbrWgwJ2mScOON1gySOs-LunMoyVTZJgU.jpeg?width=640&crop=smart&auto=webp&s=6bafbd95613a9dd48a6e3ab8d0a3734746205aca",
-      "url": "https://www.reddit.com/r/worldnews/comments/1t3ekny/putin_shelters_in_bunkers_amid_assassination_fears/",
-      "created_utc": null
-    },
-    {
       "title": "Volodymyr Zelenskyy warned that Ukrainian drones may target Russia’s May 9 Victory Day parade in Moscow",
       "permalink": "/r/worldnews/comments/1t3jfnm/volodymyr_zelenskyy_warned_that_ukrainian_drones/",
       "score": null,
@@ -39,23 +23,39 @@
       "thumbnail": "https://external-preview.redd.it/QedbkxX8czzZi1b_foKDJGRjLBg49gfi98or-1qtlAQ.jpeg?width=640&crop=smart&auto=webp&s=25f30f44fe46bb92d883ae972f9ef345fa9f90e2",
       "url": "https://www.reddit.com/r/worldnews/comments/1t3c23e/drone_attack_targets_moscow_building_just_miles/",
       "created_utc": null
+    },
+    {
+      "title": "Iran Threatens to Attack US Navy if it Enters Strait of Hormuz",
+      "permalink": "/r/worldnews/comments/1t3ajqf/iran_threatens_to_attack_us_navy_if_it_enters/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/OJHQ9sO4Yq1jnJEkKm-50F1GvKumfrhhxvCSesEWaB8.jpeg?width=640&crop=smart&auto=webp&s=584c110b740960a1b84af1360aca46063af83244",
+      "url": "https://www.reddit.com/r/worldnews/comments/1t3ajqf/iran_threatens_to_attack_us_navy_if_it_enters/",
+      "created_utc": null
+    },
+    {
+      "title": "Putin declares May 8-9 ceasefire with Ukraine to mark WWII anniversary, Defence Ministry says",
+      "permalink": "/r/worldnews/comments/1t3qsng/putin_declares_may_89_ceasefire_with_ukraine_to/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/dzT8i7e9jmvzB9RkHpzfsjv8PRvKskTNyiu2qBwa1aI.jpeg?width=640&crop=smart&auto=webp&s=a604370b3359f6300b458935bf7558d370e692f5",
+      "url": "https://www.reddit.com/r/worldnews/comments/1t3qsng/putin_declares_may_89_ceasefire_with_ukraine_to/",
+      "created_utc": null
     }
   ],
   "europe": [
-    {
-      "title": "Unsettled Kremlin tightens security around Putin amid assassinations and coup fears, intel report says",
-      "permalink": "/r/europe/comments/1t3ay21/unsettled_kremlin_tightens_security_around_putin/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/3xE6TAf_Pj0DfYJuJ2tNzyAdp7jYYi8VrA5zhPpOBRc.jpeg?width=640&crop=smart&auto=webp&s=0c0717f686872dc848f49a89d1ae5e680e51d0c3",
-      "url": "https://www.reddit.com/r/europe/comments/1t3ay21/unsettled_kremlin_tightens_security_around_putin/",
-      "created_utc": null
-    },
     {
       "title": "34 European leaders and Canadian Prime Minister Carney gather in Yerevan for the 8th European Political Community Summit",
       "permalink": "/r/europe/comments/1t3d0bd/34_european_leaders_and_canadian_prime_minister/",
       "score": null,
       "thumbnail": "https://preview.redd.it/316l1wi4d3zg1.jpeg?width=640&crop=smart&auto=webp&s=6e01a7021c439956ef24e1b1b7185cb12e22fe07",
       "url": "https://www.reddit.com/r/europe/comments/1t3d0bd/34_european_leaders_and_canadian_prime_minister/",
+      "created_utc": null
+    },
+    {
+      "title": "Unsettled Kremlin tightens security around Putin amid assassinations and coup fears, intel report says",
+      "permalink": "/r/europe/comments/1t3ay21/unsettled_kremlin_tightens_security_around_putin/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/3xE6TAf_Pj0DfYJuJ2tNzyAdp7jYYi8VrA5zhPpOBRc.jpeg?width=640&crop=smart&auto=webp&s=0c0717f686872dc848f49a89d1ae5e680e51d0c3",
+      "url": "https://www.reddit.com/r/europe/comments/1t3ay21/unsettled_kremlin_tightens_security_around_putin/",
       "created_utc": null
     },
     {
@@ -109,11 +109,11 @@
       "created_utc": null
     },
     {
-      "title": "Sam Altman says the quiet part out loud, confirming some companies are ‘AI washing’ by blaming unrelated layoffs on the technology",
-      "permalink": "/r/technology/comments/1t2xz7z/sam_altman_says_the_quiet_part_out_loud/",
+      "title": "Some children are drawing on fake moustaches to bypass online age checks, report says",
+      "permalink": "/r/technology/comments/1t3my5g/some_children_are_drawing_on_fake_moustaches_to/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/pCBW6lifVeEBorKOxsthOTvnOR_U8lQGeOhfuYgUOh0.jpeg?width=640&crop=smart&auto=webp&s=310b1c362812922cf603cd6ea87cac4ce10ee941",
-      "url": "https://www.reddit.com/r/technology/comments/1t2xz7z/sam_altman_says_the_quiet_part_out_loud/",
+      "thumbnail": "https://external-preview.redd.it/t2qoPCaoYMLbOrk7YdJNuIt9LT3_FLUvHZv1NMFZHAs.jpeg?width=640&crop=smart&auto=webp&s=661e9627cd9363d32ecec6f04e54a41b42366761",
+      "url": "https://www.reddit.com/r/technology/comments/1t3my5g/some_children_are_drawing_on_fake_moustaches_to/",
       "created_utc": null
     },
     {
@@ -151,19 +151,19 @@
       "created_utc": null
     },
     {
+      "title": "Into The Grid, the argentinian cyberpunk indie game about hacking corporations and exploring cyberspace launches its Metaprogression Update, their biggest patch to date.",
+      "permalink": "/r/gamingnews/comments/1t3wb60/into_the_grid_the_argentinian_cyberpunk_indie/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/T9j_rgLhMMCe1Okb52GDvk0W35X8zPFpGIs1yVgrKmo.jpeg?width=320&crop=smart&auto=webp&s=076014e4d83d86b6d323ceb85554ceacdd6a82bd",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1t3wb60/into_the_grid_the_argentinian_cyberpunk_indie/",
+      "created_utc": null
+    },
+    {
       "title": "Resident Evil Requiem Producer Responds to DLSS 5 AI Grace Backlash",
       "permalink": "/r/gamingnews/comments/1t3m1tu/resident_evil_requiem_producer_responds_to_dlss_5/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/YHWc6A_hfhaw8nRvaCggjNWGFlaa9oH_RCRR48vIs-w.jpeg?width=640&crop=smart&auto=webp&s=a5679dc208e6a79a5dd9ad88c1c779b051bd7608",
       "url": "https://www.reddit.com/r/gamingnews/comments/1t3m1tu/resident_evil_requiem_producer_responds_to_dlss_5/",
-      "created_utc": null
-    },
-    {
-      "title": "Marvel Tōkon: Fighting Souls - Fighting Avengers Trailer | PS5 & PC Games",
-      "permalink": "/r/gamingnews/comments/1t38gws/marvel_tōkon_fighting_souls_fighting_avengers/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/CHXqvvk8jaiG7AyWgEN1LZl2RG_fxH5JZWmWgYSe8nQ.jpeg?width=320&crop=smart&auto=webp&s=b79976642cd963f0b863167f0f247c91ccd84970",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1t38gws/marvel_tōkon_fighting_souls_fighting_avengers/",
       "created_utc": null
     }
   ],
@@ -209,5 +209,5 @@
       "created_utc": null
     }
   ],
-  "generated_at": "2026-05-04T21:13:39.242Z"
+  "generated_at": "2026-05-04T23:00:21.108Z"
 }
