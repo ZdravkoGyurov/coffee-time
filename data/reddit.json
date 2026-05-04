@@ -17,14 +17,6 @@
       "created_utc": null
     },
     {
-      "title": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
-      "permalink": "/r/worldnews/comments/1t2bsos/germany_says_us_troop_withdrawal_anticipated/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/RjgNC9D0m3DgleqSKYuJpMdRB3NTC80xfIzvp-pMhPU.jpeg?width=640&crop=smart&auto=webp&s=b531e1277dcb13cf8e4eae7c2bf0a62bbc980d0e",
-      "url": "https://www.reddit.com/r/worldnews/comments/1t2bsos/germany_says_us_troop_withdrawal_anticipated/",
-      "created_utc": null
-    },
-    {
       "title": "Ukraine on Sunday launched a wave of strikes against Russian oil targets, hitting a key loading port on the Baltic Sea and two tankers that Ukraine alleges were illegally used to transport Russian crude",
       "permalink": "/r/worldnews/comments/1t2kajd/ukraine_on_sunday_launched_a_wave_of_strikes/",
       "score": null,
@@ -39,6 +31,14 @@
       "thumbnail": "https://external-preview.redd.it/iFz56Wxtrv_1BxRx2pYcMir5_um4YtwjryUUBvBdyHw.jpeg?width=640&crop=smart&auto=webp&s=863820ffa5296777cd9a65267e6d23579de1f774",
       "url": "https://www.reddit.com/r/worldnews/comments/1t2fwyy/post_oct_7_world_israel_to_purchase_100_f35s_50/",
       "created_utc": null
+    },
+    {
+      "title": "Iran has proposed a 14-point plan to the US to end the war within 30 days",
+      "permalink": "/r/worldnews/comments/1t2w6p6/iran_has_proposed_a_14point_plan_to_the_us_to_end/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/dIv1P8F1_dtGlW4KM7VU_bS7XPFei0W4CLHwJ05kwrQ.jpeg?width=640&crop=smart&auto=webp&s=84069a1f569f096e61b357888519e4c278779317",
+      "url": "https://www.reddit.com/r/worldnews/comments/1t2w6p6/iran_has_proposed_a_14point_plan_to_the_us_to_end/",
+      "created_utc": null
     }
   ],
   "europe": [
@@ -48,14 +48,6 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/dzZTqokNKoiTj_IMZVCraQYEdOp8NPHQaUnkBascH-c.jpeg?width=640&crop=smart&auto=webp&s=861443a157656619108b3ec0f11d2a4383becd43",
       "url": "https://www.reddit.com/r/europe/comments/1t2sclx/the_us_is_no_longer_the_leader_germany_has_become/",
-      "created_utc": null
-    },
-    {
-      "title": "Europe map made of jerseys made by me",
-      "permalink": "/r/europe/comments/1t2bbbc/europe_map_made_of_jerseys_made_by_me/",
-      "score": null,
-      "thumbnail": "https://preview.redd.it/i95kyfvumuyg1.png?width=640&crop=smart&auto=webp&s=5e696dcc27e9053b75c48cb2c3d4ce31d6c59185",
-      "url": "https://www.reddit.com/r/europe/comments/1t2bbbc/europe_map_made_of_jerseys_made_by_me/",
       "created_utc": null
     },
     {
@@ -81,6 +73,14 @@
       "thumbnail": "https://external-preview.redd.it/zmowTtcw6613HruKY5Id5EakgWGgibdlsf8Xo1Jh5Ss.jpeg?width=640&crop=smart&auto=webp&s=2d6fcb6ad737116418a6fccba85068e87716c551",
       "url": "https://www.reddit.com/r/europe/comments/1t2fxs2/made_in_europe_the_eu_plan_that_has_angered_china/",
       "created_utc": null
+    },
+    {
+      "title": "All Four Sentinel-1 Satellites Are Now Live — and Europe's Earth Watch Just Got Stronger",
+      "permalink": "/r/europe/comments/1t2fsyw/all_four_sentinel1_satellites_are_now_live_and/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/BNkgGDhalzr4RpmukQIbAe1CLr2JmGTQhyq4hTZPcl8.jpeg?width=640&crop=smart&auto=webp&s=a44eaf05486906cb2610b17c9a775912cb4fd6f7",
+      "url": "https://www.reddit.com/r/europe/comments/1t2fsyw/all_four_sentinel1_satellites_are_now_live_and/",
+      "created_utc": null
     }
   ],
   "technology": [
@@ -101,19 +101,19 @@
       "created_utc": null
     },
     {
-      "title": "Valve CEO Gabe Newell was an enthusiastic supporter of OpenAI in 2018, donating $20 million and even acting as the sole member of an \"informal advisory board\"",
-      "permalink": "/r/technology/comments/1t2d1iu/valve_ceo_gabe_newell_was_an_enthusiastic/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/tTgU8LoxovirbojmL55G-VQCcmq7fD2W836Hz2AsiTE.jpeg?width=640&crop=smart&auto=webp&s=a60af48b9d168bde7e49833a70a10a87ea5f09ef",
-      "url": "https://www.reddit.com/r/technology/comments/1t2d1iu/valve_ceo_gabe_newell_was_an_enthusiastic/",
-      "created_utc": null
-    },
-    {
       "title": "Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks",
       "permalink": "/r/technology/comments/1t2oy0q/utah_first_state_to_hold_websites_liable_for/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/nvZcOyYPn0t2IitlYJvR59zb5q2G00TtK6f-VKF63xI.jpeg?width=640&crop=smart&auto=webp&s=ea97d12828c2e16e7cf79cea9af2921a24aa411e",
       "url": "https://www.reddit.com/r/technology/comments/1t2oy0q/utah_first_state_to_hold_websites_liable_for/",
+      "created_utc": null
+    },
+    {
+      "title": "Big Tech cut 80,000 jobs and blamed AI — Experts say a real problem is that companies are 25% to 75% overstaffed",
+      "permalink": "/r/technology/comments/1t31dic/big_tech_cut_80000_jobs_and_blamed_ai_experts_say/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/LoCIC0w3PgIwcTMn-Is-42jLpjwPSmXRXtTpyM9b4SA.jpeg?width=640&crop=smart&auto=webp&s=3b75e86d1b399a515fb2f2442119919597233ec7",
+      "url": "https://www.reddit.com/r/technology/comments/1t31dic/big_tech_cut_80000_jobs_and_blamed_ai_experts_say/",
       "created_utc": null
     },
     {
@@ -151,19 +151,19 @@
       "created_utc": null
     },
     {
-      "title": "Former Ubisoft Halifax workers launch independent video game studio",
-      "permalink": "/r/gamingnews/comments/1t2i0e9/former_ubisoft_halifax_workers_launch_independent/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/ijTZRJFHSlLyZzQRxqEBGtDWVGk1mDfzoZuKl9FZZPY.jpeg?width=640&crop=smart&auto=webp&s=36a44ba08fac3e0ba107a36c517dfa53352cad71",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1t2i0e9/former_ubisoft_halifax_workers_launch_independent/",
-      "created_utc": null
-    },
-    {
       "title": "MindsEye CEO Apparently Found Time To Vibe Code An AI Feature",
       "permalink": "/r/gamingnews/comments/1t2qoc7/mindseye_ceo_apparently_found_time_to_vibe_code/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/WGZy_XAt5h0uZiHXp5c1yTwWG4xMlKHk0XFHr2V5CeY.jpeg?width=640&crop=smart&auto=webp&s=9c7960b2d4c6e14123606642d2be9af5fdb61406",
       "url": "https://www.reddit.com/r/gamingnews/comments/1t2qoc7/mindseye_ceo_apparently_found_time_to_vibe_code/",
+      "created_utc": null
+    },
+    {
+      "title": "Former Ubisoft Halifax workers launch independent video game studio",
+      "permalink": "/r/gamingnews/comments/1t2i0e9/former_ubisoft_halifax_workers_launch_independent/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/ijTZRJFHSlLyZzQRxqEBGtDWVGk1mDfzoZuKl9FZZPY.jpeg?width=640&crop=smart&auto=webp&s=36a44ba08fac3e0ba107a36c517dfa53352cad71",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1t2i0e9/former_ubisoft_halifax_workers_launch_independent/",
       "created_utc": null
     }
   ],
@@ -177,19 +177,19 @@
       "created_utc": null
     },
     {
+      "title": "The peril of laziness lost",
+      "permalink": "/r/programming/comments/1t3712i/the_peril_of_laziness_lost/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1t3712i/the_peril_of_laziness_lost/",
+      "created_utc": null
+    },
+    {
       "title": "Dependencies are Replacing Knowledge",
       "permalink": "/r/programming/comments/1t2dzdo/dependencies_are_replacing_knowledge/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1t2dzdo/dependencies_are_replacing_knowledge/",
-      "created_utc": null
-    },
-    {
-      "title": "A more efficient implementation of Shor's algorithm",
-      "permalink": "/r/programming/comments/1t2gg8x/a_more_efficient_implementation_of_shors_algorithm/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1t2gg8x/a_more_efficient_implementation_of_shors_algorithm/",
       "created_utc": null
     },
     {
@@ -201,13 +201,13 @@
       "created_utc": null
     },
     {
-      "title": "Reading Algorithms Like an Engineer: Implementing ANN",
-      "permalink": "/r/programming/comments/1t2hjka/reading_algorithms_like_an_engineer_implementing/",
+      "title": "A more efficient implementation of Shor's algorithm",
+      "permalink": "/r/programming/comments/1t2gg8x/a_more_efficient_implementation_of_shors_algorithm/",
       "score": null,
       "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1t2hjka/reading_algorithms_like_an_engineer_implementing/",
+      "url": "https://www.reddit.com/r/programming/comments/1t2gg8x/a_more_efficient_implementation_of_shors_algorithm/",
       "created_utc": null
     }
   ],
-  "generated_at": "2026-05-04T03:49:27.020Z"
+  "generated_at": "2026-05-04T06:45:38.233Z"
 }
