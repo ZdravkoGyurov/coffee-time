@@ -67,19 +67,19 @@
       "created_utc": null
     },
     {
+      "title": "No obligation to declare £5m gift, Farage says",
+      "permalink": "/r/europe/comments/1t54rh5/no_obligation_to_declare_5m_gift_farage_says/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/OYZq6sRbcNWb9oD3j4eX5nHmgd-lzcrFPxIrTq0pI9g.jpeg?width=640&crop=smart&auto=webp&s=96a2e568f92398fba3a9d069fc9bbb1819784884",
+      "url": "https://www.reddit.com/r/europe/comments/1t54rh5/no_obligation_to_declare_5m_gift_farage_says/",
+      "created_utc": null
+    },
+    {
       "title": "The Court of Auditors detects 2.389 billion euros of European funds intended to pay pensions in Spain",
       "permalink": "/r/europe/comments/1t4nh4g/the_court_of_auditors_detects_2389_billion_euros/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/aS3nTxBGfR77l_XhlmtU84hwrJ5R7DXDlULdc61knWU.jpeg?width=640&crop=smart&auto=webp&s=7810642bdcc44ea128be18e643b34d0306c9c88d",
       "url": "https://www.reddit.com/r/europe/comments/1t4nh4g/the_court_of_auditors_detects_2389_billion_euros/",
-      "created_utc": null
-    },
-    {
-      "title": "Norway offers up to 70 new oil and gas drilling permits",
-      "permalink": "/r/europe/comments/1t4gqes/norway_offers_up_to_70_new_oil_and_gas_drilling/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/2z7WkdGq0ahc0QEHy2nYjjLS0B2hx2nOuUsb03_27Xo.jpeg?width=640&crop=smart&auto=webp&s=c1ff53ee9090e4d95404e88e73dc40dc79a794c2",
-      "url": "https://www.reddit.com/r/europe/comments/1t4gqes/norway_offers_up_to_70_new_oil_and_gas_drilling/",
       "created_utc": null
     }
   ],
@@ -159,37 +159,21 @@
       "created_utc": null
     },
     {
-      "title": "Valve's new controller sells out instantly",
-      "permalink": "/r/gamingnews/comments/1t49jih/valves_new_controller_sells_out_instantly/",
+      "title": "Xbox CEO Asha Sharma is bringing over executives from the CoreAI engineering group, along with a director at her previous company Instacart: 'We need to evolve how we work'",
+      "permalink": "/r/gamingnews/comments/1t4kqnz/xbox_ceo_asha_sharma_is_bringing_over_executives/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/1CpOsBrDIkmXgIJWBQZZSATVi8ZAudQHwpjq2QHUt-M.jpeg?width=640&crop=smart&auto=webp&s=2766306ed55b38fde49d644363f45cb7057a442c",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1t49jih/valves_new_controller_sells_out_instantly/",
+      "thumbnail": "https://external-preview.redd.it/Y2A8E2OEg_PIxbd_AzB5g6aU37Ev5eQobHAXXSF_Ku4.jpeg?width=640&crop=smart&auto=webp&s=704f379d841324ca396d5b3cd0ebe60a808f98a0",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1t4kqnz/xbox_ceo_asha_sharma_is_bringing_over_executives/",
       "created_utc": null
     }
   ],
   "programming": [
-    {
-      "title": "Update on \"Co-authored-by: Copilot\" in commit messages · Issue #314311 · microsoft/vscode",
-      "permalink": "/r/programming/comments/1t49srb/update_on_coauthoredby_copilot_in_commit_messages/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1t49srb/update_on_coauthoredby_copilot_in_commit_messages/",
-      "created_utc": null
-    },
     {
       "title": "Building Websites With Lots of Little HTML Pages",
       "permalink": "/r/programming/comments/1t4gubp/building_websites_with_lots_of_little_html_pages/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1t4gubp/building_websites_with_lots_of_little_html_pages/",
-      "created_utc": null
-    },
-    {
-      "title": "Bun is being rewritten to Rust",
-      "permalink": "/r/programming/comments/1t480nm/bun_is_being_rewritten_to_rust/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1t480nm/bun_is_being_rewritten_to_rust/",
       "created_utc": null
     },
     {
@@ -207,7 +191,23 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1t4luwo/code_coverage_tells_you_what_you_didnt_test_not/",
       "created_utc": null
+    },
+    {
+      "title": "Par, a session-typed language with automatic concurrency, and no panics or deadlocks",
+      "permalink": "/r/programming/comments/1t4bg2q/par_a_sessiontyped_language_with_automatic/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1t4bg2q/par_a_sessiontyped_language_with_automatic/",
+      "created_utc": null
+    },
+    {
+      "title": "OpenTelemetry signals from first principles",
+      "permalink": "/r/programming/comments/1t4vww7/opentelemetry_signals_from_first_principles/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1t4vww7/opentelemetry_signals_from_first_principles/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-05-06T06:35:34.105Z"
+  "generated_at": "2026-05-06T10:23:35.265Z"
 }
