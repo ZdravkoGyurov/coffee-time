@@ -75,11 +75,11 @@
       "created_utc": null
     },
     {
-      "title": "Danish Prime Minister Fredriksen fails to form coalition, liberal takes over | Euractiv",
-      "permalink": "/r/europe/comments/1t82r3k/danish_prime_minister_fredriksen_fails_to_form/",
+      "title": "Swedish state television found ”Hide the pain Harold” celebrating Magyar at his inaguration",
+      "permalink": "/r/europe/comments/1t92hz7/swedish_state_television_found_hide_the_pain/",
       "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/europe/comments/1t82r3k/danish_prime_minister_fredriksen_fails_to_form/",
+      "thumbnail": "https://external-preview.redd.it/rgRR0_DNZpSng3dl0UMq1DlLLRiWubmNdGnl_RKugB0.jpeg?width=640&crop=smart&auto=webp&s=4b8aed69b10759fe8f81db30a9499905726d0047",
+      "url": "https://www.reddit.com/r/europe/comments/1t92hz7/swedish_state_television_found_hide_the_pain/",
       "created_utc": null
     }
   ],
@@ -177,14 +177,6 @@
       "created_utc": null
     },
     {
-      "title": "You should read Programming as Theory Building",
-      "permalink": "/r/programming/comments/1t81wbu/you_should_read_programming_as_theory_building/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1t81wbu/you_should_read_programming_as_theory_building/",
-      "created_utc": null
-    },
-    {
       "title": "Docker images are hundreds of MB; a full game engine compiles to 35MB WASM",
       "permalink": "/r/programming/comments/1t885cp/docker_images_are_hundreds_of_mb_a_full_game/",
       "score": null,
@@ -207,7 +199,15 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1t8oq9k/against_query_based_compilers/",
       "created_utc": null
+    },
+    {
+      "title": "wgsl.run - a WGSL sandbox with live WebGPU preview",
+      "permalink": "/r/programming/comments/1t8zlr8/wgslrun_a_wgsl_sandbox_with_live_webgpu_preview/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1t8zlr8/wgslrun_a_wgsl_sandbox_with_live_webgpu_preview/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-05-10T09:42:44.605Z"
+  "generated_at": "2026-05-10T11:03:21.869Z"
 }
