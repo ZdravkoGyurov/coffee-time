@@ -43,11 +43,11 @@
   ],
   "europe": [
     {
-      "title": "63% of French in favor of European army",
-      "permalink": "/r/europe/comments/1t95ovy/63_of_french_in_favor_of_european_army/",
+      "title": "Spain calls for an EU army",
+      "permalink": "/r/europe/comments/1t9xzo0/spain_calls_for_an_eu_army/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/K-qUB4ulYeFZ__RpHKignOgPWy29f-aGIKk3gyPns8M.jpeg?width=640&crop=smart&auto=webp&s=5c82d3b3f7488f223330ab951d27efc5d344506d",
-      "url": "https://www.reddit.com/r/europe/comments/1t95ovy/63_of_french_in_favor_of_european_army/",
+      "thumbnail": "https://external-preview.redd.it/6OpTvP832ipbkRjwlPzeCs2CUFUuylj2ikM2gXcZvsY.png?width=640&crop=smart&auto=webp&s=f5befe401feadf9b84010ef0684112e9c41719be",
+      "url": "https://www.reddit.com/r/europe/comments/1t9xzo0/spain_calls_for_an_eu_army/",
       "created_utc": null
     },
     {
@@ -75,11 +75,11 @@
       "created_utc": null
     },
     {
-      "title": "Former Polish Justice Minister Ziobro reportedly flees to US",
-      "permalink": "/r/europe/comments/1t98lrd/former_polish_justice_minister_ziobro_reportedly/",
+      "title": "Putin’s Forces Are Barely Inching Along on the Battlefield",
+      "permalink": "/r/europe/comments/1t9rj0q/putins_forces_are_barely_inching_along_on_the/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/6l0zJlpXNUPULG6zZcPwSqDPkfu0FAmqdKH2PSc1CzE.jpeg?width=640&crop=smart&auto=webp&s=a9d357fc5b94b3433a90589fb601f46caa3a7e3c",
-      "url": "https://www.reddit.com/r/europe/comments/1t98lrd/former_polish_justice_minister_ziobro_reportedly/",
+      "thumbnail": "https://external-preview.redd.it/m4c4btbFG5rSjYGaKscFJSQiPRv_QsQTWu4-8p7NkB8.jpeg?width=640&crop=smart&auto=webp&s=3d1a38b170171935d2a50887c775934c9223a43f",
+      "url": "https://www.reddit.com/r/europe/comments/1t9rj0q/putins_forces_are_barely_inching_along_on_the/",
       "created_utc": null
     }
   ],
@@ -109,19 +109,19 @@
       "created_utc": null
     },
     {
+      "title": "AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine",
+      "permalink": "/r/technology/comments/1t9xsaq/ai_data_center_project_secretly_sucked_29_million/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/URfAmgu5eJZzPl4R3SZBIGB4h5oddfM4JrvqxkCJp4g.jpeg?width=640&crop=smart&auto=webp&s=8c0828113a7b7d4d48ca6bf6c054318330780fbd",
+      "url": "https://www.reddit.com/r/technology/comments/1t9xsaq/ai_data_center_project_secretly_sucked_29_million/",
+      "created_utc": null
+    },
+    {
       "title": "“Cannot be explained” – New ultra stainless steel stuns researchers",
       "permalink": "/r/technology/comments/1t9mmu5/cannot_be_explained_new_ultra_stainless_steel/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/5csFm68cXczCTK19_DIXbx8fuXPSKTHZ0-MQXblLk28.jpeg?width=640&crop=smart&auto=webp&s=1065d76ba1a91e3b14afe767333a6f53f3832aef",
       "url": "https://www.reddit.com/r/technology/comments/1t9mmu5/cannot_be_explained_new_ultra_stainless_steel/",
-      "created_utc": null
-    },
-    {
-      "title": "Sony records a $766 million impairment loss against Bungie for the 2025 financial year, a 1-2 punch of Destiny 2 and Marathon failing to meet its expectations | Sony bought Bungie for $3.6 billion in 2022.",
-      "permalink": "/r/technology/comments/1t9h75k/sony_records_a_766_million_impairment_loss/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/55gOq95iJP3lNksUcdB8qtr-2J2gWEEqpPH_NmOoXmE.jpeg?width=640&crop=smart&auto=webp&s=b2424702874a31701472201b261188ff726ce57d",
-      "url": "https://www.reddit.com/r/technology/comments/1t9h75k/sony_records_a_766_million_impairment_loss/",
       "created_utc": null
     }
   ],
@@ -177,6 +177,14 @@
       "created_utc": null
     },
     {
+      "title": "The FreeBSD vulnerability \"discovered\" by Mythos was already in its training data.",
+      "permalink": "/r/programming/comments/1t9rl27/the_freebsd_vulnerability_discovered_by_mythos/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1t9rl27/the_freebsd_vulnerability_discovered_by_mythos/",
+      "created_utc": null
+    },
+    {
       "title": "Replacing a 3 GB SQLite database with a 10 MB FST",
       "permalink": "/r/programming/comments/1t98wxr/replacing_a_3_gb_sqlite_database_with_a_10_mb_fst/",
       "score": null,
@@ -199,15 +207,7 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1t98rno/making_your_own_programming_language_is_easier/",
       "created_utc": null
-    },
-    {
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "permalink": "/r/programming/comments/1t98whm/idempotency_is_easy_until_the_second_request_is/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1t98whm/idempotency_is_easy_until_the_second_request_is/",
-      "created_utc": null
     }
   ],
-  "generated_at": "2026-05-11T09:52:23.648Z"
+  "generated_at": "2026-05-11T12:42:18.736Z"
 }
