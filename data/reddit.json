@@ -9,19 +9,19 @@
       "created_utc": null
     },
     {
-      "title": "Netanyahu announced intention to phase out US military aid",
-      "permalink": "/r/worldnews/comments/1ta1ab9/netanyahu_announced_intention_to_phase_out_us/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/rAn7AvusEdZobp2EPInHGH3Xr0MJlDe-LznqEePbgDM.jpeg?width=640&crop=smart&auto=webp&s=c9c0252a5447a608de982ea155e7730e14b6d375",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ta1ab9/netanyahu_announced_intention_to_phase_out_us/",
-      "created_utc": null
-    },
-    {
       "title": "12 Employees in Quarantine After Incorrect Handling of a Person Infected With Hantavirus",
       "permalink": "/r/worldnews/comments/1taf1t2/12_employees_in_quarantine_after_incorrect/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/JPlthSUCa40anfyBOlxaHZQb_uHN09LD9tg41yQaXJQ.png?width=640&crop=smart&auto=webp&s=50715e6be8163f6c1f0464cc7b13bbfa3eed3599",
       "url": "https://www.reddit.com/r/worldnews/comments/1taf1t2/12_employees_in_quarantine_after_incorrect/",
+      "created_utc": null
+    },
+    {
+      "title": "Netanyahu announced intention to phase out US military aid",
+      "permalink": "/r/worldnews/comments/1ta1ab9/netanyahu_announced_intention_to_phase_out_us/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/rAn7AvusEdZobp2EPInHGH3Xr0MJlDe-LznqEePbgDM.jpeg?width=640&crop=smart&auto=webp&s=c9c0252a5447a608de982ea155e7730e14b6d375",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ta1ab9/netanyahu_announced_intention_to_phase_out_us/",
       "created_utc": null
     },
     {
@@ -33,11 +33,11 @@
       "created_utc": null
     },
     {
-      "title": "Spain calls for an EU army",
-      "permalink": "/r/worldnews/comments/1t9y9li/spain_calls_for_an_eu_army/",
+      "title": "‘We Pushed Him a Little’: Zelensky Says Putin Shows Readiness for Negotiations",
+      "permalink": "/r/worldnews/comments/1ta4pk3/we_pushed_him_a_little_zelensky_says_putin_shows/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/6OpTvP832ipbkRjwlPzeCs2CUFUuylj2ikM2gXcZvsY.png?width=640&crop=smart&auto=webp&s=f5befe401feadf9b84010ef0684112e9c41719be",
-      "url": "https://www.reddit.com/r/worldnews/comments/1t9y9li/spain_calls_for_an_eu_army/",
+      "thumbnail": "https://external-preview.redd.it/pI_SMXT3R8tX9tYPQCgPm4Y6Ao3xgdYl9Ec-4_lS-qU.jpeg?width=640&crop=smart&auto=webp&s=e99687fa51aa1bc0e169646fcda55b1c9902a923",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ta4pk3/we_pushed_him_a_little_zelensky_says_putin_shows/",
       "created_utc": null
     }
   ],
@@ -75,11 +75,11 @@
       "created_utc": null
     },
     {
-      "title": "Former Fidesz MP Zoltán Bóna taken into custody over corruption allegations",
-      "permalink": "/r/europe/comments/1ta1k92/former_fidesz_mp_zoltán_bóna_taken_into_custody/",
+      "title": "Opel moves engineering work to China",
+      "permalink": "/r/europe/comments/1ta8dgm/opel_moves_engineering_work_to_china/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/1V5Fo-pKtYaJPk23zqDOnCLtMWhK-B0Qz8Ya182roxA.jpeg?width=640&crop=smart&auto=webp&s=aece20d9e8e893e08ac799d681a0e0bcc51bbab4",
-      "url": "https://www.reddit.com/r/europe/comments/1ta1k92/former_fidesz_mp_zoltán_bóna_taken_into_custody/",
+      "thumbnail": "https://external-preview.redd.it/Ed652MgumpX6Hnx4ji1CzAkSMWwckYIy9fWSNV6IgqE.jpeg?width=640&crop=smart&auto=webp&s=bc7e331a705810ddaf5d94dfdbe35280eab114c7",
+      "url": "https://www.reddit.com/r/europe/comments/1ta8dgm/opel_moves_engineering_work_to_china/",
       "created_utc": null
     }
   ],
@@ -169,6 +169,14 @@
   ],
   "programming": [
     {
+      "title": "Mass npm Supply Chain Attack Hits TanStack, Mistral AI, and 170+ Packages",
+      "permalink": "/r/programming/comments/1tapmvi/mass_npm_supply_chain_attack_hits_tanstack/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1tapmvi/mass_npm_supply_chain_attack_hits_tanstack/",
+      "created_utc": null
+    },
+    {
       "title": "8317277: Java language implementation of value classes and objects by MrSimms · Pull Request #31120 · openjdk/jdk",
       "permalink": "/r/programming/comments/1ta5dax/8317277_java_language_implementation_of_value/",
       "score": null,
@@ -199,15 +207,7 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1ta83gf/froot_loops_and_a_graphics_card_reflecting_on/",
       "created_utc": null
-    },
-    {
-      "title": "Branch-Avoidant Quicksort in C - faster than std::sort and pdqsort",
-      "permalink": "/r/programming/comments/1ta25is/branchavoidant_quicksort_in_c_faster_than_stdsort/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1ta25is/branchavoidant_quicksort_in_c_faster_than_stdsort/",
-      "created_utc": null
     }
   ],
-  "generated_at": "2026-05-12T03:47:48.416Z"
+  "generated_at": "2026-05-12T06:41:19.790Z"
 }
