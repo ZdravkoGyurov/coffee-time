@@ -127,14 +127,6 @@
   ],
   "gamingnews": [
     {
-      "title": "Xbox director Guy Richards: \"We're going to keep meeting players where they are. The world continues to evolve and change, and we're going to make sure Xbox is a great place for developers and players\"",
-      "permalink": "/r/gamingnews/comments/1th2uiq/xbox_director_guy_richards_were_going_to_keep/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/YN6XwSy3cOenkUNPFQNFwsLAnuZEc9-r3yFs0UEhZC4.png?width=640&crop=smart&auto=webp&s=4b04acd258ffd712fa850f09a8d204cbabb03fe1",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1th2uiq/xbox_director_guy_richards_were_going_to_keep/",
-      "created_utc": null
-    },
-    {
       "title": "It's official: Steam decrees 'bullet heaven' the name of the Vampire Survivors genre",
       "permalink": "/r/gamingnews/comments/1thj0l3/its_official_steam_decrees_bullet_heaven_the_name/",
       "score": null,
@@ -165,6 +157,14 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/gamingnews/comments/1thg9st/lego_batman_legacy_of_the_dark_knight_was/",
       "created_utc": null
+    },
+    {
+      "title": "Cozy bug-catching game Kabuto Park coming to Nintendo Switch, Xbox",
+      "permalink": "/r/gamingnews/comments/1thrjrj/cozy_bugcatching_game_kabuto_park_coming_to/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/XOCYREhIabYFfRXUTdP90GFPBDCAiGR8h4Mt0IGSOEQ.jpeg?width=640&crop=smart&auto=webp&s=0db8f92cea88ddd847be02aa5f7d397ccf5b9dff",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1thrjrj/cozy_bugcatching_game_kabuto_park_coming_to/",
+      "created_utc": null
     }
   ],
   "programming": [
@@ -193,21 +193,21 @@
       "created_utc": null
     },
     {
-      "title": "Type out the code",
-      "permalink": "/r/programming/comments/1thncdv/type_out_the_code/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1thncdv/type_out_the_code/",
-      "created_utc": null
-    },
-    {
       "title": "CISA accidentally leaked their own keys on GitHub",
       "permalink": "/r/programming/comments/1thze09/cisa_accidentally_leaked_their_own_keys_on_github/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1thze09/cisa_accidentally_leaked_their_own_keys_on_github/",
       "created_utc": null
+    },
+    {
+      "title": "Type out the code",
+      "permalink": "/r/programming/comments/1thncdv/type_out_the_code/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1thncdv/type_out_the_code/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-05-19T21:40:30.965Z"
+  "generated_at": "2026-05-19T23:09:56.986Z"
 }
