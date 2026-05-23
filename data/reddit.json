@@ -59,27 +59,27 @@
       "created_utc": null
     },
     {
-      "title": "Ukraine and Allies Grow Confident Russia’s Invasion Losing Steam",
-      "permalink": "/r/europe/comments/1tkda4y/ukraine_and_allies_grow_confident_russias/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/xqDqcrpPEG8gmfIy4gH0vVevy8e1jhfb_1l2NMlzwVo.jpeg?width=640&crop=smart&auto=webp&s=921881ae39dd87da03a1c6320684a63afc3dcca9",
-      "url": "https://www.reddit.com/r/europe/comments/1tkda4y/ukraine_and_allies_grow_confident_russias/",
-      "created_utc": null
-    },
-    {
-      "title": "How the New York Times Looks at Europe",
-      "permalink": "/r/europe/comments/1tkb2qf/how_the_new_york_times_looks_at_europe/",
-      "score": null,
-      "thumbnail": "https://preview.redd.it/dg5x62ulzm2h1.jpeg?width=640&crop=smart&auto=webp&s=aa18c51ec304685173c75226bda6580c9df82df1",
-      "url": "https://www.reddit.com/r/europe/comments/1tkb2qf/how_the_new_york_times_looks_at_europe/",
-      "created_utc": null
-    },
-    {
       "title": "Le Pen says France should quit NATO command structure",
       "permalink": "/r/europe/comments/1tkr2lk/le_pen_says_france_should_quit_nato_command/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/europe/comments/1tkr2lk/le_pen_says_france_should_quit_nato_command/",
+      "created_utc": null
+    },
+    {
+      "title": "Every €1 of public funding for wind delivers €7 annually to Europe’s economy",
+      "permalink": "/r/europe/comments/1tkujdc/every_1_of_public_funding_for_wind_delivers_7/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/XrbOggaJZtM9Smaifu0J3FdqFYKqOAHzbFJoxExUMtI.jpeg?width=640&crop=smart&auto=webp&s=fed0cebf36c680a9b9d73fdf99f035a90ace3872",
+      "url": "https://www.reddit.com/r/europe/comments/1tkujdc/every_1_of_public_funding_for_wind_delivers_7/",
+      "created_utc": null
+    },
+    {
+      "title": "France seeks to join UK-German long-range missile plan",
+      "permalink": "/r/europe/comments/1tkphgk/france_seeks_to_join_ukgerman_longrange_missile/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/5xlL78mosITP8n0x5LF2h1MMts9Oh9IxDZKVvA_IwPc.jpeg?width=640&crop=smart&auto=webp&s=b2a3416738511e38b436ff76e2d7bcb5bfcaf45c",
+      "url": "https://www.reddit.com/r/europe/comments/1tkphgk/france_seeks_to_join_ukgerman_longrange_missile/",
       "created_utc": null
     }
   ],
@@ -143,6 +143,14 @@
       "created_utc": null
     },
     {
+      "title": "Riot responds to Vanguard \"bricking\" claims: \"We would not, and cannot, impact your PC's functionality\"",
+      "permalink": "/r/gamingnews/comments/1tl8lh4/riot_responds_to_vanguard_bricking_claims_we/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/I5yEHnYm7mtzSffPX2btUU_-B-JuO9vmAXnEdc8PF5c.jpeg?width=640&crop=smart&auto=webp&s=4939bfb9a5fcf56646e06bfda1bc3cf5f50ca7e1",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1tl8lh4/riot_responds_to_vanguard_bricking_claims_we/",
+      "created_utc": null
+    },
+    {
       "title": "IO Interactive and Amazon MGM Studios Unveil the Launch Trailer for 007 First Light",
       "permalink": "/r/gamingnews/comments/1tkjdrw/io_interactive_and_amazon_mgm_studios_unveil_the/",
       "score": null,
@@ -156,14 +164,6 @@
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/gamingnews/comments/1tkw5em/gta_6_success_may_lead_to_more_studio_purchases/",
-      "created_utc": null
-    },
-    {
-      "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "permalink": "/r/gamingnews/comments/1tkc45c/tomb_raider_iiii_remastered_starring_lara_croft/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1tkc45c/tomb_raider_iiii_remastered_starring_lara_croft/",
       "created_utc": null
     }
   ],
@@ -185,14 +185,6 @@
       "created_utc": null
     },
     {
-      "title": "The Silent Merge Queue Corruption That Hit 658 GitHub Repos",
-      "permalink": "/r/programming/comments/1tkvzsb/the_silent_merge_queue_corruption_that_hit_658/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1tkvzsb/the_silent_merge_queue_corruption_that_hit_658/",
-      "created_utc": null
-    },
-    {
       "title": "Building a Fast Lock-Free Queue in Modern C++ From Scratch",
       "permalink": "/r/programming/comments/1tkx5r7/building_a_fast_lockfree_queue_in_modern_c_from/",
       "score": null,
@@ -207,7 +199,15 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1tkxgmb/a_blueprint_for_formal_verification_of_apple/",
       "created_utc": null
+    },
+    {
+      "title": "Why do VS Code extensions run globally instead of per workspace?",
+      "permalink": "/r/programming/comments/1tl6jaz/why_do_vs_code_extensions_run_globally_instead_of/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1tl6jaz/why_do_vs_code_extensions_run_globally_instead_of/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-05-23T06:38:33.923Z"
+  "generated_at": "2026-05-23T09:59:18.893Z"
 }
