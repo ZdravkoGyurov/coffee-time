@@ -85,14 +85,6 @@
   ],
   "technology": [
     {
-      "title": "Kash Patel's Apparel Site Is Trying To Trick Visitors Into Installing Malware",
-      "permalink": "/r/technology/comments/1tkjs3u/kash_patels_apparel_site_is_trying_to_trick/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/69rEIBBl2Fqf6gvbpHhiTo4WAAnEBdUsnazw52DIaAk.jpeg?width=640&crop=smart&auto=webp&s=430fb519ab9c2d8e14af25a17ffdb7e2dcbc57f6",
-      "url": "https://www.reddit.com/r/technology/comments/1tkjs3u/kash_patels_apparel_site_is_trying_to_trick/",
-      "created_utc": null
-    },
-    {
       "title": "Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees",
       "permalink": "/r/technology/comments/1tl5079/microsoft_reports_are_exposing_ais_real_cost/",
       "score": null,
@@ -123,23 +115,31 @@
       "thumbnail": "https://external-preview.redd.it/i-yDkHCupu2L02__mtmmiFHaDzbGP_655xm6HWLMWnY.jpeg?width=640&crop=smart&auto=webp&s=41790426b059c70d3af267ed26bd8ec6f5dcb663",
       "url": "https://www.reddit.com/r/technology/comments/1tkom9n/memory_prices_tipped_to_fall_as_china_starts/",
       "created_utc": null
+    },
+    {
+      "title": "Americans overwhelmingly oppose data centers. Women most of all.",
+      "permalink": "/r/technology/comments/1tkwro6/americans_overwhelmingly_oppose_data_centers/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/technology/comments/1tkwro6/americans_overwhelmingly_oppose_data_centers/",
+      "created_utc": null
     }
   ],
   "gamingnews": [
-    {
-      "title": "Yes, Fable is still coming to PS5 despite Xbox's plans to \"reevaluate our approach to exclusivity,\" and Playground Games confirms the RPG isn't getting delayed, either",
-      "permalink": "/r/gamingnews/comments/1tkruae/yes_fable_is_still_coming_to_ps5_despite_xboxs/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/xSOkwi4oQkXiqHgK97Pit3-Xxu83aSAnHB76Ntm1-VE.jpeg?width=640&crop=smart&auto=webp&s=c657c0e86b1ca314d7af30efa34d787a7d1ebf90",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1tkruae/yes_fable_is_still_coming_to_ps5_despite_xboxs/",
-      "created_utc": null
-    },
     {
       "title": "\"Almost All\" Of Bungie Reportedly Didn’t Know Destiny 2 Was Ending Active Development Until It Was Announced",
       "permalink": "/r/gamingnews/comments/1tld45i/almost_all_of_bungie_reportedly_didnt_know/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/InuRlET-T0rdNt8IZZNPhEnN3zLolM1Q9LSsrkcB0uY.jpeg?width=640&crop=smart&auto=webp&s=4155f0eb6507feb8d82060f84fea341237cd467a",
       "url": "https://www.reddit.com/r/gamingnews/comments/1tld45i/almost_all_of_bungie_reportedly_didnt_know/",
+      "created_utc": null
+    },
+    {
+      "title": "Yes, Fable is still coming to PS5 despite Xbox's plans to \"reevaluate our approach to exclusivity,\" and Playground Games confirms the RPG isn't getting delayed, either",
+      "permalink": "/r/gamingnews/comments/1tkruae/yes_fable_is_still_coming_to_ps5_despite_xboxs/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/xSOkwi4oQkXiqHgK97Pit3-Xxu83aSAnHB76Ntm1-VE.jpeg?width=640&crop=smart&auto=webp&s=c657c0e86b1ca314d7af30efa34d787a7d1ebf90",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1tkruae/yes_fable_is_still_coming_to_ps5_despite_xboxs/",
       "created_utc": null
     },
     {
@@ -169,11 +169,11 @@
   ],
   "programming": [
     {
-      "title": "Building a Fast Lock-Free Queue in Modern C++ From Scratch",
-      "permalink": "/r/programming/comments/1tkx5r7/building_a_fast_lockfree_queue_in_modern_c_from/",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "permalink": "/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
       "score": null,
       "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1tkx5r7/building_a_fast_lockfree_queue_in_modern_c_from/",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
       "created_utc": null
     },
     {
@@ -182,6 +182,14 @@
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1tlf8zj/new_attack_megaladon_compromises_55k_github_repos/",
+      "created_utc": null
+    },
+    {
+      "title": "Building a Fast Lock-Free Queue in Modern C++ From Scratch",
+      "permalink": "/r/programming/comments/1tkx5r7/building_a_fast_lockfree_queue_in_modern_c_from/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1tkx5r7/building_a_fast_lockfree_queue_in_modern_c_from/",
       "created_utc": null
     },
     {
@@ -199,15 +207,7 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1tkxs4c/writing_vba_modules_inside_excel_files_is_much/",
       "created_utc": null
-    },
-    {
-      "title": "High Speed Networking: The View from the Machine",
-      "permalink": "/r/programming/comments/1tkp5rs/high_speed_networking_the_view_from_the_machine/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1tkp5rs/high_speed_networking_the_view_from_the_machine/",
-      "created_utc": null
     }
   ],
-  "generated_at": "2026-05-23T13:49:41.637Z"
+  "generated_at": "2026-05-23T15:06:26.969Z"
 }
