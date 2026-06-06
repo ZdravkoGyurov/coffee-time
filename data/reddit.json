@@ -1,27 +1,11 @@
 {
   "worldnews": [
     {
-      "title": "Taiwanese university president tells graduates to \"end themselves\" if they struggle in their careers. Takes unpaid leave",
-      "permalink": "/r/worldnews/comments/1txnkwn/taiwanese_university_president_tells_graduates_to/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/UfOR7Rf8-BNlocV2iCe-t6LtCB5a53q4Ubw2Nd8rzi0.jpeg?width=320&crop=smart&auto=webp&s=3bf555cc34c0ab4ac14932e5b6a9bac42d3009c8",
-      "url": "https://www.reddit.com/r/worldnews/comments/1txnkwn/taiwanese_university_president_tells_graduates_to/",
-      "created_utc": null
-    },
-    {
       "title": "Zelensky Says Putin Does Not Want Peace After Rejecting Meeting Proposal",
       "permalink": "/r/worldnews/comments/1txvbvk/zelensky_says_putin_does_not_want_peace_after/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/XEfculideg1SDhBs_rsI2zOQuyFMJT4ikT65Gavus2M.jpeg?width=640&crop=smart&auto=webp&s=9fe6d3afc8fc7220bb0f31bd58a3a24acb713ef6",
       "url": "https://www.reddit.com/r/worldnews/comments/1txvbvk/zelensky_says_putin_does_not_want_peace_after/",
-      "created_utc": null
-    },
-    {
-      "title": "Niger: Nearly 50 people die of thirst after lorry breaks down in Sahara desert",
-      "permalink": "/r/worldnews/comments/1txmcj8/niger_nearly_50_people_die_of_thirst_after_lorry/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/mdXbNgSu1KIC-_cxm3SnwYyFNGfYBZetEKoC-apcfEs.jpeg?width=640&crop=smart&auto=webp&s=a26feaa269680beef50019e478eb9f1075f4cf03",
-      "url": "https://www.reddit.com/r/worldnews/comments/1txmcj8/niger_nearly_50_people_die_of_thirst_after_lorry/",
       "created_utc": null
     },
     {
@@ -39,25 +23,25 @@
       "thumbnail": "https://external-preview.redd.it/cIoB-KtwzquynAnBJfXEq6-EpfOXlpiITTSr_kVJiZg.jpeg?width=640&crop=smart&auto=webp&s=5a263dcd386de607cf9fde59752341328c474bba",
       "url": "https://www.reddit.com/r/worldnews/comments/1txqy6n/israels_offensive_in_southern_lebanon_2900_dead/",
       "created_utc": null
+    },
+    {
+      "title": "Putin Dismisses Zelenskyy Letter Claiming “No Point in Direct Talks”",
+      "permalink": "/r/worldnews/comments/1txptiu/putin_dismisses_zelenskyy_letter_claiming_no/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/hVXxIl4AmKo1jl44Sh7p2aPMePCITlfkA-hWMCIoKIQ.jpeg?width=640&crop=smart&auto=webp&s=b413d26bbb22aa0cd9275060ed07b32d2c54f663",
+      "url": "https://www.reddit.com/r/worldnews/comments/1txptiu/putin_dismisses_zelenskyy_letter_claiming_no/",
+      "created_utc": null
+    },
+    {
+      "title": "Trump says Iran has not agreed to a U.S. deal because ‘they’re strong, they’re proud’",
+      "permalink": "/r/worldnews/comments/1txzhjw/trump_says_iran_has_not_agreed_to_a_us_deal/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/As-XrMH5brEzq3K6jtf3PE8lhHer9TYALHKEMC84wmg.jpeg?width=640&crop=smart&auto=webp&s=09d4aa0b1ae000727bb68db376fbd9296e6df850",
+      "url": "https://www.reddit.com/r/worldnews/comments/1txzhjw/trump_says_iran_has_not_agreed_to_a_us_deal/",
+      "created_utc": null
     }
   ],
   "europe": [
-    {
-      "title": "Russia considers working age of 12 to solve wartime jobs crisis",
-      "permalink": "/r/europe/comments/1txneeb/russia_considers_working_age_of_12_to_solve/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/Z1bRkTXlYs6wPa-HOm61BpOPQ2cNiixlN5dIXU86wpA.jpeg?width=640&crop=smart&auto=webp&s=5c99ee6ec256a04c0fd59b3ba80d8fc1409357b4",
-      "url": "https://www.reddit.com/r/europe/comments/1txneeb/russia_considers_working_age_of_12_to_solve/",
-      "created_utc": null
-    },
-    {
-      "title": "Norway releases official 2026 FIFA World Cup team photo",
-      "permalink": "/r/europe/comments/1txndla/norway_releases_official_2026_fifa_world_cup_team/",
-      "score": null,
-      "thumbnail": "https://preview.redd.it/h1tmkjmnah5h1.jpeg?width=640&crop=smart&auto=webp&s=e2c469880b4eaa65972005adc8ab4c243c9ff9ff",
-      "url": "https://www.reddit.com/r/europe/comments/1txndla/norway_releases_official_2026_fifa_world_cup_team/",
-      "created_utc": null
-    },
     {
       "title": "Russian Satellites Have Been Jamming GPS Signals Across Europe, Scientists Say",
       "permalink": "/r/europe/comments/1txxzm4/russian_satellites_have_been_jamming_gps_signals/",
@@ -80,6 +64,22 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/t1SqP6tMXDm9ZhJgd9kXOIra7RS0BVuwd32pqlGGPnA.jpeg?width=640&crop=smart&auto=webp&s=de6427d896230a1136bccb8d0bc6389107bed2ff",
       "url": "https://www.reddit.com/r/europe/comments/1tye0ot/britain_is_a_swamp_of_lies_and_disinformation_and/",
+      "created_utc": null
+    },
+    {
+      "title": "Putin associate still controls Aughinish Alumina parent company, Swedish investigators allege (plant operates in Ireland)",
+      "permalink": "/r/europe/comments/1txylvp/putin_associate_still_controls_aughinish_alumina/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/gobaP5h1CF7bXxvLRqWMMHJdfaStsAWHn1_JvizDHmc.jpeg?width=640&crop=smart&auto=webp&s=f67fd1a32a411d97bdf1b3bff4ad3f20951e8ce0",
+      "url": "https://www.reddit.com/r/europe/comments/1txylvp/putin_associate_still_controls_aughinish_alumina/",
+      "created_utc": null
+    },
+    {
+      "title": "Putin held 'friendly one-on-one meeting' with Germany's Schroeder, Kremlin says",
+      "permalink": "/r/europe/comments/1tyac33/putin_held_friendly_oneonone_meeting_with/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/europe/comments/1tyac33/putin_held_friendly_oneonone_meeting_with/",
       "created_utc": null
     }
   ],
@@ -109,19 +109,19 @@
       "created_utc": null
     },
     {
+      "title": "Utah residents sue officials over Kevin O’Leary data center plan",
+      "permalink": "/r/technology/comments/1ty817f/utah_residents_sue_officials_over_kevin_oleary/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/FL5eI-dcCdG-gXfx2Bn3jgPSOCtyU5_puexxTH1I0BQ.jpeg?width=640&crop=smart&auto=webp&s=d83a0b3bb7929ff403caa0e58d3a2e994e7fc5fb",
+      "url": "https://www.reddit.com/r/technology/comments/1ty817f/utah_residents_sue_officials_over_kevin_oleary/",
+      "created_utc": null
+    },
+    {
       "title": "Mr. Wonderful Is Wounded in the Battle Over His Massive Utah Data Center",
       "permalink": "/r/technology/comments/1txvn6j/mr_wonderful_is_wounded_in_the_battle_over_his/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/zfObbUQCWLvOYE83MuyrzgkDOzscJ0BfPf_pJymNpic.jpeg?width=640&crop=smart&auto=webp&s=9514470141156f6f01574a614e8c02481b3c46bb",
       "url": "https://www.reddit.com/r/technology/comments/1txvn6j/mr_wonderful_is_wounded_in_the_battle_over_his/",
-      "created_utc": null
-    },
-    {
-      "title": "‘Big Tech is desperate’: Amazon engineers criticize tech giant for its $200 billion in data center spending amid slashing 30,000 corporate employees",
-      "permalink": "/r/technology/comments/1txskkb/big_tech_is_desperate_amazon_engineers_criticize/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/Oyc-kxuigpOUNK5qQFTyDoTix1V27irwg59UkuILU5Q.jpeg?width=640&crop=smart&auto=webp&s=2f684f728345c4e345c739add6e3ca370d0e30b5",
-      "url": "https://www.reddit.com/r/technology/comments/1txskkb/big_tech_is_desperate_amazon_engineers_criticize/",
       "created_utc": null
     }
   ],
@@ -169,27 +169,11 @@
   ],
   "programming": [
     {
-      "title": "Configuration flags are where software goes to rot",
-      "permalink": "/r/programming/comments/1txlq6l/configuration_flags_are_where_software_goes_to_rot/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1txlq6l/configuration_flags_are_where_software_goes_to_rot/",
-      "created_utc": null
-    },
-    {
       "title": "The perils of UUID primary keys in SQLite",
       "permalink": "/r/programming/comments/1tyalr6/the_perils_of_uuid_primary_keys_in_sqlite/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1tyalr6/the_perils_of_uuid_primary_keys_in_sqlite/",
-      "created_utc": null
-    },
-    {
-      "title": "The cover of C++: The Programming Language raises questions not answered by the cover",
-      "permalink": "/r/programming/comments/1tybuv7/the_cover_of_c_the_programming_language_raises/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1tybuv7/the_cover_of_c_the_programming_language_raises/",
       "created_utc": null
     },
     {
@@ -201,6 +185,14 @@
       "created_utc": null
     },
     {
+      "title": "The cover of C++: The Programming Language raises questions not answered by the cover",
+      "permalink": "/r/programming/comments/1tybuv7/the_cover_of_c_the_programming_language_raises/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1tybuv7/the_cover_of_c_the_programming_language_raises/",
+      "created_utc": null
+    },
+    {
       "title": "The Architectural Teardown: Why Machine Learning Fails Against Game Randomization (And Why We Killed Behavioral Telemetry)",
       "permalink": "/r/programming/comments/1tyh2jc/the_architectural_teardown_why_machine_learning/",
       "score": null,
@@ -209,5 +201,5 @@
       "created_utc": null
     }
   ],
-  "generated_at": "2026-06-06T13:56:48.518Z"
+  "generated_at": "2026-06-06T15:21:32.357Z"
 }
