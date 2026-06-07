@@ -25,19 +25,19 @@
       "created_utc": null
     },
     {
-      "title": "Russian authorities have been forced to close the crucial Novorossiya supply route which runs from Crimea to Western Russian territory along the Black Sea due to heavy Ukrainian logistical strikes from drones.",
-      "permalink": "/r/worldnews/comments/1tyjmfh/russian_authorities_have_been_forced_to_close_the/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/oCpJu-u6fvRrmW-mHYgIULh8WYH1LfUk5BRemzyAWUc.jpeg?width=640&crop=smart&auto=webp&s=d6720bc82ea809df667339e514729fc9c6f8006a",
-      "url": "https://www.reddit.com/r/worldnews/comments/1tyjmfh/russian_authorities_have_been_forced_to_close_the/",
-      "created_utc": null
-    },
-    {
       "title": "Armenian authorities have arrested 6 members of the pro-Russian opposition party just a day before the general elections in light of recent military threats from the Kremlin.",
       "permalink": "/r/worldnews/comments/1tyzv28/armenian_authorities_have_arrested_6_members_of/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/vT6dMu3auD-uxPi5NB87HlhP36d8fHKpTIb7zzF7vro.jpeg?width=640&crop=smart&auto=webp&s=d1dd9bf7da00296955f4ab694f096ffc1ac92fdd",
       "url": "https://www.reddit.com/r/worldnews/comments/1tyzv28/armenian_authorities_have_arrested_6_members_of/",
+      "created_utc": null
+    },
+    {
+      "title": "Lukashenko Rejects Direct Belarusian Involvement in Ukraine War",
+      "permalink": "/r/worldnews/comments/1tz4kto/lukashenko_rejects_direct_belarusian_involvement/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/40S9Co4-IJLnDsriEFp4Zhui2EeFoFA7SUlprnrAn6o.jpeg?width=640&crop=smart&auto=webp&s=ae6894182fc6eb0032f38456de7c692059de0d61",
+      "url": "https://www.reddit.com/r/worldnews/comments/1tz4kto/lukashenko_rejects_direct_belarusian_involvement/",
       "created_utc": null
     }
   ],
@@ -67,19 +67,19 @@
       "created_utc": null
     },
     {
-      "title": "Erdoğan calls on Turks living in Europe to return back and global firms to manage operations from Türkiye",
-      "permalink": "/r/europe/comments/1tymj2j/erdoğan_calls_on_turks_living_in_europe_to_return/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/iiTDBo3h-vP1cd_6RvS-DDcUMprkvW8xO3zknfc5ETs.jpeg?width=108&crop=smart&auto=webp&s=5c4597f33af74b34d87f3e2a9a6fd57bf1b7c910",
-      "url": "https://www.reddit.com/r/europe/comments/1tymj2j/erdoğan_calls_on_turks_living_in_europe_to_return/",
-      "created_utc": null
-    },
-    {
       "title": "Brexit ‘sabotage’ has cost Britain up to £30bn every year, says David Miliband",
       "permalink": "/r/europe/comments/1tz8ypc/brexit_sabotage_has_cost_britain_up_to_30bn_every/",
       "score": null,
       "thumbnail": "https://external-preview.redd.it/woZMILeLsfkqcJRbeubsWXeKD4hH3xslSDEsP5Kann8.jpeg?width=640&crop=smart&auto=webp&s=b481b0f854150847f1f6430ce638052bd13f38d1",
       "url": "https://www.reddit.com/r/europe/comments/1tz8ypc/brexit_sabotage_has_cost_britain_up_to_30bn_every/",
+      "created_utc": null
+    },
+    {
+      "title": "Finland deploys new system to detect threats to undersea cables — distributed acoustic sensors measure vibrations from the seabed and informs the authorities and operators of suspicious activities",
+      "permalink": "/r/europe/comments/1tz65dl/finland_deploys_new_system_to_detect_threats_to/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/m0hZt8ERdAdGN3SC4Zv5L5NS0I_ZPvNgoH1gRjzte7M.jpeg?width=640&crop=smart&auto=webp&s=4acb8250b75e4b57776ac031f6707b798eba066f",
+      "url": "https://www.reddit.com/r/europe/comments/1tz65dl/finland_deploys_new_system_to_detect_threats_to/",
       "created_utc": null
     }
   ],
@@ -151,11 +151,11 @@
       "created_utc": null
     },
     {
-      "title": "It was Nintendo Direct that ended the E3 era",
-      "permalink": "/r/gamingnews/comments/1tyicen/it_was_nintendo_direct_that_ended_the_e3_era/",
+      "title": "Gears of War: E-Day rated PEGI 18 for XBOX, PS5 and PC",
+      "permalink": "/r/gamingnews/comments/1tzctar/gears_of_war_eday_rated_pegi_18_for_xbox_ps5_and/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/_uFLWILmeUzjo7EVnObgLVtAP2oB9mpsSnQ6Za4VXyo.png?width=640&crop=smart&auto=webp&s=26fdb596a138cbf0e31297ff8b585f166c51a291",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1tyicen/it_was_nintendo_direct_that_ended_the_e3_era/",
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1tzctar/gears_of_war_eday_rated_pegi_18_for_xbox_ps5_and/",
       "created_utc": null
     },
     {
@@ -183,7 +183,23 @@
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1tz9cp7/reverse_engineering_the_creative_katana_v2x/",
       "created_utc": null
+    },
+    {
+      "title": "Getting silly with C, part &((int*)-8)[3]",
+      "permalink": "/r/programming/comments/1tzfefn/getting_silly_with_c_part_int83/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1tzfefn/getting_silly_with_c_part_int83/",
+      "created_utc": null
+    },
+    {
+      "title": "#JavaNext Language Features",
+      "permalink": "/r/programming/comments/1tzeb9a/javanext_language_features/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1tzeb9a/javanext_language_features/",
+      "created_utc": null
     }
   ],
-  "generated_at": "2026-06-07T14:06:49.188Z"
+  "generated_at": "2026-06-07T17:23:51.687Z"
 }
