@@ -1,14 +1,6 @@
 {
   "worldnews": [
     {
-      "title": "US destroys Iran reservoirs, leaving thousands without water in searing heat",
-      "permalink": "/r/worldnews/comments/1u21b2k/us_destroys_iran_reservoirs_leaving_thousands/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/ixdQSsBUlQ7TMxHm2yO6lYM79Tyr_yw3bkhkj0Ydq-U.jpeg?width=640&crop=smart&auto=webp&s=a52f21bd60610c8c2eef965944e9680732e8f791",
-      "url": "https://www.reddit.com/r/worldnews/comments/1u21b2k/us_destroys_iran_reservoirs_leaving_thousands/",
-      "created_utc": null
-    },
-    {
       "title": "Fully autonomous, AI-controlled drones have killed human soldiers for the first time, according to a senior figure in the Ukrainian defence industry",
       "permalink": "/r/worldnews/comments/1u26lni/fully_autonomous_aicontrolled_drones_have_killed/",
       "score": null,
@@ -17,11 +9,19 @@
       "created_utc": null
     },
     {
-      "title": "At least 12 killed in Johannesburg shooting",
-      "permalink": "/r/worldnews/comments/1u1u3sv/at_least_12_killed_in_johannesburg_shooting/",
+      "title": "US destroys Iran reservoirs, leaving thousands without water in searing heat",
+      "permalink": "/r/worldnews/comments/1u21b2k/us_destroys_iran_reservoirs_leaving_thousands/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/G9YqDWrMt2R-EmpgbiOCfzcj135L685f2beFuhJS-Do.png?width=640&crop=smart&auto=webp&s=5adcf890610536b6126373fec4739d99b1877b55",
-      "url": "https://www.reddit.com/r/worldnews/comments/1u1u3sv/at_least_12_killed_in_johannesburg_shooting/",
+      "thumbnail": "https://external-preview.redd.it/ixdQSsBUlQ7TMxHm2yO6lYM79Tyr_yw3bkhkj0Ydq-U.jpeg?width=640&crop=smart&auto=webp&s=a52f21bd60610c8c2eef965944e9680732e8f791",
+      "url": "https://www.reddit.com/r/worldnews/comments/1u21b2k/us_destroys_iran_reservoirs_leaving_thousands/",
+      "created_utc": null
+    },
+    {
+      "title": "Iran announces closure of Strait of Hormuz after US attacks",
+      "permalink": "/r/worldnews/comments/1u2hvle/iran_announces_closure_of_strait_of_hormuz_after/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/worldnews/comments/1u2hvle/iran_announces_closure_of_strait_of_hormuz_after/",
       "created_utc": null
     },
     {
@@ -33,29 +33,29 @@
       "created_utc": null
     },
     {
-      "title": "Erdogan threatens attacks against Israel",
-      "permalink": "/r/worldnews/comments/1u1zxt6/erdogan_threatens_attacks_against_israel/",
+      "title": "At least 12 killed in Johannesburg shooting",
+      "permalink": "/r/worldnews/comments/1u1u3sv/at_least_12_killed_in_johannesburg_shooting/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/aLlW5ma4GvdT4PJaUFLAXDxj3J93xms0ieim_9-qEZA.jpeg?width=640&crop=smart&auto=webp&s=49f3e859ff49353411c1cc248f64707f01216ed4",
-      "url": "https://www.reddit.com/r/worldnews/comments/1u1zxt6/erdogan_threatens_attacks_against_israel/",
+      "thumbnail": "https://external-preview.redd.it/G9YqDWrMt2R-EmpgbiOCfzcj135L685f2beFuhJS-Do.png?width=640&crop=smart&auto=webp&s=5adcf890610536b6126373fec4739d99b1877b55",
+      "url": "https://www.reddit.com/r/worldnews/comments/1u1u3sv/at_least_12_killed_in_johannesburg_shooting/",
       "created_utc": null
     }
   ],
   "europe": [
-    {
-      "title": "Only one in 10 Europeans now see US as an ally, survey suggests | Nato",
-      "permalink": "/r/europe/comments/1u1sryl/only_one_in_10_europeans_now_see_us_as_an_ally/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/uNscPH35hbeJCgmbJTBtpDy8S3TfRJnlFlsbtBusO54.jpeg?width=640&crop=smart&auto=webp&s=644aa92f3acdb28afa683db4f36584b172a31699",
-      "url": "https://www.reddit.com/r/europe/comments/1u1sryl/only_one_in_10_europeans_now_see_us_as_an_ally/",
-      "created_utc": null
-    },
     {
       "title": "Russia's full-scale invasion of Ukraine has now lasted as long as World War I (1,568 days)",
       "permalink": "/r/europe/comments/1u2bo91/russias_fullscale_invasion_of_ukraine_has_now/",
       "score": null,
       "thumbnail": "https://preview.redd.it/qfbf5dph7i6h1.jpeg?width=640&crop=smart&auto=webp&s=1ee1783c2e253887a57b3282071ca8bd0ff0d3b5",
       "url": "https://www.reddit.com/r/europe/comments/1u2bo91/russias_fullscale_invasion_of_ukraine_has_now/",
+      "created_utc": null
+    },
+    {
+      "title": "Only one in 10 Europeans now see US as an ally, survey suggests | Nato",
+      "permalink": "/r/europe/comments/1u1sryl/only_one_in_10_europeans_now_see_us_as_an_ally/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/uNscPH35hbeJCgmbJTBtpDy8S3TfRJnlFlsbtBusO54.jpeg?width=640&crop=smart&auto=webp&s=644aa92f3acdb28afa683db4f36584b172a31699",
+      "url": "https://www.reddit.com/r/europe/comments/1u1sryl/only_one_in_10_europeans_now_see_us_as_an_ally/",
       "created_utc": null
     },
     {
@@ -85,14 +85,6 @@
   ],
   "technology": [
     {
-      "title": "URGENT: We’re one bad D.C. deal away from the era of online government censorship.",
-      "permalink": "/r/technology/comments/1u1odc2/urgent_were_one_bad_dc_deal_away_from_the_era_of/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/PDoNFlUSkXq-e-pQkT8B60y1sWO-bzMZi6DIjeXLK6A.jpeg?width=640&crop=smart&auto=webp&s=267c271daf134da0a19aa50b26a39eb54466b0f1",
-      "url": "https://www.reddit.com/r/technology/comments/1u1odc2/urgent_were_one_bad_dc_deal_away_from_the_era_of/",
-      "created_utc": null
-    },
-    {
       "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
       "permalink": "/r/technology/comments/1u28nhm/nobody_needs_ai_to_search_the_internet_court_says/",
       "score": null,
@@ -109,6 +101,14 @@
       "created_utc": null
     },
     {
+      "title": "College students are rapidly losing the ability to read — “There is a measurable, generational collapse in sustained reading and writing”: professor",
+      "permalink": "/r/technology/comments/1u2i8zx/college_students_are_rapidly_losing_the_ability/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/qIQSQ8A82oFPcvmq3iMqH-cGq7dSa4KuP-2mTwBMYzc.jpeg?width=640&crop=smart&auto=webp&s=480743b1f69a1c4c754ffed5395a98875fda5d97",
+      "url": "https://www.reddit.com/r/technology/comments/1u2i8zx/college_students_are_rapidly_losing_the_ability/",
+      "created_utc": null
+    },
+    {
       "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
       "permalink": "/r/technology/comments/1u20s8a/one_day_after_discovery_meta_pulls_facial/",
       "score": null,
@@ -117,11 +117,11 @@
       "created_utc": null
     },
     {
-      "title": "\"Scammers have adapted\": Valve confirms that physical Steam Gift Cards are dead. Once the current stocks are sold through, they're done.",
-      "permalink": "/r/technology/comments/1u1z5ta/scammers_have_adapted_valve_confirms_that/",
+      "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+      "permalink": "/r/technology/comments/1u2jt3g/landmark_german_ruling_declares_googles_ai/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/Txf92fE4uuccNODDiT-5ttt_SeHmuPf6oaBhVHJZGJo.jpeg?width=640&crop=smart&auto=webp&s=003867267c1c3c27c9530483ea5eb2f2e6f875ef",
-      "url": "https://www.reddit.com/r/technology/comments/1u1z5ta/scammers_have_adapted_valve_confirms_that/",
+      "thumbnail": "https://external-preview.redd.it/86MDMVUeSxPOPMPs2t9ot23CgKm0FtwYZ7FQVcXgo4A.png?width=640&crop=smart&auto=webp&s=ebc4289b05e0281e512813fc7f5fed82e0ee52bc",
+      "url": "https://www.reddit.com/r/technology/comments/1u2jt3g/landmark_german_ruling_declares_googles_ai/",
       "created_utc": null
     }
   ],
@@ -132,14 +132,6 @@
       "score": null,
       "thumbnail": "https://external-preview.redd.it/oyu--cdAAgy5mvMeY3B4dlvu_pqdLcmF2dDbYIFGaF0.jpeg?width=640&crop=smart&auto=webp&s=8676391745e0dc09ea77e1bc7f8065dbbf2d9793",
       "url": "https://www.reddit.com/r/gamingnews/comments/1u1x1tl/path_of_exile_2_player_carn_willingly_deletes/",
-      "created_utc": null
-    },
-    {
-      "title": "Xbox Is Unable to Meet Demand for New Consoles, Rethinking Approach to Project Helix",
-      "permalink": "/r/gamingnews/comments/1u1q4lk/xbox_is_unable_to_meet_demand_for_new_consoles/",
-      "score": null,
-      "thumbnail": "https://external-preview.redd.it/YKLD4HI6Cc5jBSE4NfnCbxG0vFpGP-sGnD5R6ZbbBwo.jpeg?width=640&crop=smart&auto=webp&s=d2f1b0bd93507373b691c51764031336c676d41e",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1u1q4lk/xbox_is_unable_to_meet_demand_for_new_consoles/",
       "created_utc": null
     },
     {
@@ -159,29 +151,37 @@
       "created_utc": null
     },
     {
-      "title": "Lords of the Fallen II - Platform Announcement Trailer - Wishlist on Steam, PS5, Xbox X|S and Epic",
-      "permalink": "/r/gamingnews/comments/1u1s08l/lords_of_the_fallen_ii_platform_announcement/",
+      "title": "Roblox wants deluge of child sex abuse cases moved out of court",
+      "permalink": "/r/gamingnews/comments/1u2k1qp/roblox_wants_deluge_of_child_sex_abuse_cases/",
       "score": null,
-      "thumbnail": "https://external-preview.redd.it/8TUavvVBTKKK5Xh1S8WM684muAicvvNzeHiMJ0NF_dw.jpeg?width=320&crop=smart&auto=webp&s=3953aac0d80e8149c452f5c0d334003c4b12a187",
-      "url": "https://www.reddit.com/r/gamingnews/comments/1u1s08l/lords_of_the_fallen_ii_platform_announcement/",
+      "thumbnail": "https://external-preview.redd.it/GbqoPuhs59nNOZi56CzCIxo8_zNEbJZTmU5yEsSMtUY.jpeg?width=320&crop=smart&auto=webp&s=c4654168d8d571c4eb449f94e0e56a5976520814",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1u2k1qp/roblox_wants_deluge_of_child_sex_abuse_cases/",
+      "created_utc": null
+    },
+    {
+      "title": "Fire Emblem: Fortune’s Weave priced $70 digital, $80 physical",
+      "permalink": "/r/gamingnews/comments/1u2mnq4/fire_emblem_fortunes_weave_priced_70_digital_80/",
+      "score": null,
+      "thumbnail": "https://external-preview.redd.it/lIUfU_I01ogUIuXt__qBqPxEWViwnGhbK93BGZ4xSfg.png?width=640&crop=smart&auto=webp&s=2fa1b7d5565b92188fc5d45c1adf3862fa556aa5",
+      "url": "https://www.reddit.com/r/gamingnews/comments/1u2mnq4/fire_emblem_fortunes_weave_priced_70_digital_80/",
       "created_utc": null
     }
   ],
   "programming": [
-    {
-      "title": "The unwritten laws of software engineering",
-      "permalink": "/r/programming/comments/1u28egw/the_unwritten_laws_of_software_engineering/",
-      "score": null,
-      "thumbnail": "",
-      "url": "https://www.reddit.com/r/programming/comments/1u28egw/the_unwritten_laws_of_software_engineering/",
-      "created_utc": null
-    },
     {
       "title": "C3 0.8.1 released: Raiding the stdlib for bugs",
       "permalink": "/r/programming/comments/1u29255/c3_081_released_raiding_the_stdlib_for_bugs/",
       "score": null,
       "thumbnail": "",
       "url": "https://www.reddit.com/r/programming/comments/1u29255/c3_081_released_raiding_the_stdlib_for_bugs/",
+      "created_utc": null
+    },
+    {
+      "title": "JEP 401 being merged into JDK 28?",
+      "permalink": "/r/programming/comments/1u2mue3/jep_401_being_merged_into_jdk_28/",
+      "score": null,
+      "thumbnail": "",
+      "url": "https://www.reddit.com/r/programming/comments/1u2mue3/jep_401_being_merged_into_jdk_28/",
       "created_utc": null
     },
     {
@@ -201,5 +201,5 @@
       "created_utc": null
     }
   ],
-  "generated_at": "2026-06-10T22:09:02.099Z"
+  "generated_at": "2026-06-11T04:39:07.168Z"
 }
